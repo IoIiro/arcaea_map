@@ -1,0 +1,130 @@
+{
+ "map_id": "tempestissimo",
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 5,
+ "available_from": -1,
+ "available_to": 9999999999999,
+ "is_repeatable": false,
+ "require_id": "vs",
+ "require_type": "pack",
+ "require_localunlock_challengeid": "tempestissimo",
+ "is_legacy": true,
+ "stamina_cost": 1,
+ "coordinate": "-150,200",
+ "step_count": 16,
+ "custom_bg": "",
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [
+  {
+   "type": "pack",
+   "id": "vs"
+  }
+ ],
+ "curr_position": 0,
+ "curr_capture": 0,
+ "is_locked": false,
+ "steps": [
+  {
+   "position": 0,
+   "capture": 50,
+   "restrict_type": "song_id",
+   "restrict_id": "tempestissimo"
+  },
+  {
+   "position": 1,
+   "capture": 50,
+   "restrict_type": "pack_id",
+   "restrict_id": "vs"
+  },
+  {
+   "position": 2,
+   "capture": 50,
+   "restrict_type": "pack_id",
+   "restrict_id": "vs",
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 3,
+   "capture": 1,
+   "items": [
+    {
+        "id": "35",
+        "type": "character"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "capture": 1
+  },
+  {
+   "position": 5,
+   "capture": 1
+  },
+  {
+   "position": 6,
+   "capture": 10,
+   "restrict_type": "pack_id",
+   "restrict_id": "vs"
+  },
+  {
+   "position": 7,
+   "capture": 20
+  },
+  {
+   "position": 8,
+   "capture": 30
+  },
+  {
+   "position": 9,
+   "capture": 40,
+   "restrict_type": "pack_id",
+   "restrict_id": "vs",
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 10,
+   "capture": 50
+  },
+  {
+   "position": 11,
+   "capture": 60,
+   "restrict_type": "pack_id",
+   "restrict_id": "vs"
+  },
+  {
+   "position": 12,
+   "capture": 70
+  },
+  {
+   "position": 13,
+   "capture": 80
+  },
+  {
+   "position": 14,
+   "capture": 90,
+   "restrict_type": "pack_id",
+   "restrict_id": "vs",
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 15,
+   "capture": 0,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 1000
+    }
+   ]
+  }
+ ]
+}

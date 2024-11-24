@@ -1,0 +1,170 @@
+{
+ "map_id": "chapter_3_scenery",
+ "is_legacy": false,
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 3,
+ "available_from": -1,
+ "available_to": 9999999999999,
+ "is_repeatable": true,
+ "require_id": "",
+ "require_type": "chapter_step",
+ "require_value": 205,
+ "coordinate": "160,-180",
+ "step_count": 17,
+ "custom_bg": "",
+ "stamina_cost": 2,
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [
+  {
+   "value": 205,
+   "type": "chapter_step",
+   "id": ""
+  }
+ ],
+ "curr_position": 7,
+ "curr_capture": 5.087235938016747,
+ "is_locked": false,
+ "steps": [
+  {
+   "position": 0,
+   "capture": 10
+  },
+  {
+   "position": 1,
+   "capture": 10
+  },
+  {
+   "position": 2,
+   "capture": 10
+  },
+  {
+   "position": 3,
+   "restrict_type": "song_id",
+   "restrict_ids": [
+    "suomi",
+    "rugie",
+    "bookmaker",
+    "darakunosono",
+    "espebranch",
+    "nhelv"
+   ],
+   "capture": 10
+  },
+  {
+   "position": 4,
+   "restrict_type": "song_id",
+   "restrict_ids": [
+    "suomi",
+    "rugie",
+    "bookmaker",
+    "darakunosono",
+    "espebranch",
+    "nhelv"
+   ],
+   "capture": 10
+  },
+  {
+   "position": 5,
+   "capture": 1,
+   "items": [
+    {
+     "type": "world_unlock",
+     "id": "scenery_chap3"
+    }
+   ]
+  },
+  {
+   "position": 6,
+   "capture": 20
+  },
+  {
+   "position": 7,
+   "capture": 20
+  },
+  {
+   "position": 8,
+   "restrict_type": "song_id",
+   "restrict_ids": [
+    "suomi",
+    "rugie",
+    "bookmaker",
+    "darakunosono",
+    "espebranch",
+    "nhelv"
+   ],
+   "capture": 20
+  },
+  {
+   "position": 9,
+   "restrict_type": "song_id",
+   "restrict_ids": [
+    "suomi",
+    "rugie",
+    "bookmaker",
+    "darakunosono",
+    "espebranch",
+    "nhelv"
+   ],
+   "capture": 20
+  },
+  {
+   "position": 10,
+   "capture": 1
+  },
+  {
+   "position": 11,
+   "capture": 30
+  },
+  {
+   "position": 12,
+   "capture": 30
+  },
+  {
+   "position": 13,
+   "restrict_type": "song_id",
+   "restrict_ids": [
+    "suomi",
+    "rugie",
+    "bookmaker",
+    "darakunosono",
+    "espebranch",
+    "nhelv"
+   ],
+   "capture": 30
+  },
+  {
+   "position": 14,
+   "restrict_type": "song_id",
+   "restrict_ids": [
+    "suomi",
+    "rugie",
+    "bookmaker",
+    "darakunosono",
+    "espebranch",
+    "nhelv"
+   ],
+   "capture": 30
+  },
+  {
+   "position": 15,
+   "plus_stamina_value": 4,
+   "step_type": [
+    "plusstamina"
+   ],
+   "capture": 1
+  },
+  {
+   "position": 16,
+   "capture": 0,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 400
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "map_id": "chapter_5_scenery",
+ "is_legacy": false,
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 5,
+ "available_from": -1,
+ "available_to": 9999999999999,
+ "is_repeatable": true,
+ "require_id": "",
+ "require_type": "chapter_step",
+ "require_value": 75,
+ "coordinate": "0,-200",
+ "step_count": 31,
+ "custom_bg": "",
+ "stamina_cost": 2,
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [
+  {
+   "value": 75,
+   "type": "chapter_step",
+   "id": ""
+  }
+ ],
+ "curr_position": 0,
+ "curr_capture": 0,
+ "is_locked": true,
+ "steps": [
+  {
+   "position": 0,
+   "capture": 1
+  },
+  {
+   "position": 1,
+   "capture": 2
+  },
+  {
+   "position": 2,
+   "capture": 3
+  },
+  {
+   "position": 3,
+   "capture": 4,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 4,
+   "capture": 5,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 5,
+   "capture": 10,
+   "items": [
+    {
+        "type": "world_unlock",
+        "id": "scenery_chap5"
+    }
+   ]
+  },
+  {
+   "position": 6,
+   "capture": 9
+  },
+  {
+   "position": 7,
+   "capture": 8
+  },
+  {
+   "position": 8,
+   "capture": 7,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 9,
+   "capture": 6,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 10,
+   "capture": 6,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 250
+    }
+   ]
+  },
+  {
+   "position": 11,
+   "capture": 7
+  },
+  {
+   "position": 12,
+   "capture": 8
+  },
+  {
+   "position": 13,
+   "capture": 9,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 14,
+   "capture": 10,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 15,
+   "capture": 20
+  },
+  {
+   "position": 16,
+   "capture": 19
+  },
+  {
+   "position": 17,
+   "capture": 18
+  },
+  {
+   "position": 18,
+   "capture": 17,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 19,
+   "capture": 16,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 20,
+   "capture": 16,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 250
+    }
+   ]
+  },
+  {
+   "position": 21,
+   "capture": 17
+  },
+  {
+   "position": 22,
+   "capture": 18
+  },
+  {
+   "position": 23,
+   "capture": 19,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 24,
+   "capture": 20,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 25,
+   "capture": 40
+  },
+  {
+   "position": 26,
+   "capture": 39
+  },
+  {
+   "position": 27,
+   "capture": 38
+  },
+  {
+   "position": 28,
+   "capture": 37,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 29,
+   "capture": 36,
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 30,
+   "capture": 0,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 500
+    }
+   ]
+  }
+ ]
+}

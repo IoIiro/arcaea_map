@@ -1,0 +1,146 @@
+{
+ "map_id": "musedash",
+ "is_legacy": false,
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 6,
+ "available_from": -1,
+ "available_to": 9999999999999,
+ "is_repeatable": false,
+ "require_id": "musedash",
+ "require_type": "pack",
+ "coordinate": "100,-183",
+ "step_count": 17,
+ "custom_bg": "",
+ "stamina_cost": 2,
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [
+  {
+   "type": "pack",
+   "id": "musedash"
+  }
+ ],
+ "curr_position": 0,
+ "curr_capture": 0,
+ "is_locked": true,
+ "steps": [
+  {
+   "position": 0,
+   "capture": 13
+  },
+  {
+   "position": 1,
+   "capture": 21
+  },
+  {
+   "position": 2,
+   "capture": 19,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 150
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "capture": 5,
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 2
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "capture": 4,
+   "restrict_type": "pack_id",
+   "restrict_id": "musedash"
+  },
+  {
+   "position": 5,
+   "capture": 1,
+   "restrict_type": "pack_id",
+   "restrict_id": "musedash"
+  },
+  {
+   "position": 6,
+   "capture": 19,
+   "restrict_type": "pack_id",
+   "restrict_id": "musedash"
+  },
+  {
+   "position": 7,
+   "capture": 8,
+   "restrict_type": "pack_id",
+   "restrict_id": "musedash"
+  },
+  {
+   "position": 8,
+   "capture": 13
+  },
+  {
+   "position": 9,
+   "capture": 21
+  },
+  {
+   "position": 10,
+   "capture": 19,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 150
+    }
+   ]
+  },
+  {
+   "position": 11,
+   "capture": 5,
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 2
+    }
+   ]
+  },
+  {
+   "position": 12,
+   "capture": 4,
+   "restrict_type": "pack_id",
+   "restrict_id": "musedash"
+  },
+  {
+   "position": 13,
+   "capture": 1,
+   "restrict_type": "pack_id",
+   "restrict_id": "musedash"
+  },
+  {
+   "position": 14,
+   "capture": 19,
+   "restrict_type": "pack_id",
+   "restrict_id": "musedash"
+  },
+  {
+   "position": 15,
+   "capture": 8,
+   "restrict_type": "pack_id",
+   "restrict_id": "musedash"
+  },
+  {
+   "position": 16,
+   "capture": 0,
+   "items": [
+    {
+     "id": "53",
+     "type": "character"
+    }
+   ]
+  }
+ ]
+}

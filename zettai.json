@@ -1,0 +1,280 @@
+{
+ "map_id": "zettai",
+ "is_legacy": false,
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 4,
+ "available_from": -1,
+ "available_to": 2106124800000,
+ "is_repeatable": false,
+ "coordinate": "-100,115",
+ "step_count": 26,
+ "custom_bg": "",
+ "stamina_cost": 2,
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [],
+ "requires_any": [
+  {
+   "type": "pack",
+   "id": "zettai"
+  },
+  {
+   "type": "pack",
+   "id": "nihil"
+  }
+ ],
+ "curr_position": 11,
+ "curr_capture": 6.039961047242528,
+ "is_locked": false,
+ "rewards": [
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 100
+    }
+   ],
+   "position": 5
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 100
+    }
+   ],
+   "position": 10
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 100
+    }
+   ],
+   "position": 15
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 100
+    }
+   ],
+   "position": 20
+  },
+  {
+   "items": [
+    {
+     "id": "23",
+     "type": "character"
+    }
+   ],
+   "position": 25
+  }
+ ],
+ "steps": [
+  {
+   "position": 0,
+   "__v": 0,
+   "capture": 10
+  },
+  {
+   "position": 1,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "antithese",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 2,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "antithese",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 3,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "antithese",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 4,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "antithese",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 5,
+   "__v": 0,
+   "capture": 10,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 100
+    }
+   ]
+  },
+  {
+   "position": 6,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "blackterritory",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 7,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "blackterritory",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 8,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "blackterritory",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 9,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "blackterritory",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 10,
+   "__v": 0,
+   "capture": 10,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 100
+    }
+   ]
+  },
+  {
+   "position": 11,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "corruption",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 12,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "corruption",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 13,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "corruption",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 14,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "corruption",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 15,
+   "__v": 0,
+   "capture": 10,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 100
+    }
+   ]
+  },
+  {
+   "position": 16,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "viciousheroism",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 17,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "viciousheroism",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 18,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "viciousheroism",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 19,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "viciousheroism",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 20,
+   "__v": 0,
+   "capture": 10,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 100
+    }
+   ]
+  },
+  {
+   "position": 21,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "cyaegha",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 22,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "cyaegha",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 23,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "cyaegha",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 24,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "cyaegha",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 25,
+   "__v": 0,
+   "capture": 0,
+   "items": [
+    {
+     "id": "23",
+     "type": "character"
+    }
+   ]
+  }
+ ]
+}

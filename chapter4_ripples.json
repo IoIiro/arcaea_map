@@ -1,0 +1,480 @@
+{
+ "map_id": "chapter4_ripples",
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 4,
+ "available_from": -1,
+ "available_to": 2106124800000,
+ "is_repeatable": false,
+ "require_id": "",
+ "require_type": "fragment",
+ "require_value": 200,
+ "is_legacy": true,
+ "stamina_cost": 1,
+ "coordinate": "-280,-150",
+ "step_count": 81,
+ "custom_bg": "",
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [
+  {
+   "value": 200,
+   "type": "fragment",
+   "id": ""
+  }
+ ],
+ "curr_position": 15,
+ "curr_capture": 8.630697216374259,
+ "is_locked": false,
+ "rewards": [
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 170
+    }
+   ],
+   "position": 4
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 170
+    }
+   ],
+   "position": 12
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ],
+   "position": 16
+  },
+  {
+   "items": [
+    {
+     "id": "vector",
+     "type": "world_song"
+    }
+   ],
+   "position": 20
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 190
+    }
+   ],
+   "position": 26
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 190
+    }
+   ],
+   "position": 42
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ],
+   "position": 46
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 3
+    }
+   ],
+   "position": 50
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 210
+    }
+   ],
+   "position": 56
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 210
+    }
+   ],
+   "position": 72
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ],
+   "position": 76
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_course_skip_purchase",
+     "amount": 1
+    }
+   ],
+   "position": 80
+  }
+ ],
+ "steps": [
+  {
+   "position": 0,
+   "__v": 0,
+   "capture": 13
+  },
+  {
+   "position": 1,
+   "__v": 0,
+   "capture": 14
+  },
+  {
+   "position": 2,
+   "__v": 0,
+   "capture": 15
+  },
+  {
+   "position": 3,
+   "__v": 0,
+   "capture": 16
+  },
+  {
+   "position": 4,
+   "__v": 0,
+   "capture": 17,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 170
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "__v": 0,
+   "capture": 16,
+   "restrict_id": "base",
+   "restrict_type": "pack_id"
+  },
+  {
+   "position": 6,
+   "__v": 0,
+   "capture": 15,
+   "restrict_id": "base",
+   "restrict_type": "pack_id"
+  },
+  {
+   "position": 7,
+   "__v": 0,
+   "capture": 14,
+   "restrict_id": "base",
+   "restrict_type": "pack_id"
+  },
+  {
+   "position": 8,
+   "__v": 0,
+   "capture": 13
+  },
+  {
+   "position": 9,
+   "__v": 0,
+   "capture": 14
+  },
+  {
+   "position": 10,
+   "__v": 0,
+   "capture": 15
+  },
+  {
+   "position": 11,
+   "__v": 0,
+   "capture": 16
+  },
+  {
+   "position": 12,
+   "__v": 0,
+   "capture": 17,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 170
+    }
+   ]
+  },
+  {
+   "position": 13,
+   "__v": 0,
+   "capture": 16,
+   "restrict_id": "base",
+   "restrict_type": "pack_id"
+  },
+  {
+   "position": 14,
+   "__v": 0,
+   "capture": 15,
+   "restrict_id": "base",
+   "restrict_type": "pack_id"
+  },
+  {
+   "position": 15,
+   "__v": 0,
+   "capture": 14,
+   "restrict_id": "base",
+   "restrict_type": "pack_id"
+  },
+  {
+   "position": 16,
+   "__v": 0,
+   "capture": 13,
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ]
+  },
+  {
+   "position": 17,
+   "__v": 0,
+   "capture": 14
+  },
+  {
+   "position": 18,
+   "__v": 0,
+   "capture": 15
+  },
+  {
+   "position": 19,
+   "__v": 0,
+   "capture": 16
+  },
+  {
+   "position": 20,
+   "__v": 0,
+   "capture": 17,
+   "items": [
+    {
+     "id": "grimheart",
+     "type": "world_song"
+    }
+   ]
+  },
+  {
+   "position": 21,
+   "__v": 0,
+   "capture": 16
+  },
+  {
+   "position": 22,
+   "__v": 0,
+   "capture": 15
+  },
+  {
+   "position": 23,
+   "__v": 0,
+   "capture": 16
+  },
+  {
+   "position": 24,
+   "__v": 0,
+   "capture": 17
+  },
+  {
+   "position": 25,
+   "__v": 0,
+   "capture": 18
+  },
+  {
+   "position": 26,
+   "__v": 0,
+   "capture": 19,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 190
+    }
+   ]
+  },
+  {
+   "position": 27,
+   "__v": 0,
+   "capture": 18,
+   "restrict_id": "grimheart",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 28,
+   "__v": 0,
+   "capture": 17,
+   "restrict_id": "grimheart",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 29,
+   "__v": 0,
+   "capture": 16,
+   "restrict_id": "grimheart",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 30,
+   "__v": 0,
+   "capture": 15
+  },
+  {
+   "position": 31,
+   "__v": 0,
+   "capture": 16
+  },
+  {
+   "position": 32,
+   "__v": 0,
+   "capture": 17
+  },
+  {
+   "position": 33,
+   "__v": 0,
+   "capture": 18
+  },
+  {
+   "position": 34,
+   "__v": 0,
+   "capture": 19,
+   "step_type": [
+    "plusstamina"
+   ],
+   "plus_stamina_value": 2
+  },
+  {
+   "position": 35,
+   "__v": 0,
+   "capture": 18
+  },
+  {
+   "position": 36,
+   "__v": 0,
+   "capture": 17
+  },
+  {
+   "position": 37,
+   "__v": 0,
+   "capture": 16
+  },
+  {
+   "position": 38,
+   "__v": 0,
+   "capture": 15
+  },
+  {
+   "position": 39,
+   "__v": 0,
+   "capture": 16
+  },
+  {
+   "position": 40,
+   "__v": 0,
+   "capture": 17
+  },
+  {
+   "position": 41,
+   "__v": 0,
+   "capture": 18
+  },
+  {
+   "position": 42,
+   "__v": 0,
+   "capture": 19,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 190
+    }
+   ]
+  },
+  {
+   "position": 43,
+   "__v": 0,
+   "capture": 18,
+   "restrict_id": "grimheart",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 44,
+   "__v": 0,
+   "capture": 17,
+   "restrict_id": "grimheart",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 45,
+   "__v": 0,
+   "capture": 16,
+   "restrict_id": "grimheart",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 46,
+   "__v": 0,
+   "capture": 15,
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ]
+  },
+  {
+   "position": 47,
+   "__v": 0,
+   "capture": 16
+  },
+  {
+   "position": 48,
+   "__v": 0,
+   "capture": 17
+  },
+  {
+   "position": 49,
+   "__v": 0,
+   "capture": 18
+  },
+  {
+   "position": 50,
+   "__v": 0,
+   "capture": 0,
+   "items": [
+    {
+     "id": "vector",
+     "type": "world_song"
+    }
+   ]
+  }
+ ]
+}

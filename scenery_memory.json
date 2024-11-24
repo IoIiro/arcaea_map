@@ -1,0 +1,102 @@
+{
+ "map_id": "scenery_memory",
+ "is_legacy": false,
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 7,
+ "available_from": -1,
+ "available_to": 9999999999999,
+ "is_repeatable": false,
+ "require_id": "",
+ "require_type": "chapter_step",
+ "require_value": 240,
+ "coordinate": "285,0",
+ "step_count": 7,
+ "custom_bg": "",
+ "stamina_cost": 2,
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [
+  {
+   "value": 240,
+   "type": "chapter_step",
+   "id": ""
+  }
+ ],
+ "curr_position": 0,
+ "curr_capture": 0,
+ "is_locked": true,
+ "steps": [
+  {
+   "position": 0,
+   "capture": 6,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 1
+    }
+   ]
+  },
+  {
+   "position": 1,
+   "capture": 10,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 2
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "capture": 1,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 3
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "capture": 10,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 4
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "capture": 10,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 5
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "capture": 24,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 6
+    }
+   ]
+  },
+  {
+   "position": 6,
+   "capture": 0,
+   "items": [
+    {
+     "type": "world_unlock",
+     "id": "scenery_chap7"
+    }
+   ]
+  }
+ ]
+}

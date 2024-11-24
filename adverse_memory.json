@@ -1,0 +1,148 @@
+{
+ "map_id": "adverse_memory",
+ "is_legacy": false,
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 7,
+ "available_from": -1,
+ "available_to": 9999999999999,
+ "is_repeatable": false,
+ "require_id": "prelude",
+ "require_type": "pack",
+ "coordinate": "300,-160",
+ "step_count": 17,
+ "custom_bg": "",
+ "stamina_cost": 2,
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [
+  {
+   "type": "pack",
+   "id": "prelude"
+  }
+ ],
+ "curr_position": 0,
+ "curr_capture": 0,
+ "is_locked": false,
+ "steps": [
+  {
+   "position": 0,
+   "restrict_type": "song_id",
+   "restrict_id": "particlearts",
+   "capture": 3
+  },
+  {
+   "position": 1,
+   "restrict_type": "song_id",
+   "restrict_id": "vindication",
+   "capture": 4
+  },
+  {
+   "position": 2,
+   "restrict_type": "song_id",
+   "restrict_id": "heavensdoor",
+   "capture": 4
+  },
+  {
+   "position": 3,
+   "restrict_type": "song_id",
+   "restrict_id": "ringedgenesis",
+   "capture": 5
+  },
+  {
+   "position": 4,
+   "step_type": [
+    "randomsong"
+   ],
+   "restrict_type": "pack_id",
+   "restrict_id": "prelude",
+   "capture": 3
+  },
+  {
+   "position": 5,
+   "restrict_type": "song_id",
+   "restrict_id": "particlearts",
+   "capture": 6
+  },
+  {
+   "position": 6,
+   "restrict_type": "song_id",
+   "restrict_id": "vindication",
+   "capture": 6
+  },
+  {
+   "position": 7,
+   "restrict_type": "song_id",
+   "restrict_id": "heavensdoor",
+   "capture": 7
+  },
+  {
+   "position": 8,
+   "restrict_type": "song_id",
+   "restrict_id": "ringedgenesis",
+   "capture": 8
+  },
+  {
+   "position": 9,
+   "step_type": [
+    "randomsong"
+   ],
+   "restrict_type": "pack_id",
+   "restrict_id": "prelude",
+   "capture": 7
+  },
+  {
+   "position": 10,
+   "restrict_type": "song_id",
+   "restrict_id": "particlearts",
+   "capture": 8
+  },
+  {
+   "position": 11,
+   "restrict_type": "song_id",
+   "restrict_id": "vindication",
+   "capture": 9
+  },
+  {
+   "position": 12,
+   "restrict_type": "song_id",
+   "restrict_id": "heavensdoor",
+   "capture": 9
+  },
+  {
+   "position": 13,
+   "restrict_type": "song_id",
+   "restrict_id": "ringedgenesis",
+   "capture": 10
+  },
+  {
+   "position": 14,
+   "step_type": [
+    "randomsong"
+   ],
+   "restrict_type": "pack_id",
+   "restrict_id": "prelude",
+   "capture": 9
+  },
+  {
+   "position": 15,
+   "plus_stamina_value": 4,
+   "step_type": [
+    "plusstamina"
+   ],
+   "capture": 115
+  },
+  {
+   "position": 16,
+   "capture": 0,
+   "items": [
+    {
+     "type": "core",
+     "id": "core_course_skip_purchase",
+     "amount": 1
+    }
+   ]
+  }
+ ]
+}

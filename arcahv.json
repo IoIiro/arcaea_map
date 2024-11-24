@@ -1,0 +1,52 @@
+{
+ "map_id": "arcahv",
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 5,
+ "available_from": -1,
+ "available_to": 9999999999999,
+ "is_repeatable": false,
+ "require_id": "vs",
+ "require_type": "pack",
+ "require_localunlock_challengeid": "tempestissimo",
+ "is_legacy": true,
+ "stamina_cost": 1,
+ "coordinate": "150,200",
+ "step_count": 3,
+ "custom_bg": "",
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [
+  {
+   "type": "pack",
+   "id": "vs"
+  }
+ ],
+ "curr_position": 0,
+ "curr_capture": 0,
+ "is_locked": false,
+ "steps": [
+  {
+   "position": 0,
+   "capture": 0,
+   "restrict_type": "song_id",
+   "restrict_id": "tempestissimo"
+  },
+  {
+   "position": 1,
+   "capture": 1
+  },
+  {
+   "position": 2,
+   "capture": 0,
+   "items": [
+    {
+     "type": "world_song",
+     "amount": 1,
+     "id": "arcahv"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "map_id": "blrink",
+ "is_legacy": false,
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 5,
+ "available_from": -1,
+ "available_to": 9999999999999,
+ "is_repeatable": false,
+ "require_id": "prelude",
+ "require_type": "pack",
+ "coordinate": "250,0",
+ "step_count": 17,
+ "custom_bg": "",
+ "stamina_cost": 2,
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [
+  {
+   "type": "pack",
+   "id": "prelude"
+  }
+ ],
+ "curr_position": 0,
+ "curr_capture": 0,
+ "is_locked": true,
+ "rewards": [
+  {
+   "items": [
+    {
+     "id": "blrink",
+     "type": "world_song"
+    }
+   ],
+   "position": 16
+  }
+ ],
+ "steps": [
+  {
+   "position": 0,
+   "__v": 0,
+   "capture": 3,
+   "restrict_id": "particlearts",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 1,
+   "__v": 0,
+   "capture": 4,
+   "restrict_id": "vindication",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 2,
+   "__v": 0,
+   "capture": 4,
+   "restrict_id": "heavensdoor",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 3,
+   "__v": 0,
+   "capture": 5,
+   "restrict_id": "ringedgenesis",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 4,
+   "__v": 0,
+   "capture": 3,
+   "restrict_id": "prelude",
+   "restrict_type": "pack_id",
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 5,
+   "__v": 0,
+   "capture": 6,
+   "restrict_id": "particlearts",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 6,
+   "__v": 0,
+   "capture": 6,
+   "restrict_id": "vindication",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 7,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "heavensdoor",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 8,
+   "__v": 0,
+   "capture": 8,
+   "restrict_id": "ringedgenesis",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 9,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "prelude",
+   "restrict_type": "pack_id",
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 10,
+   "__v": 0,
+   "capture": 8,
+   "restrict_id": "particlearts",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 11,
+   "__v": 0,
+   "capture": 9,
+   "restrict_id": "vindication",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 12,
+   "__v": 0,
+   "capture": 9,
+   "restrict_id": "heavensdoor",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 13,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "ringedgenesis",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 14,
+   "__v": 0,
+   "capture": 9,
+   "restrict_id": "prelude",
+   "restrict_type": "pack_id",
+   "step_type": [
+    "randomsong"
+   ]
+  },
+  {
+   "position": 15,
+   "__v": 0,
+   "capture": 115,
+   "step_type": [
+    "plusstamina"
+   ],
+   "plus_stamina_value": 4
+  },
+  {
+   "position": 16,
+   "__v": 0,
+   "capture": 0,
+   "items": [
+    {
+     "id": "blrink",
+     "type": "world_song"
+    }
+   ]
+  }
+ ]
+}

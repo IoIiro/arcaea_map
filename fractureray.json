@@ -1,0 +1,308 @@
+{
+ "map_id": "fractureray",
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 3,
+ "available_from": -1,
+ "available_to": 2106124800000,
+ "is_repeatable": false,
+ "require_id": "rei",
+ "require_type": "pack",
+ "require_localunlock_songid": "fractureray",
+ "is_legacy": true,
+ "stamina_cost": 1,
+ "coordinate": "0,160",
+ "step_count": 23,
+ "custom_bg": "",
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [
+  {
+   "type": "pack",
+   "id": "rei"
+  }
+ ],
+ "curr_position": 22,
+ "curr_capture": 0,
+ "is_locked": false,
+ "rewards": [
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 150
+    }
+   ],
+   "position": 13
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ],
+   "position": 14
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 250
+    }
+   ],
+   "position": 16
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ],
+   "position": 17
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 350
+    }
+   ],
+   "position": 19
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ],
+   "position": 20
+  },
+  {
+   "items": [
+    {
+     "id": "15",
+     "type": "character"
+    }
+   ],
+   "position": 22
+  }
+ ],
+ "steps": [
+  {
+   "position": 0,
+   "__v": 0,
+   "capture": 1,
+   "restrict_id": "fractureray",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 1,
+   "__v": 0,
+   "capture": 2,
+   "restrict_id": "etherstrike",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 2,
+   "__v": 0,
+   "capture": 3,
+   "restrict_id": "halcyon",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 3,
+   "__v": 0,
+   "capture": 4,
+   "restrict_id": "sulfur",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 4,
+   "__v": 0,
+   "capture": 5,
+   "restrict_id": "themessage",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 5,
+   "__v": 0,
+   "capture": 6,
+   "restrict_id": "mazenine",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 6,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "mazenine",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 7,
+   "__v": 0,
+   "capture": 8,
+   "restrict_id": "themessage",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 8,
+   "__v": 0,
+   "capture": 9,
+   "restrict_id": "sulfur",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 9,
+   "__v": 0,
+   "capture": 10,
+   "restrict_id": "halcyon",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 10,
+   "__v": 0,
+   "capture": 15,
+   "restrict_id": "etherstrike",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 11,
+   "__v": 0,
+   "capture": 20,
+   "restrict_id": "fractureray",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 12,
+   "__v": 0,
+   "capture": 25,
+   "step_type": [
+    "plusstamina"
+   ],
+   "plus_stamina_value": 2
+  },
+  {
+   "position": 13,
+   "__v": 0,
+   "capture": 30,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 150
+    }
+   ]
+  },
+  {
+   "position": 14,
+   "__v": 0,
+   "capture": 35,
+   "restrict_id": "rei",
+   "restrict_type": "pack_id",
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ]
+  },
+  {
+   "position": 15,
+   "__v": 0,
+   "capture": 40,
+   "step_type": [
+    "plusstamina"
+   ],
+   "plus_stamina_value": 2
+  },
+  {
+   "position": 16,
+   "__v": 0,
+   "capture": 45,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 250
+    }
+   ]
+  },
+  {
+   "position": 17,
+   "__v": 0,
+   "capture": 50,
+   "restrict_id": "rei",
+   "restrict_type": "pack_id",
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ]
+  },
+  {
+   "position": 18,
+   "__v": 0,
+   "capture": 55,
+   "step_type": [
+    "plusstamina"
+   ],
+   "plus_stamina_value": 2
+  },
+  {
+   "position": 19,
+   "__v": 0,
+   "capture": 60,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 350
+    }
+   ]
+  },
+  {
+   "position": 20,
+   "__v": 0,
+   "capture": 65,
+   "restrict_id": "rei",
+   "restrict_type": "pack_id",
+   "step_type": [
+    "randomsong"
+   ],
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ]
+  },
+  {
+   "position": 21,
+   "__v": 0,
+   "capture": 70,
+   "step_type": [
+    "plusstamina"
+   ],
+   "plus_stamina_value": 2
+  },
+  {
+   "position": 22,
+   "__v": 0,
+   "capture": 0,
+   "items": [
+    {
+     "id": "15",
+     "type": "character"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,809 @@
+{
+ "map_id": "hikari_art",
+ "beyond_health": 100,
+ "character_affinity": [],
+ "affinity_multiplier": [],
+ "chapter": 1,
+ "available_from": -1,
+ "available_to": 2106124800000,
+ "is_repeatable": false,
+ "require_type": "",
+ "require_id": "",
+ "require_value": 1,
+ "is_legacy": true,
+ "stamina_cost": 1,
+ "coordinate": "-270,150",
+ "step_count": 91,
+ "custom_bg": "",
+ "is_breached": false,
+ "disable_over": false,
+ "requires": [],
+ "curr_position": 81,
+ "curr_capture": 115.18480992457444,
+ "is_locked": false,
+ "rewards": [
+  {
+   "items": [
+    {
+     "id": "babaroque",
+     "type": "world_song"
+    }
+   ],
+   "position": 5
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ],
+   "position": 10
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 50
+    }
+   ],
+   "position": 15
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ],
+   "position": 20
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ],
+   "position": 25
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ],
+   "position": 27
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 3
+    }
+   ],
+   "position": 30
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ],
+   "position": 35
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ],
+   "position": 40
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 50
+    }
+   ],
+   "position": 45
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ],
+   "position": 50
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ],
+   "position": 55
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 50
+    }
+   ],
+   "position": 60
+  },
+  {
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ],
+   "position": 65
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ],
+   "position": 70
+  },
+  {
+   "items": [
+    {
+     "id": "kanagawa",
+     "type": "world_song"
+    }
+   ],
+   "position": 75
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_hollow",
+     "amount": 5
+    }
+   ],
+   "position": 80
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_hollow",
+     "amount": 5
+    }
+   ],
+   "position": 85
+  },
+  {
+   "items": [
+    {
+     "type": "core",
+     "id": "core_hollow",
+     "amount": 5
+    }
+   ],
+   "position": 90
+  }
+ ],
+ "steps": [
+  {
+   "position": 0,
+   "__v": 0,
+   "capture": 5
+  },
+  {
+   "position": 1,
+   "__v": 0,
+   "capture": 5
+  },
+  {
+   "position": 2,
+   "__v": 0,
+   "capture": 5
+  },
+  {
+   "position": 3,
+   "__v": 0,
+   "capture": 5
+  },
+  {
+   "position": 4,
+   "__v": 0,
+   "capture": 5
+  },
+  {
+   "position": 5,
+   "__v": 0,
+   "capture": 6,
+   "items": [
+    {
+     "id": "babaroque",
+     "type": "world_song"
+    }
+   ]
+  },
+  {
+   "position": 6,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 7,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 8,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 9,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 10,
+   "__v": 0,
+   "capture": 6,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ]
+  },
+  {
+   "position": 11,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 12,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 13,
+   "__v": 0,
+   "capture": 6,
+   "restrict_id": "babaroque",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 14,
+   "__v": 0,
+   "capture": 6,
+   "restrict_id": "babaroque",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 15,
+   "__v": 0,
+   "capture": 6,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 50
+    }
+   ]
+  },
+  {
+   "position": 16,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 17,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 18,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 19,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 20,
+   "__v": 0,
+   "capture": 6,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ]
+  },
+  {
+   "position": 21,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 22,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 23,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 24,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 25,
+   "__v": 0,
+   "capture": 6,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ]
+  },
+  {
+   "position": 26,
+   "__v": 0,
+   "capture": 6
+  },
+  {
+   "position": 27,
+   "__v": 0,
+   "capture": 6,
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ]
+  },
+  {
+   "position": 28,
+   "__v": 0,
+   "capture": 6,
+   "restrict_id": "babaroque",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 29,
+   "__v": 0,
+   "capture": 6,
+   "restrict_id": "babaroque",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 30,
+   "__v": 0,
+   "capture": 7,
+   "items": [
+    {
+     "id": "shadesoflight",
+     "type": "world_song"
+    }
+   ]
+  },
+  {
+   "position": 31,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 32,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 33,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 34,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 35,
+   "__v": 0,
+   "capture": 7,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ]
+  },
+  {
+   "position": 36,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 37,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 38,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 39,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 40,
+   "__v": 0,
+   "capture": 7,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ]
+  },
+  {
+   "position": 41,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 42,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 43,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "shadesoflight",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 44,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "shadesoflight",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 45,
+   "__v": 0,
+   "capture": 7,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 50
+    }
+   ]
+  },
+  {
+   "position": 46,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 47,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 48,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 49,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 50,
+   "__v": 0,
+   "capture": 7,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ]
+  },
+  {
+   "position": 51,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 52,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 53,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 54,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 55,
+   "__v": 0,
+   "capture": 7,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ]
+  },
+  {
+   "position": 56,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 57,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 58,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "shadesoflight",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 59,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "shadesoflight",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 60,
+   "__v": 0,
+   "capture": 7,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 50
+    }
+   ]
+  },
+  {
+   "position": 61,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 62,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 63,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 64,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 65,
+   "__v": 0,
+   "capture": 7,
+   "items": [
+    {
+     "type": "fragment",
+     "amount": 25
+    }
+   ]
+  },
+  {
+   "position": 66,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 67,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 68,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 69,
+   "__v": 0,
+   "capture": 7
+  },
+  {
+   "position": 70,
+   "__v": 0,
+   "capture": 7,
+   "items": [
+    {
+     "type": "core",
+     "id": "core_generic",
+     "amount": 1
+    }
+   ]
+  },
+  {
+   "position": 71,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "babaroque",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 72,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "babaroque",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 73,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "shadesoflight",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 74,
+   "__v": 0,
+   "capture": 7,
+   "restrict_id": "shadesoflight",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 75,
+   "__v": 0,
+   "capture": 100,
+   "items": [
+    {
+     "id": "kanagawa",
+     "type": "world_song"
+    }
+   ]
+  },
+  {
+   "position": 76,
+   "__v": 0,
+   "capture": 100
+  },
+  {
+   "position": 77,
+   "__v": 0,
+   "capture": 100
+  },
+  {
+   "position": 78,
+   "__v": 0,
+   "capture": 100
+  },
+  {
+   "position": 79,
+   "__v": 0,
+   "capture": 100,
+   "restrict_id": "lucifer",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 80,
+   "__v": 0,
+   "capture": 100,
+   "items": [
+    {
+     "type": "core",
+     "id": "core_hollow",
+     "amount": 5
+    }
+   ]
+  },
+  {
+   "position": 81,
+   "__v": 0,
+   "capture": 150
+  },
+  {
+   "position": 82,
+   "__v": 0,
+   "capture": 150
+  },
+  {
+   "position": 83,
+   "__v": 0,
+   "capture": 150
+  },
+  {
+   "position": 84,
+   "__v": 0,
+   "capture": 150,
+   "restrict_id": "anokumene",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 85,
+   "__v": 0,
+   "capture": 150,
+   "items": [
+    {
+     "type": "core",
+     "id": "core_hollow",
+     "amount": 5
+    }
+   ]
+  },
+  {
+   "position": 86,
+   "__v": 0,
+   "capture": 200
+  },
+  {
+   "position": 87,
+   "__v": 0,
+   "capture": 200
+  },
+  {
+   "position": 88,
+   "__v": 0,
+   "capture": 200
+  },
+  {
+   "position": 89,
+   "__v": 0,
+   "capture": 200,
+   "restrict_id": "ignotus",
+   "restrict_type": "song_id"
+  },
+  {
+   "position": 90,
+   "__v": 0,
+   "capture": 0,
+   "items": [
+    {
+     "type": "core",
+     "id": "core_hollow",
+     "amount": 5
+    }
+   ]
+  }
+ ]
+}
