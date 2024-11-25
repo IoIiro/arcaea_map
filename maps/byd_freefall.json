@@ -1,0 +1,74 @@
+{
+    "map_id": "byd_freefall",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": "freefall2",
+    "require_type": "chart_unlock",
+    "coordinate": "-650,-400",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 250,
+    "character_affinity": [
+        58,
+        30
+    ],
+    "affinity_multiplier": [
+        1.7,
+        3
+    ],
+    "step_count": 4,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "freefall2"
+        }
+    ],
+    "steps": [
+        {
+            "map_id": "byd_freefall",
+            "position": 0,
+            "capture": 1.0714285714285714
+        },
+        {
+            "map_id": "byd_freefall",
+            "position": 1,
+            "capture": 1.0714285714285714,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 1000
+                }
+            ]
+        },
+        {
+            "map_id": "byd_freefall",
+            "position": 2,
+            "capture": 247.85714285714286,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "map_id": "byd_freefall",
+            "position": 3,
+            "capture": 0,
+            "items": [
+                {
+                    "id": "freefall3",
+                    "type": "world_song"
+                }
+            ]
+        }
+    ]
+}

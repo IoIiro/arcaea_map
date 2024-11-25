@@ -1,0 +1,76 @@
+{
+    "map_id": "byd_impact",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": "impact2",
+    "require_type": "chart_unlock",
+    "coordinate": "400,-400",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 250,
+    "character_affinity": [
+        41,
+        66,
+        67
+    ],
+    "affinity_multiplier": [
+        2.2,
+        2.7,
+        2.3
+    ],
+    "step_count": 4,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "impact2"
+        }
+    ],
+    "steps": [
+        {
+            "map_id": "byd_impact",
+            "position": 0,
+            "capture": 248.15789473684208
+        },
+        {
+            "map_id": "byd_impact",
+            "position": 1,
+            "capture": 1.0526315789473684,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 1400
+                }
+            ]
+        },
+        {
+            "map_id": "byd_impact",
+            "position": 2,
+            "capture": 0.7894736842105263,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "map_id": "byd_impact",
+            "position": 3,
+            "capture": 0,
+            "items": [
+                {
+                    "id": "impact3",
+                    "type": "world_song"
+                }
+            ]
+        }
+    ]
+}

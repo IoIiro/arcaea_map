@@ -1,0 +1,87 @@
+{
+    "map_id": "byd_trappola",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": "trappola2",
+    "require_type": "chart_unlock",
+    "coordinate": "-650,400",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 250,
+    "character_affinity": [
+        10,
+        37,
+        7
+    ],
+    "affinity_multiplier": [
+        3,
+        2.7,
+        1.8
+    ],
+    "step_count": 5,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "trappola2"
+        }
+    ],
+    "steps": [
+        {
+            "map_id": "byd_trappola",
+            "position": 0,
+            "capture": 66.05263157894737
+        },
+        {
+            "map_id": "byd_trappola",
+            "position": 1,
+            "capture": 100,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 666
+                }
+            ]
+        },
+        {
+            "map_id": "byd_trappola",
+            "position": 2,
+            "capture": 83.1578947368421,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 666
+                }
+            ]
+        },
+        {
+            "map_id": "byd_trappola",
+            "position": 3,
+            "capture": 0.7894736842105263,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "map_id": "byd_trappola",
+            "position": 4,
+            "capture": 0,
+            "items": [
+                {
+                    "id": "trappola3",
+                    "type": "world_song"
+                }
+            ]
+        }
+    ]
+}
