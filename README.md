@@ -3,4 +3,4 @@ A simple repo that contains .json files, which is used for Lost's Arcaea-server 
 
 Note that all of the maps are still in development, and aren't stable / finished yet. Also, all of the maps are based on the wiki and official server, so there could be mistakes or errors. Please make an issue report if necessary. However, some features are hardcoded, thus making impossible to fix the problem. Others are just due to my laziness and carelessness.
 
-@ariidesu made almost every maps in this repo. Thank you for your efforts!
+@ariidesu (https://github.com/ariidesu) made almost every maps in this repo. Thank you for your efforts!
