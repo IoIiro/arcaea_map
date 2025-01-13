@@ -1,174 +1,162 @@
 {
- "map_id": "final_memory",
- "is_legacy": false,
- "beyond_health": 100,
- "character_affinity": [],
- "affinity_multiplier": [],
- "chapter": 7,
- "available_from": -1,
- "available_to": 9999999999999,
- "is_repeatable": false,
- "require_id": "finale",
- "require_type": "pack",
- "require_localunlock_challengeid": "testify",
- "coordinate": "0,160",
- "step_count": 19,
- "custom_bg": "",
- "stamina_cost": 2,
- "is_breached": false,
- "disable_over": false,
- "requires": [
-  {
-   "type": "pack",
-   "id": "finale"
-  }
- ],
- "curr_position": 9,
- "curr_capture": 7.281437924112581,
- "is_locked": false,
- "steps": [
-  {
-   "position": 0,
-   "restrict_type": "song_id",
-   "restrict_id": "defection",
-   "capture": 9
-  },
-  {
-   "position": 1,
-   "plus_stamina_value": 2,
-   "step_type": [
-    "plusstamina"
-   ],
-   "restrict_type": "song_id",
-   "restrict_id": "defection",
-   "capture": 9
-  },
-  {
-   "position": 2,
-   "restrict_type": "song_id",
-   "restrict_id": "defection",
-   "capture": 9
-  },
-  {
-   "position": 3,
-   "restrict_type": "song_id",
-   "restrict_id": "infinitestrife",
-   "capture": 10
-  },
-  {
-   "position": 4,
-   "plus_stamina_value": 2,
-   "step_type": [
-    "plusstamina"
-   ],
-   "restrict_type": "song_id",
-   "restrict_id": "infinitestrife",
-   "capture": 10
-  },
-  {
-   "position": 5,
-   "restrict_type": "song_id",
-   "restrict_id": "infinitestrife",
-   "capture": 10
-  },
-  {
-   "position": 6,
-   "restrict_type": "song_id",
-   "restrict_id": "worldender",
-   "capture": 11
-  },
-  {
-   "position": 7,
-   "plus_stamina_value": 2,
-   "step_type": [
-    "plusstamina"
-   ],
-   "restrict_type": "song_id",
-   "restrict_id": "worldender",
-   "capture": 11
-  },
-  {
-   "position": 8,
-   "restrict_type": "song_id",
-   "restrict_id": "worldender",
-   "capture": 11
-  },
-  {
-   "position": 9,
-   "restrict_type": "song_id",
-   "restrict_id": "pentiment",
-   "capture": 11
-  },
-  {
-   "position": 10,
-   "plus_stamina_value": 2,
-   "step_type": [
-    "plusstamina"
-   ],
-   "restrict_type": "song_id",
-   "restrict_id": "pentiment",
-   "capture": 11
-  },
-  {
-   "position": 11,
-   "restrict_type": "song_id",
-   "restrict_id": "pentiment",
-   "capture": 11
-  },
-  {
-   "position": 12,
-   "restrict_type": "song_id",
-   "restrict_id": "arcanaeden",
-   "capture": 11
-  },
-  {
-   "position": 13,
-   "plus_stamina_value": 2,
-   "step_type": [
-    "plusstamina"
-   ],
-   "restrict_type": "song_id",
-   "restrict_id": "arcanaeden",
-   "capture": 11
-  },
-  {
-   "position": 14,
-   "restrict_type": "song_id",
-   "restrict_id": "arcanaeden",
-   "capture": 11
-  },
-  {
-   "position": 15,
-   "restrict_type": "song_id",
-   "restrict_id": "testify",
-   "capture": 11
-  },
-  {
-   "position": 16,
-   "plus_stamina_value": 2,
-   "step_type": [
-    "plusstamina"
-   ],
-   "restrict_type": "song_id",
-   "restrict_id": "testify",
-   "capture": 11
-  },
-  {
-   "position": 17,
-   "restrict_type": "song_id",
-   "restrict_id": "testify",
-   "capture": 11
-  },
-  {
-   "position": 18,
-   "capture": 0,
-   "items": [
+  "map_id": "final_memory",
+  "is_legacy": false,
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 7,
+  "available_from": -1,
+  "available_to": 9999999999999,
+  "is_repeatable": false,
+  "require_id": "finale",
+  "require_type": "pack",
+  "require_localunlock_challengeid": "testify",
+  "coordinate": "0,160",
+  "step_count": 19,
+  "custom_bg": "",
+  "stamina_cost": 2,
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 10
+      "type": "pack",
+      "id": "finale"
     }
-   ]
-  }
- ]
+  ],
+  "curr_position": 0,
+  "curr_capture": 0,
+  "is_locked": false,
+  "steps": [
+    {
+      "position": 0,
+      "restrict_type": "song_id",
+      "restrict_id": "defection",
+      "capture": 9
+    },
+    {
+      "position": 1,
+      "plus_stamina_value": 2,
+      "step_type": ["plusstamina"],
+      "restrict_type": "song_id",
+      "restrict_id": "defection",
+      "capture": 9
+    },
+    {
+      "position": 2,
+      "restrict_type": "song_id",
+      "restrict_id": "defection",
+      "capture": 9
+    },
+    {
+      "position": 3,
+      "restrict_type": "song_id",
+      "restrict_id": "infinitestrife",
+      "capture": 10
+    },
+    {
+      "position": 4,
+      "plus_stamina_value": 2,
+      "step_type": ["plusstamina"],
+      "restrict_type": "song_id",
+      "restrict_id": "infinitestrife",
+      "capture": 10
+    },
+    {
+      "position": 5,
+      "restrict_type": "song_id",
+      "restrict_id": "infinitestrife",
+      "capture": 10
+    },
+    {
+      "position": 6,
+      "restrict_type": "song_id",
+      "restrict_id": "worldender",
+      "capture": 11
+    },
+    {
+      "position": 7,
+      "plus_stamina_value": 2,
+      "step_type": ["plusstamina"],
+      "restrict_type": "song_id",
+      "restrict_id": "worldender",
+      "capture": 11
+    },
+    {
+      "position": 8,
+      "restrict_type": "song_id",
+      "restrict_id": "worldender",
+      "capture": 11
+    },
+    {
+      "position": 9,
+      "restrict_type": "song_id",
+      "restrict_id": "pentiment",
+      "capture": 11
+    },
+    {
+      "position": 10,
+      "plus_stamina_value": 2,
+      "step_type": ["plusstamina"],
+      "restrict_type": "song_id",
+      "restrict_id": "pentiment",
+      "capture": 11
+    },
+    {
+      "position": 11,
+      "restrict_type": "song_id",
+      "restrict_id": "pentiment",
+      "capture": 11
+    },
+    {
+      "position": 12,
+      "restrict_type": "song_id",
+      "restrict_id": "arcanaeden",
+      "capture": 11
+    },
+    {
+      "position": 13,
+      "plus_stamina_value": 2,
+      "step_type": ["plusstamina"],
+      "restrict_type": "song_id",
+      "restrict_id": "arcanaeden",
+      "capture": 11
+    },
+    {
+      "position": 14,
+      "restrict_type": "song_id",
+      "restrict_id": "arcanaeden",
+      "capture": 11
+    },
+    {
+      "position": 15,
+      "restrict_type": "song_id",
+      "restrict_id": "testify",
+      "capture": 11
+    },
+    {
+      "position": 16,
+      "plus_stamina_value": 2,
+      "step_type": ["plusstamina"],
+      "restrict_type": "song_id",
+      "restrict_id": "testify",
+      "capture": 11
+    },
+    {
+      "position": 17,
+      "restrict_type": "song_id",
+      "restrict_id": "testify",
+      "capture": 11
+    },
+    {
+      "position": 18,
+      "capture": 0,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 10
+        }
+      ]
+    }
+  ]
 }

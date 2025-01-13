@@ -1,1663 +1,1551 @@
 {
- "map_id": "chapter4_the_calm",
- "beyond_health": 100,
- "character_affinity": [],
- "affinity_multiplier": [],
- "chapter": 4,
- "available_from": -1,
- "available_to": 2106124800000,
- "is_repeatable": false,
- "require_id": "",
- "require_type": "fragment",
- "require_value": 200,
- "is_legacy": true,
- "stamina_cost": 1,
- "coordinate": "-380,20",
- "step_count": 167,
- "custom_bg": "",
- "is_breached": false,
- "disable_over": false,
- "requires": [
-  {
-   "value": 200,
-   "type": "fragment",
-   "id": ""
-  }
- ],
- "curr_position": 150,
- "curr_capture": 6.265724381259304,
- "is_locked": false,
- "rewards": [
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 10
-    }
-   ],
-   "position": 1
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 10
-    }
-   ],
-   "position": 2
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 10
-    }
-   ],
-   "position": 3
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 10
-    }
-   ],
-   "position": 4
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 15
-    }
-   ],
-   "position": 11
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 15
-    }
-   ],
-   "position": 12
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 15
-    }
-   ],
-   "position": 13
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 15
-    }
-   ],
-   "position": 14
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 20
-    }
-   ],
-   "position": 21
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 20
-    }
-   ],
-   "position": 22
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 20
-    }
-   ],
-   "position": 23
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 20
-    }
-   ],
-   "position": 24
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 31
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 32
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 33
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 34
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 30
-    }
-   ],
-   "position": 41
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 30
-    }
-   ],
-   "position": 42
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 30
-    }
-   ],
-   "position": 43
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 30
-    }
-   ],
-   "position": 44
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 35
-    }
-   ],
-   "position": 51
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 35
-    }
-   ],
-   "position": 52
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 35
-    }
-   ],
-   "position": 53
-  },
-  {
-   "items": [
-    {
-     "id": "diode",
-     "type": "world_song"
-    }
-   ],
-   "position": 54
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 40
-    }
-   ],
-   "position": 62
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 40
-    }
-   ],
-   "position": 64
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 45
-    }
-   ],
-   "position": 72
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 45
-    }
-   ],
-   "position": 74
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 50
-    }
-   ],
-   "position": 82
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 50
-    }
-   ],
-   "position": 84
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 55
-    }
-   ],
-   "position": 92
-  },
-  {
-   "items": [
-    {
-     "id": "freefall",
-     "type": "world_song"
-    }
-   ],
-   "position": 94
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 60
-    }
-   ],
-   "position": 102
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 60
-    }
-   ],
-   "position": 104
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 65
-    }
-   ],
-   "position": 112
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 65
-    }
-   ],
-   "position": 114
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 70
-    }
-   ],
-   "position": 122
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 70
-    }
-   ],
-   "position": 124
-  },
-  {
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 75
-    }
-   ],
-   "position": 132
-  },
-  {
-   "items": [
-    {
-     "id": "monochromeprincess",
-     "type": "world_song"
-    }
-   ],
-   "position": 134
-  },
-  {
-   "items": [
-    {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 3
-    }
-   ],
-   "position": 145
-  },
-  {
-   "items": [
-    {
-     "type": "core",
-     "id": "core_sunset",
-     "amount": 5
-    }
-   ],
-   "position": 155
-  },
-  {
-   "items": [
-    {
-     "type": "core",
-     "id": "core_sunset",
-     "amount": 5
-    }
-   ],
-   "position": 166
-  }
- ],
- "steps": [
-  {
-   "position": 0,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 1,
-   "__v": 0,
-   "capture": 10,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 10
-    }
-   ]
-  },
-  {
-   "position": 2,
-   "__v": 0,
-   "capture": 10,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 10
-    }
-   ]
-  },
-  {
-   "position": 3,
-   "__v": 0,
-   "capture": 10,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 10
-    }
-   ]
-  },
-  {
-   "position": 4,
-   "__v": 0,
-   "capture": 10,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 10
-    }
-   ]
-  },
-  {
-   "position": 5,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 6,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 7,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 8,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 9,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 10,
-   "__v": 0,
-   "capture": 11
-  },
-  {
-   "position": 11,
-   "__v": 0,
-   "capture": 11,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 15
-    }
-   ]
-  },
-  {
-   "position": 12,
-   "__v": 0,
-   "capture": 11,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 15
-    }
-   ]
-  },
-  {
-   "position": 13,
-   "__v": 0,
-   "capture": 11,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 15
-    }
-   ]
-  },
-  {
-   "position": 14,
-   "__v": 0,
-   "capture": 11,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 15
-    }
-   ]
-  },
-  {
-   "position": 15,
-   "__v": 0,
-   "capture": 11
-  },
-  {
-   "position": 16,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 17,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 18,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 19,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 20,
-   "__v": 0,
-   "capture": 12
-  },
-  {
-   "position": 21,
-   "__v": 0,
-   "capture": 12,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 20
-    }
-   ]
-  },
-  {
-   "position": 22,
-   "__v": 0,
-   "capture": 12,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 20
-    }
-   ]
-  },
-  {
-   "position": 23,
-   "__v": 0,
-   "capture": 12,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 20
-    }
-   ]
-  },
-  {
-   "position": 24,
-   "__v": 0,
-   "capture": 12,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 20
-    }
-   ]
-  },
-  {
-   "position": 25,
-   "__v": 0,
-   "capture": 12
-  },
-  {
-   "position": 26,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 27,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 28,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 29,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 30,
-   "__v": 0,
-   "capture": 13
-  },
-  {
-   "position": 31,
-   "__v": 0,
-   "capture": 13,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 32,
-   "__v": 0,
-   "capture": 13,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 33,
-   "__v": 0,
-   "capture": 13,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 34,
-   "__v": 0,
-   "capture": 13,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 35,
-   "__v": 0,
-   "capture": 13
-  },
-  {
-   "position": 36,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 37,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 38,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 39,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 40,
-   "__v": 0,
-   "capture": 14
-  },
-  {
-   "position": 41,
-   "__v": 0,
-   "capture": 14,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 30
-    }
-   ]
-  },
-  {
-   "position": 42,
-   "__v": 0,
-   "capture": 14,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 30
-    }
-   ]
-  },
-  {
-   "position": 43,
-   "__v": 0,
-   "capture": 14,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 30
-    }
-   ]
-  },
-  {
-   "position": 44,
-   "__v": 0,
-   "capture": 14,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 30
-    }
-   ]
-  },
-  {
-   "position": 45,
-   "__v": 0,
-   "capture": 14
-  },
-  {
-   "position": 46,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 47,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 48,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 49,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 50,
-   "__v": 0,
-   "capture": 15
-  },
-  {
-   "position": 51,
-   "__v": 0,
-   "capture": 15,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 35
-    }
-   ]
-  },
-  {
-   "position": 52,
-   "__v": 0,
-   "capture": 15,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 35
-    }
-   ]
-  },
-  {
-   "position": 53,
-   "__v": 0,
-   "capture": 15,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 35
-    }
-   ]
-  },
-  {
-   "position": 54,
-   "__v": 0,
-   "capture": 15,
-   "items": [
-    {
-     "id": "diode",
-     "type": "world_song"
-    }
-   ]
-  },
-  {
-   "position": 55,
-   "__v": 0,
-   "capture": 15
-  },
-  {
-   "position": 56,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 57,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 58,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 59,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 60,
-   "__v": 0,
-   "capture": 16
-  },
-  {
-   "position": 61,
-   "__v": 0,
-   "capture": 16,
-   "restrict_id": "diode",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 62,
-   "__v": 0,
-   "capture": 16,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 40
-    }
-   ]
-  },
-  {
-   "position": 63,
-   "__v": 0,
-   "capture": 16,
-   "restrict_id": "diode",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 64,
-   "__v": 0,
-   "capture": 16,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 40
-    }
-   ]
-  },
-  {
-   "position": 65,
-   "__v": 0,
-   "capture": 16
-  },
-  {
-   "position": 66,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 67,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 68,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 69,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 70,
-   "__v": 0,
-   "capture": 17
-  },
-  {
-   "position": 71,
-   "__v": 0,
-   "capture": 17,
-   "restrict_id": "diode",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 72,
-   "__v": 0,
-   "capture": 17,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 45
-    }
-   ]
-  },
-  {
-   "position": 73,
-   "__v": 0,
-   "capture": 17,
-   "restrict_id": "diode",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 74,
-   "__v": 0,
-   "capture": 17,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 45
-    }
-   ]
-  },
-  {
-   "position": 75,
-   "__v": 0,
-   "capture": 17
-  },
-  {
-   "position": 76,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 77,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 78,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 79,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 80,
-   "__v": 0,
-   "capture": 18
-  },
-  {
-   "position": 81,
-   "__v": 0,
-   "capture": 18,
-   "restrict_id": "diode",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 82,
-   "__v": 0,
-   "capture": 18,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 50
-    }
-   ]
-  },
-  {
-   "position": 83,
-   "__v": 0,
-   "capture": 18,
-   "restrict_id": "diode",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 84,
-   "__v": 0,
-   "capture": 18,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 50
-    }
-   ]
-  },
-  {
-   "position": 85,
-   "__v": 0,
-   "capture": 18
-  },
-  {
-   "position": 86,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 87,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 88,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 89,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 90,
-   "__v": 0,
-   "capture": 19
-  },
-  {
-   "position": 91,
-   "__v": 0,
-   "capture": 19,
-   "restrict_id": "diode",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 92,
-   "__v": 0,
-   "capture": 19,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 55
-    }
-   ]
-  },
-  {
-   "position": 93,
-   "__v": 0,
-   "capture": 19,
-   "restrict_id": "diode",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 94,
-   "__v": 0,
-   "capture": 19,
-   "items": [
-    {
-     "id": "freefall",
-     "type": "world_song"
-    }
-   ]
-  },
-  {
-   "position": 95,
-   "__v": 0,
-   "capture": 19
-  },
-  {
-   "position": 96,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 97,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 98,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 99,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 100,
-   "__v": 0,
-   "capture": 20
-  },
-  {
-   "position": 101,
-   "__v": 0,
-   "capture": 20,
-   "restrict_id": "freefall",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 102,
-   "__v": 0,
-   "capture": 20,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 60
-    }
-   ]
-  },
-  {
-   "position": 103,
-   "__v": 0,
-   "capture": 20,
-   "restrict_id": "freefall",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 104,
-   "__v": 0,
-   "capture": 20,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 60
-    }
-   ]
-  },
-  {
-   "position": 105,
-   "__v": 0,
-   "capture": 20
-  },
-  {
-   "position": 106,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 107,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 108,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 109,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 110,
-   "__v": 0,
-   "capture": 21
-  },
-  {
-   "position": 111,
-   "__v": 0,
-   "capture": 21,
-   "restrict_id": "freefall",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 112,
-   "__v": 0,
-   "capture": 21,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 65
-    }
-   ]
-  },
-  {
-   "position": 113,
-   "__v": 0,
-   "capture": 21,
-   "restrict_id": "freefall",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 114,
-   "__v": 0,
-   "capture": 21,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 65
-    }
-   ]
-  },
-  {
-   "position": 115,
-   "__v": 0,
-   "capture": 21
-  },
-  {
-   "position": 116,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 117,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 118,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 119,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 120,
-   "__v": 0,
-   "capture": 22
-  },
-  {
-   "position": 121,
-   "__v": 0,
-   "capture": 22,
-   "restrict_id": "freefall",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 122,
-   "__v": 0,
-   "capture": 22,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 70
-    }
-   ]
-  },
-  {
-   "position": 123,
-   "__v": 0,
-   "capture": 22,
-   "restrict_id": "freefall",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 124,
-   "__v": 0,
-   "capture": 22,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 70
-    }
-   ]
-  },
-  {
-   "position": 125,
-   "__v": 0,
-   "capture": 22
-  },
-  {
-   "position": 126,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 127,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 128,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 129,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 130,
-   "__v": 0,
-   "capture": 23
-  },
-  {
-   "position": 131,
-   "__v": 0,
-   "capture": 23,
-   "restrict_id": "freefall",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 132,
-   "__v": 0,
-   "capture": 23,
-   "items": [
-    {
-     "type": "fragment",
-     "amount": 75
-    }
-   ]
-  },
-  {
-   "position": 133,
-   "__v": 0,
-   "capture": 23,
-   "restrict_id": "freefall",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 134,
-   "__v": 0,
-   "capture": 23,
-   "items": [
-    {
-     "id": "monochromeprincess",
-     "type": "world_song"
-    }
-   ]
-  },
-  {
-   "position": 135,
-   "__v": 0,
-   "capture": 23
-  },
-  {
-   "position": 136,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 137,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 138,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 139,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 140,
-   "__v": 0,
-   "capture": 24
-  },
-  {
-   "position": 141,
-   "__v": 0,
-   "capture": 24,
-   "restrict_id": "diode",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 142,
-   "__v": 0,
-   "capture": 24,
-   "restrict_id": "freefall",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 143,
-   "__v": 0,
-   "capture": 24,
-   "restrict_id": "monochromeprincess",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 144,
-   "__v": 0,
-   "capture": 24
-  },
-  {
-   "position": 145,
-   "__v": 0,
-   "capture": 0,
-   "items": [
-    {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 3
-    }
-   ]
-  }
- ]
+  "map_id": "chapter4_the_calm",
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 4,
+  "available_from": -1,
+  "available_to": 2106124800000,
+  "is_repeatable": false,
+  "require_id": "",
+  "require_type": "fragment",
+  "require_value": 200,
+  "is_legacy": true,
+  "stamina_cost": 1,
+  "coordinate": "-380,20",
+  "step_count": 167,
+  "custom_bg": "",
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
+    {
+      "value": 200,
+      "type": "fragment",
+      "id": ""
+    }
+  ],
+  "curr_position": 0,
+  "curr_capture": 0,
+  "is_locked": false,
+  "rewards": [
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 10
+        }
+      ],
+      "position": 1
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 10
+        }
+      ],
+      "position": 2
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 10
+        }
+      ],
+      "position": 3
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 10
+        }
+      ],
+      "position": 4
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 15
+        }
+      ],
+      "position": 11
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 15
+        }
+      ],
+      "position": 12
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 15
+        }
+      ],
+      "position": 13
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 15
+        }
+      ],
+      "position": 14
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 20
+        }
+      ],
+      "position": 21
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 20
+        }
+      ],
+      "position": 22
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 20
+        }
+      ],
+      "position": 23
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 20
+        }
+      ],
+      "position": 24
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 31
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 32
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 33
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 34
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 30
+        }
+      ],
+      "position": 41
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 30
+        }
+      ],
+      "position": 42
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 30
+        }
+      ],
+      "position": 43
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 30
+        }
+      ],
+      "position": 44
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 35
+        }
+      ],
+      "position": 51
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 35
+        }
+      ],
+      "position": 52
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 35
+        }
+      ],
+      "position": 53
+    },
+    {
+      "items": [
+        {
+          "id": "diode",
+          "type": "world_song"
+        }
+      ],
+      "position": 54
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 40
+        }
+      ],
+      "position": 62
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 40
+        }
+      ],
+      "position": 64
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 45
+        }
+      ],
+      "position": 72
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 45
+        }
+      ],
+      "position": 74
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 50
+        }
+      ],
+      "position": 82
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 50
+        }
+      ],
+      "position": 84
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 55
+        }
+      ],
+      "position": 92
+    },
+    {
+      "items": [
+        {
+          "id": "freefall",
+          "type": "world_song"
+        }
+      ],
+      "position": 94
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ],
+      "position": 102
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ],
+      "position": 104
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 65
+        }
+      ],
+      "position": 112
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 65
+        }
+      ],
+      "position": 114
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ],
+      "position": 122
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ],
+      "position": 124
+    },
+    {
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 75
+        }
+      ],
+      "position": 132
+    },
+    {
+      "items": [
+        {
+          "id": "monochromeprincess",
+          "type": "world_song"
+        }
+      ],
+      "position": 134
+    },
+    {
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 3
+        }
+      ],
+      "position": 145
+    },
+    {
+      "items": [
+        {
+          "type": "core",
+          "id": "core_sunset",
+          "amount": 5
+        }
+      ],
+      "position": 155
+    },
+    {
+      "items": [
+        {
+          "type": "core",
+          "id": "core_sunset",
+          "amount": 5
+        }
+      ],
+      "position": 166
+    }
+  ],
+  "steps": [
+    {
+      "position": 0,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 1,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 6,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 7,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 8,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 9,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 10,
+      "__v": 0,
+      "capture": 11
+    },
+    {
+      "position": 11,
+      "__v": 0,
+      "capture": 11,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "position": 12,
+      "__v": 0,
+      "capture": 11,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "position": 13,
+      "__v": 0,
+      "capture": 11,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "__v": 0,
+      "capture": 11,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "position": 15,
+      "__v": 0,
+      "capture": 11
+    },
+    {
+      "position": 16,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 17,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 18,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 19,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 20,
+      "__v": 0,
+      "capture": 12
+    },
+    {
+      "position": 21,
+      "__v": 0,
+      "capture": 12,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "position": 22,
+      "__v": 0,
+      "capture": 12,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "position": 23,
+      "__v": 0,
+      "capture": 12,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "position": 24,
+      "__v": 0,
+      "capture": 12,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "position": 25,
+      "__v": 0,
+      "capture": 12
+    },
+    {
+      "position": 26,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 27,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 28,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 29,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 30,
+      "__v": 0,
+      "capture": 13
+    },
+    {
+      "position": 31,
+      "__v": 0,
+      "capture": 13,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 32,
+      "__v": 0,
+      "capture": 13,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 33,
+      "__v": 0,
+      "capture": 13,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 34,
+      "__v": 0,
+      "capture": 13,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 35,
+      "__v": 0,
+      "capture": 13
+    },
+    {
+      "position": 36,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 37,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 38,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 39,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 40,
+      "__v": 0,
+      "capture": 14
+    },
+    {
+      "position": 41,
+      "__v": 0,
+      "capture": 14,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "position": 42,
+      "__v": 0,
+      "capture": 14,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "position": 43,
+      "__v": 0,
+      "capture": 14,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "position": 44,
+      "__v": 0,
+      "capture": 14,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "position": 45,
+      "__v": 0,
+      "capture": 14
+    },
+    {
+      "position": 46,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 47,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 48,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 49,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 50,
+      "__v": 0,
+      "capture": 15
+    },
+    {
+      "position": 51,
+      "__v": 0,
+      "capture": 15,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "position": 52,
+      "__v": 0,
+      "capture": 15,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "position": 53,
+      "__v": 0,
+      "capture": 15,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 35
+        }
+      ]
+    },
+    {
+      "position": 54,
+      "__v": 0,
+      "capture": 15,
+      "items": [
+        {
+          "id": "diode",
+          "type": "world_song"
+        }
+      ]
+    },
+    {
+      "position": 55,
+      "__v": 0,
+      "capture": 15
+    },
+    {
+      "position": 56,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 57,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 58,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 59,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 60,
+      "__v": 0,
+      "capture": 16
+    },
+    {
+      "position": 61,
+      "__v": 0,
+      "capture": 16,
+      "restrict_id": "diode",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 62,
+      "__v": 0,
+      "capture": 16,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "position": 63,
+      "__v": 0,
+      "capture": 16,
+      "restrict_id": "diode",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 64,
+      "__v": 0,
+      "capture": 16,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "position": 65,
+      "__v": 0,
+      "capture": 16
+    },
+    {
+      "position": 66,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 67,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 68,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 69,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 70,
+      "__v": 0,
+      "capture": 17
+    },
+    {
+      "position": 71,
+      "__v": 0,
+      "capture": 17,
+      "restrict_id": "diode",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 72,
+      "__v": 0,
+      "capture": 17,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 45
+        }
+      ]
+    },
+    {
+      "position": 73,
+      "__v": 0,
+      "capture": 17,
+      "restrict_id": "diode",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 74,
+      "__v": 0,
+      "capture": 17,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 45
+        }
+      ]
+    },
+    {
+      "position": 75,
+      "__v": 0,
+      "capture": 17
+    },
+    {
+      "position": 76,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 77,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 78,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 79,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 80,
+      "__v": 0,
+      "capture": 18
+    },
+    {
+      "position": 81,
+      "__v": 0,
+      "capture": 18,
+      "restrict_id": "diode",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 82,
+      "__v": 0,
+      "capture": 18,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 50
+        }
+      ]
+    },
+    {
+      "position": 83,
+      "__v": 0,
+      "capture": 18,
+      "restrict_id": "diode",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 84,
+      "__v": 0,
+      "capture": 18,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 50
+        }
+      ]
+    },
+    {
+      "position": 85,
+      "__v": 0,
+      "capture": 18
+    },
+    {
+      "position": 86,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 87,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 88,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 89,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 90,
+      "__v": 0,
+      "capture": 19
+    },
+    {
+      "position": 91,
+      "__v": 0,
+      "capture": 19,
+      "restrict_id": "diode",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 92,
+      "__v": 0,
+      "capture": 19,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 55
+        }
+      ]
+    },
+    {
+      "position": 93,
+      "__v": 0,
+      "capture": 19,
+      "restrict_id": "diode",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 94,
+      "__v": 0,
+      "capture": 19,
+      "items": [
+        {
+          "id": "freefall",
+          "type": "world_song"
+        }
+      ]
+    },
+    {
+      "position": 95,
+      "__v": 0,
+      "capture": 19
+    },
+    {
+      "position": 96,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 97,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 98,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 99,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 100,
+      "__v": 0,
+      "capture": 20
+    },
+    {
+      "position": 101,
+      "__v": 0,
+      "capture": 20,
+      "restrict_id": "freefall",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 102,
+      "__v": 0,
+      "capture": 20,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ]
+    },
+    {
+      "position": 103,
+      "__v": 0,
+      "capture": 20,
+      "restrict_id": "freefall",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 104,
+      "__v": 0,
+      "capture": 20,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ]
+    },
+    {
+      "position": 105,
+      "__v": 0,
+      "capture": 20
+    },
+    {
+      "position": 106,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 107,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 108,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 109,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 110,
+      "__v": 0,
+      "capture": 21
+    },
+    {
+      "position": 111,
+      "__v": 0,
+      "capture": 21,
+      "restrict_id": "freefall",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 112,
+      "__v": 0,
+      "capture": 21,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 65
+        }
+      ]
+    },
+    {
+      "position": 113,
+      "__v": 0,
+      "capture": 21,
+      "restrict_id": "freefall",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 114,
+      "__v": 0,
+      "capture": 21,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 65
+        }
+      ]
+    },
+    {
+      "position": 115,
+      "__v": 0,
+      "capture": 21
+    },
+    {
+      "position": 116,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 117,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 118,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 119,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 120,
+      "__v": 0,
+      "capture": 22
+    },
+    {
+      "position": 121,
+      "__v": 0,
+      "capture": 22,
+      "restrict_id": "freefall",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 122,
+      "__v": 0,
+      "capture": 22,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "position": 123,
+      "__v": 0,
+      "capture": 22,
+      "restrict_id": "freefall",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 124,
+      "__v": 0,
+      "capture": 22,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "position": 125,
+      "__v": 0,
+      "capture": 22
+    },
+    {
+      "position": 126,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 127,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 128,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 129,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 130,
+      "__v": 0,
+      "capture": 23
+    },
+    {
+      "position": 131,
+      "__v": 0,
+      "capture": 23,
+      "restrict_id": "freefall",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 132,
+      "__v": 0,
+      "capture": 23,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 75
+        }
+      ]
+    },
+    {
+      "position": 133,
+      "__v": 0,
+      "capture": 23,
+      "restrict_id": "freefall",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 134,
+      "__v": 0,
+      "capture": 23,
+      "items": [
+        {
+          "id": "monochromeprincess",
+          "type": "world_song"
+        }
+      ]
+    },
+    {
+      "position": 135,
+      "__v": 0,
+      "capture": 23
+    },
+    {
+      "position": 136,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 137,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 138,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 139,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 140,
+      "__v": 0,
+      "capture": 24
+    },
+    {
+      "position": 141,
+      "__v": 0,
+      "capture": 24,
+      "restrict_id": "diode",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 142,
+      "__v": 0,
+      "capture": 24,
+      "restrict_id": "freefall",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 143,
+      "__v": 0,
+      "capture": 24,
+      "restrict_id": "monochromeprincess",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 144,
+      "__v": 0,
+      "capture": 24
+    },
+    {
+      "position": 145,
+      "__v": 0,
+      "capture": 0,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 3
+        }
+      ]
+    }
+  ]
 }

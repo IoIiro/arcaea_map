@@ -1,208 +1,208 @@
 {
- "map_id": "grievouslady",
- "beyond_health": 100,
- "character_affinity": [],
- "affinity_multiplier": [],
- "chapter": 1,
- "available_from": -1,
- "available_to": 2106124800000,
- "is_repeatable": false,
- "require_id": "yugamu",
- "require_type": "pack",
- "require_localunlock_songid": "grievouslady",
- "is_legacy": true,
- "stamina_cost": 1,
- "coordinate": "0,0",
- "step_count": 21,
- "custom_bg": "",
- "is_breached": false,
- "disable_over": false,
- "requires": [
-  {
-   "type": "pack",
-   "id": "yugamu"
-  }
- ],
- "curr_position": 20,
- "curr_capture": 0,
- "is_locked": false,
- "rewards": [
-  {
-   "items": [
+  "map_id": "grievouslady",
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 1,
+  "available_from": -1,
+  "available_to": 2106124800000,
+  "is_repeatable": false,
+  "require_id": "yugamu",
+  "require_type": "pack",
+  "require_localunlock_songid": "grievouslady",
+  "is_legacy": true,
+  "stamina_cost": 1,
+  "coordinate": "0,0",
+  "step_count": 21,
+  "custom_bg": "",
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
     {
-     "type": "fragment",
-     "amount": 300
+      "type": "pack",
+      "id": "yugamu"
     }
-   ],
-   "position": 18
-  },
-  {
-   "items": [
+  ],
+  "curr_position": 0,
+  "curr_capture": 0,
+  "is_locked": false,
+  "rewards": [
     {
-     "id": "7",
-     "type": "character"
-    }
-   ],
-   "position": 20
-  }
- ],
- "steps": [
-  {
-   "position": 0,
-   "__v": 0,
-   "capture": 20,
-   "restrict_id": "axiumcrisis",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 1,
-   "__v": 0,
-   "capture": 18,
-   "restrict_id": "conflict",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 2,
-   "__v": 0,
-   "capture": 16,
-   "restrict_id": "iconoclast",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 3,
-   "__v": 0,
-   "capture": 14,
-   "restrict_id": "trappola",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 4,
-   "__v": 0,
-   "capture": 12,
-   "restrict_id": "soundwitch",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 5,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "soundwitch",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 6,
-   "__v": 0,
-   "capture": 8,
-   "restrict_id": "trappola",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 7,
-   "__v": 0,
-   "capture": 6,
-   "restrict_id": "iconoclast",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 8,
-   "__v": 0,
-   "capture": 4,
-   "restrict_id": "conflict",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 9,
-   "__v": 0,
-   "capture": 2,
-   "restrict_id": "axiumcrisis",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 10,
-   "__v": 0,
-   "capture": 1,
-   "restrict_id": "grievouslady",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 11,
-   "__v": 0,
-   "capture": 1,
-   "restrict_id": "grievouslady",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 12,
-   "__v": 0,
-   "capture": 1,
-   "restrict_id": "grievouslady",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 13,
-   "__v": 0,
-   "capture": 1,
-   "restrict_id": "grievouslady",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 14,
-   "__v": 0,
-   "capture": 1,
-   "restrict_id": "grievouslady",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 15,
-   "__v": 0,
-   "capture": 1,
-   "restrict_id": "grievouslady",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 16,
-   "__v": 0,
-   "capture": 1,
-   "restrict_id": "grievouslady",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 17,
-   "__v": 0,
-   "capture": 1,
-   "restrict_id": "grievouslady",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 18,
-   "__v": 0,
-   "capture": 1,
-   "restrict_id": "grievouslady",
-   "restrict_type": "song_id",
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 300
+        }
+      ],
+      "position": 18
+    },
     {
-     "type": "fragment",
-     "amount": 300
+      "items": [
+        {
+          "id": "7",
+          "type": "character"
+        }
+      ],
+      "position": 20
     }
-   ]
-  },
-  {
-   "position": 19,
-   "__v": 0,
-   "capture": 30,
-   "restrict_id": "grievouslady",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 20,
-   "__v": 0,
-   "capture": 0,
-   "items": [
+  ],
+  "steps": [
     {
-     "id": "7",
-     "type": "character"
+      "position": 0,
+      "__v": 0,
+      "capture": 20,
+      "restrict_id": "axiumcrisis",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 1,
+      "__v": 0,
+      "capture": 18,
+      "restrict_id": "conflict",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 2,
+      "__v": 0,
+      "capture": 16,
+      "restrict_id": "iconoclast",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 3,
+      "__v": 0,
+      "capture": 14,
+      "restrict_id": "trappola",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 4,
+      "__v": 0,
+      "capture": 12,
+      "restrict_id": "soundwitch",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 5,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "soundwitch",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 6,
+      "__v": 0,
+      "capture": 8,
+      "restrict_id": "trappola",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 7,
+      "__v": 0,
+      "capture": 6,
+      "restrict_id": "iconoclast",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 8,
+      "__v": 0,
+      "capture": 4,
+      "restrict_id": "conflict",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 9,
+      "__v": 0,
+      "capture": 2,
+      "restrict_id": "axiumcrisis",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 10,
+      "__v": 0,
+      "capture": 1,
+      "restrict_id": "grievouslady",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 11,
+      "__v": 0,
+      "capture": 1,
+      "restrict_id": "grievouslady",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 12,
+      "__v": 0,
+      "capture": 1,
+      "restrict_id": "grievouslady",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 13,
+      "__v": 0,
+      "capture": 1,
+      "restrict_id": "grievouslady",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 14,
+      "__v": 0,
+      "capture": 1,
+      "restrict_id": "grievouslady",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 15,
+      "__v": 0,
+      "capture": 1,
+      "restrict_id": "grievouslady",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 16,
+      "__v": 0,
+      "capture": 1,
+      "restrict_id": "grievouslady",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 17,
+      "__v": 0,
+      "capture": 1,
+      "restrict_id": "grievouslady",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 18,
+      "__v": 0,
+      "capture": 1,
+      "restrict_id": "grievouslady",
+      "restrict_type": "song_id",
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 300
+        }
+      ]
+    },
+    {
+      "position": 19,
+      "__v": 0,
+      "capture": 30,
+      "restrict_id": "grievouslady",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 20,
+      "__v": 0,
+      "capture": 0,
+      "items": [
+        {
+          "id": "7",
+          "type": "character"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

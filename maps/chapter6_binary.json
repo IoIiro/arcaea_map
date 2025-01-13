@@ -1,174 +1,174 @@
 {
- "map_id": "chapter6_binary",
- "is_legacy": false,
- "beyond_health": 100,
- "character_affinity": [],
- "affinity_multiplier": [],
- "chapter": 6,
- "available_from": -1,
- "available_to": 9999999999999,
- "is_repeatable": false,
- "require_id": "nijuusei_append_1",
- "require_type": "pack",
- "coordinate": "500,150",
- "step_count": 21,
- "custom_bg": "",
- "stamina_cost": 2,
- "is_breached": false,
- "disable_over": false,
- "requires": [
-  {
-   "type": "pack",
-   "id": "nijuusei_append_1"
-  }
- ],
- "curr_position": 0,
- "curr_capture": 0,
- "is_locked": true,
- "steps": [
-  {
-   "position": 0,
-   "capture": 45
-  },
-  {
-   "position": 1,
-   "capture": 45
-  },
-  {
-   "position": 2,
-   "capture": 45
-  },
-  {
-   "position": 3,
-   "capture": 45,
-   "items": [
+  "map_id": "chapter6_binary",
+  "is_legacy": false,
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 6,
+  "available_from": -1,
+  "available_to": 9999999999999,
+  "is_repeatable": false,
+  "require_id": "nijuusei_append_1",
+  "require_type": "pack",
+  "coordinate": "500,150",
+  "step_count": 21,
+  "custom_bg": "",
+  "stamina_cost": 2,
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
     {
-     "type": "fragment",
-     "amount": 300
+      "type": "pack",
+      "id": "nijuusei_append_1"
     }
-   ]
-  },
-  {
-   "position": 4,
-   "capture": 45,
-   "restrict_type": "song_id",
-   "restrict_ids": ["redolentshape", "guardina"]
-  },
-  {
-   "position": 5,
-   "capture": 50,
-   "items": [
+  ],
+  "curr_position": 0,
+  "curr_capture": 0,
+  "is_locked": true,
+  "steps": [
     {
-     "type": "core",
-     "id": "core_binary",
-     "amount": 5
-    }
-   ]
-  },
-  {
-   "position": 6,
-   "capture": 50
-  },
-  {
-   "position": 7,
-   "capture": 50
-  },
-  {
-   "position": 8,
-   "capture": 50,
-   "items": [
+      "position": 0,
+      "capture": 45
+    },
     {
-     "type": "fragment",
-     "amount": 300
-    }
-   ]
-  },
-  {
-   "position": 9,
-   "capture": 50,
-   "restrict_type": "song_id",
-   "restrict_ids": ["redolentshape", "guardina"]
-  },
-  {
-   "position": 10,
-   "capture": 55,
-   "items": [
+      "position": 1,
+      "capture": 45
+    },
     {
-     "type": "core",
-     "id": "core_binary",
-     "amount": 5
-    }
-   ]
-  },
-  {
-   "position": 11,
-   "capture": 55
-  },
-  {
-   "position": 12,
-   "capture": 55
-  },
-  {
-   "position": 13,
-   "capture": 55,
-   "items": [
+      "position": 2,
+      "capture": 45
+    },
     {
-     "type": "fragment",
-     "amount": 300
-    }
-   ]
-  },
-  {
-   "position": 14,
-   "capture": 55,
-   "restrict_type": "song_id",
-   "restrict_ids": ["redolentshape", "guardina"]
-  },
-  {
-   "position": 15,
-   "capture": 60,
-   "items": [
+      "position": 3,
+      "capture": 45,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 300
+        }
+      ]
+    },
     {
-     "type": "core",
-     "id": "core_binary",
-     "amount": 5
-    }
-   ]
-  },
-  {
-   "position": 16,
-   "capture": 60
-  },
-  {
-   "position": 17,
-   "capture": 60
-  },
-  {
-   "position": 18,
-   "capture": 60,
-   "items": [
+      "position": 4,
+      "capture": 45,
+      "restrict_type": "song_id",
+      "restrict_ids": ["redolentshape", "guardina"]
+    },
     {
-     "type": "fragment",
-     "amount": 300
-    }
-   ]
-  },
-  {
-   "position": 19,
-   "capture": 60,
-   "restrict_type": "song_id",
-   "restrict_ids": ["redolentshape", "guardina"]
-  },
-  {
-   "position": 20,
-   "capture": 0,
-   "items": [
+      "position": 5,
+      "capture": 50,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_binary",
+          "amount": 5
+        }
+      ]
+    },
     {
-     "type": "core",
-     "id": "core_binary",
-     "amount": 5
+      "position": 6,
+      "capture": 50
+    },
+    {
+      "position": 7,
+      "capture": 50
+    },
+    {
+      "position": 8,
+      "capture": 50,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 300
+        }
+      ]
+    },
+    {
+      "position": 9,
+      "capture": 50,
+      "restrict_type": "song_id",
+      "restrict_ids": ["redolentshape", "guardina"]
+    },
+    {
+      "position": 10,
+      "capture": 55,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_binary",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "position": 11,
+      "capture": 55
+    },
+    {
+      "position": 12,
+      "capture": 55
+    },
+    {
+      "position": 13,
+      "capture": 55,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 300
+        }
+      ]
+    },
+    {
+      "position": 14,
+      "capture": 55,
+      "restrict_type": "song_id",
+      "restrict_ids": ["redolentshape", "guardina"]
+    },
+    {
+      "position": 15,
+      "capture": 60,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_binary",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "position": 16,
+      "capture": 60
+    },
+    {
+      "position": 17,
+      "capture": 60
+    },
+    {
+      "position": 18,
+      "capture": 60,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 300
+        }
+      ]
+    },
+    {
+      "position": 19,
+      "capture": 60,
+      "restrict_type": "song_id",
+      "restrict_ids": ["redolentshape", "guardina"]
+    },
+    {
+      "position": 20,
+      "capture": 0,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_binary",
+          "amount": 5
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

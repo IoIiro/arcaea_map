@@ -1,838 +1,668 @@
 {
- "map_id": "chapter_4_scenery",
- "is_legacy": false,
- "beyond_health": 100,
- "character_affinity": [],
- "affinity_multiplier": [],
- "chapter": 4,
- "available_from": -1,
- "available_to": 9999999999999,
- "is_repeatable": true,
- "require_id": "",
- "require_type": "chapter_step",
- "require_value": 240,
- "coordinate": "100,-115",
- "step_count": 101,
- "custom_bg": "",
- "stamina_cost": 2,
- "is_breached": false,
- "disable_over": false,
- "requires": [
-  {
-   "value": 240,
-   "type": "chapter_step",
-   "id": ""
-  }
- ],
- "curr_position": 0,
- "curr_capture": 0,
- "is_locked": false,
- "steps": [
-  {
-   "position": 0,
-   "capture": 5,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 1,
-   "capture": 6,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 2,
-   "capture": 7
-  },
-  {
-   "position": 3,
-   "capture": 8,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 4,
-   "capture": 9
-  },
-  {
-   "position": 5,
-   "capture": 10,
-   "items": [
+  "map_id": "chapter_4_scenery",
+  "is_legacy": false,
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 4,
+  "available_from": -1,
+  "available_to": 9999999999999,
+  "is_repeatable": true,
+  "require_id": "",
+  "require_type": "chapter_step",
+  "require_value": 240,
+  "coordinate": "100,-115",
+  "step_count": 101,
+  "custom_bg": "",
+  "stamina_cost": 2,
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
     {
-     "type": "world_unlock",
-     "id": "scenery_chap4"
+      "value": 240,
+      "type": "chapter_step",
+      "id": ""
     }
-   ]
-  },
-  {
-   "position": 6,
-   "capture": 11
-  },
-  {
-   "position": 7,
-   "capture": 12,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 8,
-   "capture": 13,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 9,
-   "capture": 14,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 10,
-   "capture": 15
-  },
-  {
-   "position": 11,
-   "capture": 14,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector"
-   ]
-  },
-  {
-   "position": 12,
-   "capture": 13
-  },
-  {
-   "position": 13,
-   "capture": 12,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector"
-   ]
-  },
-  {
-   "position": 14,
-   "capture": 11
-  },
-  {
-   "position": 15,
-   "capture": 10,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector"
-   ]
-  },
-  {
-   "position": 16,
-   "capture": 9
-  },
-  {
-   "position": 17,
-   "capture": 8,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector"
-   ]
-  },
-  {
-   "position": 18,
-   "capture": 7
-  },
-  {
-   "position": 19,
-   "capture": 6,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector"
-   ]
-  },
-  {
-   "position": 20,
-   "capture": 5
-  },
-  {
-   "position": 21,
-   "capture": 6,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "revixy",
-    "supernova"
-   ]
-  },
-  {
-   "position": 22,
-   "capture": 7
-  },
-  {
-   "position": 23,
-   "capture": 8,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "revixy",
-    "supernova"
-   ]
-  },
-  {
-   "position": 24,
-   "capture": 9
-  },
-  {
-   "position": 25,
-   "capture": 10,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "revixy",
-    "supernova"
-   ]
-  },
-  {
-   "position": 26,
-   "capture": 11
-  },
-  {
-   "position": 27,
-   "capture": 12,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "revixy",
-    "supernova"
-   ]
-  },
-  {
-   "position": 28,
-   "capture": 13
-  },
-  {
-   "position": 29,
-   "capture": 14,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "revixy",
-    "supernova"
-   ]
-  },
-  {
-   "position": 30,
-   "capture": 15
-  },
-  {
-   "position": 31,
-   "capture": 14,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 32,
-   "capture": 15
-  },
-  {
-   "position": 33,
-   "capture": 12,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 34,
-   "capture": 11
-  },
-  {
-   "position": 35,
-   "capture": 10,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 36,
-   "capture": 9
-  },
-  {
-   "position": 37,
-   "capture": 8,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 38,
-   "capture": 7
-  },
-  {
-   "position": 39,
-   "capture": 6,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ]
-  },
-  {
-   "position": 40,
-   "capture": 5
-  },
-  {
-   "position": 41,
-   "capture": 6,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 42,
-   "capture": 7
-  },
-  {
-   "position": 43,
-   "capture": 8,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 44,
-   "capture": 9
-  },
-  {
-   "position": 45,
-   "capture": 10,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 46,
-   "capture": 11
-  },
-  {
-   "position": 47,
-   "capture": 12,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 48,
-   "capture": 13
-  },
-  {
-   "position": 49,
-   "capture": 14,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector",
-    "revixy",
-    "supernova",
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 50,
-   "capture": 15
-  },
-  {
-   "position": 51,
-   "capture": 14,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 52,
-   "capture": 15
-  },
-  {
-   "position": 53,
-   "capture": 12,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 54,
-   "capture": 11
-  },
-  {
-   "position": 55,
-   "capture": 10,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 56,
-   "capture": 9
-  },
-  {
-   "position": 57,
-   "capture": 8,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 58,
-   "capture": 7
-  },
-  {
-   "position": 59,
-   "capture": 6,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "grimheart",
-    "vector"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 60,
-   "capture": 5
-  },
-  {
-   "position": 61,
-   "capture": 6,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "revixy",
-    "supernova"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 62,
-   "capture": 7
-  },
-  {
-   "position": 63,
-   "capture": 8,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "revixy",
-    "supernova"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 64,
-   "capture": 9
-  },
-  {
-   "position": 65,
-   "capture": 10,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "revixy",
-    "supernova"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 66,
-   "capture": 11
-  },
-  {
-   "position": 67,
-   "capture": 12,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "revixy",
-    "supernova"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 68,
-   "capture": 13
-  },
-  {
-   "position": 69,
-   "capture": 14,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "revixy",
-    "supernova"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 70,
-   "capture": 15
-  },
-  {
-   "position": 71,
-   "capture": 14,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 72,
-   "capture": 15
-  },
-  {
-   "position": 73,
-   "capture": 12,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 74,
-   "capture": 11
-  },
-  {
-   "position": 75,
-   "capture": 10,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 76,
-   "capture": 9
-  },
-  {
-   "position": 77,
-   "capture": 8,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 78,
-   "capture": 7
-  },
-  {
-   "position": 79,
-   "capture": 6,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "randomsong"
-   ]
-  },
-  {
-   "position": 80,
-   "capture": 5
-  },
-  {
-   "position": 81,
-   "capture": 6,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "speedlimit"
-   ],
-   "speed_limit_value": 3
-  },
-  {
-   "position": 82,
-   "capture": 7
-  },
-  {
-   "position": 83,
-   "capture": 8,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "speedlimit"
-   ],
-   "speed_limit_value": 3
-  },
-  {
-   "position": 84,
-   "capture": 9
-  },
-  {
-   "position": 85,
-   "capture": 10,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "speedlimit"
-   ],
-   "speed_limit_value": 3
-  },
-  {
-   "position": 86,
-   "capture": 11
-  },
-  {
-   "position": 87,
-   "capture": 12,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "speedlimit"
-   ],
-   "speed_limit_value": 3
-  },
-  {
-   "position": 88,
-   "capture": 13
-  },
-  {
-   "position": 89,
-   "capture": 14,
-   "restrict_type": "song_id",
-   "restrict_ids": [
-    "diode",
-    "freefall",
-    "monochromeprincess"
-   ],
-   "step_type": [
-    "speedlimit"
-   ],
-   "speed_limit_value": 3
-  },
-  {
-   "position": 90,
-   "capture": 15
-  },
-  {
-   "position": 91,
-   "capture": 14,
-   "restrict_type": "song_id",
-   "restrict_id": "grimheart"
-  },
-  {
-   "position": 92,
-   "capture": 13
-  },
-  {
-   "position": 93,
-   "capture": 12,
-   "restrict_type": "song_id",
-   "restrict_id": "revixy"
-  },
-  {
-   "position": 94,
-   "capture": 11
-  },
-  {
-   "position": 95,
-   "capture": 10,
-   "restrict_type": "song_id",
-   "restrict_id": "monochromeprincess"
-  },
-  {
-   "position": 96,
-   "capture": 9
-  },
-  {
-   "position": 97,
-   "capture": 8,
-   "restrict_type": "song_id",
-   "restrict_id": "vector"
-  },
-  {
-   "position": 98,
-   "capture": 7
-  },
-  {
-   "position": 99,
-   "capture": 6,
-   "restrict_type": "song_id",
-   "restrict_id": "supernova"
-  },
-  {
-   "position": 100,
-   "capture": 0,
-   "items": [
+  ],
+  "curr_position": 0,
+  "curr_capture": 0,
+  "is_locked": false,
+  "steps": [
     {
-     "type": "fragment",
-     "amount": 2000
+      "position": 0,
+      "capture": 5,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
+    },
+    {
+      "position": 1,
+      "capture": 6,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
+    },
+    {
+      "position": 2,
+      "capture": 7
+    },
+    {
+      "position": 3,
+      "capture": 8,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
+    },
+    {
+      "position": 4,
+      "capture": 9
+    },
+    {
+      "position": 5,
+      "capture": 10,
+      "items": [
+        {
+          "type": "world_unlock",
+          "id": "scenery_chap4"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "capture": 11
+    },
+    {
+      "position": 7,
+      "capture": 12,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
+    },
+    {
+      "position": 8,
+      "capture": 13,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
+    },
+    {
+      "position": 9,
+      "capture": 14,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
+    },
+    {
+      "position": 10,
+      "capture": 15
+    },
+    {
+      "position": 11,
+      "capture": 14,
+      "restrict_type": "song_id",
+      "restrict_ids": ["grimheart", "vector"]
+    },
+    {
+      "position": 12,
+      "capture": 13
+    },
+    {
+      "position": 13,
+      "capture": 12,
+      "restrict_type": "song_id",
+      "restrict_ids": ["grimheart", "vector"]
+    },
+    {
+      "position": 14,
+      "capture": 11
+    },
+    {
+      "position": 15,
+      "capture": 10,
+      "restrict_type": "song_id",
+      "restrict_ids": ["grimheart", "vector"]
+    },
+    {
+      "position": 16,
+      "capture": 9
+    },
+    {
+      "position": 17,
+      "capture": 8,
+      "restrict_type": "song_id",
+      "restrict_ids": ["grimheart", "vector"]
+    },
+    {
+      "position": 18,
+      "capture": 7
+    },
+    {
+      "position": 19,
+      "capture": 6,
+      "restrict_type": "song_id",
+      "restrict_ids": ["grimheart", "vector"]
+    },
+    {
+      "position": 20,
+      "capture": 5
+    },
+    {
+      "position": 21,
+      "capture": 6,
+      "restrict_type": "song_id",
+      "restrict_ids": ["revixy", "supernova"]
+    },
+    {
+      "position": 22,
+      "capture": 7
+    },
+    {
+      "position": 23,
+      "capture": 8,
+      "restrict_type": "song_id",
+      "restrict_ids": ["revixy", "supernova"]
+    },
+    {
+      "position": 24,
+      "capture": 9
+    },
+    {
+      "position": 25,
+      "capture": 10,
+      "restrict_type": "song_id",
+      "restrict_ids": ["revixy", "supernova"]
+    },
+    {
+      "position": 26,
+      "capture": 11
+    },
+    {
+      "position": 27,
+      "capture": 12,
+      "restrict_type": "song_id",
+      "restrict_ids": ["revixy", "supernova"]
+    },
+    {
+      "position": 28,
+      "capture": 13
+    },
+    {
+      "position": 29,
+      "capture": 14,
+      "restrict_type": "song_id",
+      "restrict_ids": ["revixy", "supernova"]
+    },
+    {
+      "position": 30,
+      "capture": 15
+    },
+    {
+      "position": 31,
+      "capture": 14,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"]
+    },
+    {
+      "position": 32,
+      "capture": 15
+    },
+    {
+      "position": 33,
+      "capture": 12,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"]
+    },
+    {
+      "position": 34,
+      "capture": 11
+    },
+    {
+      "position": 35,
+      "capture": 10,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"]
+    },
+    {
+      "position": 36,
+      "capture": 9
+    },
+    {
+      "position": 37,
+      "capture": 8,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"]
+    },
+    {
+      "position": 38,
+      "capture": 7
+    },
+    {
+      "position": 39,
+      "capture": 6,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"]
+    },
+    {
+      "position": 40,
+      "capture": 5
+    },
+    {
+      "position": 41,
+      "capture": 6,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 42,
+      "capture": 7
+    },
+    {
+      "position": 43,
+      "capture": 8,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 44,
+      "capture": 9
+    },
+    {
+      "position": 45,
+      "capture": 10,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 46,
+      "capture": 11
+    },
+    {
+      "position": 47,
+      "capture": 12,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 48,
+      "capture": 13
+    },
+    {
+      "position": 49,
+      "capture": 14,
+      "restrict_type": "song_id",
+      "restrict_ids": [
+        "grimheart",
+        "vector",
+        "revixy",
+        "supernova",
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 50,
+      "capture": 15
+    },
+    {
+      "position": 51,
+      "capture": 14,
+      "restrict_type": "song_id",
+      "restrict_ids": ["grimheart", "vector"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 52,
+      "capture": 15
+    },
+    {
+      "position": 53,
+      "capture": 12,
+      "restrict_type": "song_id",
+      "restrict_ids": ["grimheart", "vector"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 54,
+      "capture": 11
+    },
+    {
+      "position": 55,
+      "capture": 10,
+      "restrict_type": "song_id",
+      "restrict_ids": ["grimheart", "vector"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 56,
+      "capture": 9
+    },
+    {
+      "position": 57,
+      "capture": 8,
+      "restrict_type": "song_id",
+      "restrict_ids": ["grimheart", "vector"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 58,
+      "capture": 7
+    },
+    {
+      "position": 59,
+      "capture": 6,
+      "restrict_type": "song_id",
+      "restrict_ids": ["grimheart", "vector"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 60,
+      "capture": 5
+    },
+    {
+      "position": 61,
+      "capture": 6,
+      "restrict_type": "song_id",
+      "restrict_ids": ["revixy", "supernova"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 62,
+      "capture": 7
+    },
+    {
+      "position": 63,
+      "capture": 8,
+      "restrict_type": "song_id",
+      "restrict_ids": ["revixy", "supernova"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 64,
+      "capture": 9
+    },
+    {
+      "position": 65,
+      "capture": 10,
+      "restrict_type": "song_id",
+      "restrict_ids": ["revixy", "supernova"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 66,
+      "capture": 11
+    },
+    {
+      "position": 67,
+      "capture": 12,
+      "restrict_type": "song_id",
+      "restrict_ids": ["revixy", "supernova"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 68,
+      "capture": 13
+    },
+    {
+      "position": 69,
+      "capture": 14,
+      "restrict_type": "song_id",
+      "restrict_ids": ["revixy", "supernova"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 70,
+      "capture": 15
+    },
+    {
+      "position": 71,
+      "capture": 14,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 72,
+      "capture": 15
+    },
+    {
+      "position": 73,
+      "capture": 12,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 74,
+      "capture": 11
+    },
+    {
+      "position": 75,
+      "capture": 10,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 76,
+      "capture": 9
+    },
+    {
+      "position": 77,
+      "capture": 8,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 78,
+      "capture": 7
+    },
+    {
+      "position": 79,
+      "capture": 6,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
+      "step_type": ["randomsong"]
+    },
+    {
+      "position": 80,
+      "capture": 5
+    },
+    {
+      "position": 81,
+      "capture": 6,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
+      "step_type": ["speedlimit"],
+      "speed_limit_value": 3
+    },
+    {
+      "position": 82,
+      "capture": 7
+    },
+    {
+      "position": 83,
+      "capture": 8,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
+      "step_type": ["speedlimit"],
+      "speed_limit_value": 3
+    },
+    {
+      "position": 84,
+      "capture": 9
+    },
+    {
+      "position": 85,
+      "capture": 10,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
+      "step_type": ["speedlimit"],
+      "speed_limit_value": 3
+    },
+    {
+      "position": 86,
+      "capture": 11
+    },
+    {
+      "position": 87,
+      "capture": 12,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
+      "step_type": ["speedlimit"],
+      "speed_limit_value": 3
+    },
+    {
+      "position": 88,
+      "capture": 13
+    },
+    {
+      "position": 89,
+      "capture": 14,
+      "restrict_type": "song_id",
+      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
+      "step_type": ["speedlimit"],
+      "speed_limit_value": 3
+    },
+    {
+      "position": 90,
+      "capture": 15
+    },
+    {
+      "position": 91,
+      "capture": 14,
+      "restrict_type": "song_id",
+      "restrict_id": "grimheart"
+    },
+    {
+      "position": 92,
+      "capture": 13
+    },
+    {
+      "position": 93,
+      "capture": 12,
+      "restrict_type": "song_id",
+      "restrict_id": "revixy"
+    },
+    {
+      "position": 94,
+      "capture": 11
+    },
+    {
+      "position": 95,
+      "capture": 10,
+      "restrict_type": "song_id",
+      "restrict_id": "monochromeprincess"
+    },
+    {
+      "position": 96,
+      "capture": 9
+    },
+    {
+      "position": 97,
+      "capture": 8,
+      "restrict_type": "song_id",
+      "restrict_id": "vector"
+    },
+    {
+      "position": 98,
+      "capture": 7
+    },
+    {
+      "position": 99,
+      "capture": 6,
+      "restrict_type": "song_id",
+      "restrict_id": "supernova"
+    },
+    {
+      "position": 100,
+      "capture": 0,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 2000
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

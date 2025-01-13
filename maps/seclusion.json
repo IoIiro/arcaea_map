@@ -1,90 +1,90 @@
 {
- "map_id": "seclusion",
- "is_legacy": false,
- "beyond_health": 100,
- "character_affinity": [],
- "affinity_multiplier": [],
- "chapter": 6,
- "available_from": -1,
- "available_to": 9999999999999,
- "is_repeatable": false,
- "require_id": "observer",
- "require_type": "pack",
- "coordinate": "0,-16",
- "step_count": 7,
- "custom_bg": "",
- "stamina_cost": 2,
- "is_breached": false,
- "disable_over": false,
- "requires": [
-  {
-   "type": "pack",
-   "id": "observer"
-  }
- ],
- "curr_position": 0,
- "curr_capture": 0,
- "is_locked": false,
- "steps": [
-  {
-   "position": 0,
-   "capture": 20,
-   "restrict_type": "pack_id",
-   "restrict_id": "observer"
-  },
-  {
-   "position": 1,
-   "capture": 30,
-   "items": [
+  "map_id": "seclusion",
+  "is_legacy": false,
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 6,
+  "available_from": -1,
+  "available_to": 9999999999999,
+  "is_repeatable": false,
+  "require_id": "observer",
+  "require_type": "pack",
+  "coordinate": "0,-16",
+  "step_count": 7,
+  "custom_bg": "",
+  "stamina_cost": 2,
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
+      "type": "pack",
+      "id": "observer"
     }
-   ]
-  },
-  {
-   "position": 2,
-   "capture": 60,
-   "items": [
+  ],
+  "curr_position": 0,
+  "curr_capture": 0,
+  "is_locked": false,
+  "steps": [
     {
-     "type": "fragment",
-     "amount": 250
-    }
-   ]
-  },
-  {
-   "position": 3,
-   "capture": 30,
-   "items": [
+      "position": 0,
+      "capture": 20,
+      "restrict_type": "pack_id",
+      "restrict_id": "observer"
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ]
-  },
-  {
-   "position": 4,
-   "capture": 20,
-   "restrict_type": "pack_id",
-   "restrict_id": "observer"
-  },
-  {
-   "position": 5,
-   "capture": 1,
-   "restrict_type": "song_id",
-   "restrict_id": "aegleseeker"
-  },
-  {
-   "position": 6,
-   "capture": 0,
-   "items": [
+      "position": 1,
+      "capture": 30,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ]
+    },
     {
-     "id": "seclusion",
-     "type": "world_song"
+      "position": 2,
+      "capture": 60,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 250
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "capture": 30,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "capture": 20,
+      "restrict_type": "pack_id",
+      "restrict_id": "observer"
+    },
+    {
+      "position": 5,
+      "capture": 1,
+      "restrict_type": "song_id",
+      "restrict_id": "aegleseeker"
+    },
+    {
+      "position": 6,
+      "capture": 0,
+      "items": [
+        {
+          "id": "seclusion",
+          "type": "world_song"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

@@ -1,631 +1,631 @@
 {
- "map_id": "axiumcrisis",
- "beyond_health": 100,
- "character_affinity": [],
- "affinity_multiplier": [],
- "chapter": 1,
- "available_from": -1,
- "available_to": 2106124800000,
- "is_repeatable": false,
- "require_id": "yugamu",
- "require_type": "pack",
- "is_legacy": true,
- "stamina_cost": 1,
- "coordinate": "500,0",
- "step_count": 61,
- "custom_bg": "",
- "is_breached": false,
- "disable_over": false,
- "requires": [
-  {
-   "type": "pack",
-   "id": "yugamu"
-  }
- ],
- "curr_position": 60,
- "curr_capture": 0,
- "is_locked": false,
- "rewards": [
-  {
-   "items": [
+  "map_id": "axiumcrisis",
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 1,
+  "available_from": -1,
+  "available_to": 2106124800000,
+  "is_repeatable": false,
+  "require_id": "yugamu",
+  "require_type": "pack",
+  "is_legacy": true,
+  "stamina_cost": 1,
+  "coordinate": "500,0",
+  "step_count": 61,
+  "custom_bg": "",
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
     {
-     "type": "fragment",
-     "amount": 100
+      "type": "pack",
+      "id": "yugamu"
     }
-   ],
-   "position": 5
-  },
-  {
-   "items": [
+  ],
+  "curr_position": 60,
+  "curr_capture": 0,
+  "is_locked": false,
+  "rewards": [
     {
-     "type": "fragment",
-     "amount": 100
-    }
-   ],
-   "position": 10
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 100
+        }
+      ],
+      "position": 5
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 2
-    }
-   ],
-   "position": 15
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 100
+        }
+      ],
+      "position": 10
+    },
     {
-     "type": "fragment",
-     "amount": 100
-    }
-   ],
-   "position": 24
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 2
+        }
+      ],
+      "position": 15
+    },
     {
-     "type": "fragment",
-     "amount": 200
-    }
-   ],
-   "position": 30
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 100
+        }
+      ],
+      "position": 24
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 2
-    }
-   ],
-   "position": 35
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 200
+        }
+      ],
+      "position": 30
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 37
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 2
+        }
+      ],
+      "position": 35
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 39
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 37
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 41
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 39
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 43
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 41
+    },
     {
-     "type": "fragment",
-     "amount": 150
-    }
-   ],
-   "position": 45
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 43
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 51
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 150
+        }
+      ],
+      "position": 45
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 53
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 51
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 55
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 53
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ],
-   "position": 57
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 55
+    },
     {
-     "id": "6",
-     "type": "character"
-    }
-   ],
-   "position": 60
-  }
- ],
- "steps": [
-  {
-   "position": 0,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 1,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 2,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 3,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 4,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 5,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ],
+      "position": 57
+    },
     {
-     "type": "fragment",
-     "amount": 100
+      "items": [
+        {
+          "id": "6",
+          "type": "character"
+        }
+      ],
+      "position": 60
     }
-   ]
-  },
-  {
-   "position": 6,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "yugamu",
-   "restrict_type": "pack_id"
-  },
-  {
-   "position": 7,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "yugamu",
-   "restrict_type": "pack_id"
-  },
-  {
-   "position": 8,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "yugamu",
-   "restrict_type": "pack_id"
-  },
-  {
-   "position": 9,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "yugamu",
-   "restrict_type": "pack_id"
-  },
-  {
-   "position": 10,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+  ],
+  "steps": [
     {
-     "id": "axiumcrisis",
-     "type": "world_song"
-    }
-   ]
-  },
-  {
-   "position": 11,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 12,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 13,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 14,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 15,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 0,
+      "__v": 0,
+      "capture": 10
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 2
-    }
-   ]
-  },
-  {
-   "position": 16,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 17,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 18,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 19,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "soundwitch",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 20,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "trappola",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 21,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "iconoclast",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 22,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "conflict",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 23,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "axiumcrisis",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 24,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 1,
+      "__v": 0,
+      "capture": 10
+    },
     {
-     "type": "fragment",
-     "amount": 100
-    }
-   ]
-  },
-  {
-   "position": 25,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "soundwitch",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 26,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "trappola",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 27,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "iconoclast",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 28,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "conflict",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 29,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "axiumcrisis",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 30,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 2,
+      "__v": 0,
+      "capture": 10
+    },
     {
-     "type": "fragment",
-     "amount": 200
-    }
-   ]
-  },
-  {
-   "position": 31,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 32,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 33,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 34,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 35,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 3,
+      "__v": 0,
+      "capture": 10
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 2
-    }
-   ]
-  },
-  {
-   "position": 36,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "yugamu",
-   "restrict_type": "pack_id"
-  },
-  {
-   "position": 37,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 4,
+      "__v": 0,
+      "capture": 10
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 38,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "yugamu",
-   "restrict_type": "pack_id"
-  },
-  {
-   "position": 39,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 5,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 100
+        }
+      ]
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 40,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "yugamu",
-   "restrict_type": "pack_id"
-  },
-  {
-   "position": 41,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 6,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "yugamu",
+      "restrict_type": "pack_id"
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 42,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "yugamu",
-   "restrict_type": "pack_id"
-  },
-  {
-   "position": 43,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 7,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "yugamu",
+      "restrict_type": "pack_id"
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 44,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "yugamu",
-   "restrict_type": "pack_id"
-  },
-  {
-   "position": 45,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 8,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "yugamu",
+      "restrict_type": "pack_id"
+    },
     {
-     "type": "fragment",
-     "amount": 150
-    }
-   ]
-  },
-  {
-   "position": 46,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 47,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 48,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 49,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 50,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "soundwitch",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 51,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 9,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "yugamu",
+      "restrict_type": "pack_id"
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 52,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "trappola",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 53,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 10,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "id": "axiumcrisis",
+          "type": "world_song"
+        }
+      ]
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 54,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "iconoclast",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 55,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 11,
+      "__v": 0,
+      "capture": 10
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 56,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "conflict",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 57,
-   "__v": 0,
-   "capture": 10,
-   "items": [
+      "position": 12,
+      "__v": 0,
+      "capture": 10
+    },
     {
-     "type": "fragment",
-     "amount": 25
-    }
-   ]
-  },
-  {
-   "position": 58,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "axiumcrisis",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 59,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "axiumcrisis",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 60,
-   "__v": 0,
-   "capture": 0,
-   "items": [
+      "position": 13,
+      "__v": 0,
+      "capture": 10
+    },
     {
-     "id": "6",
-     "type": "character"
+      "position": 14,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 15,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "position": 16,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 17,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 18,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 19,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "soundwitch",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 20,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "trappola",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 21,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "iconoclast",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 22,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "conflict",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 23,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "axiumcrisis",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 24,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 100
+        }
+      ]
+    },
+    {
+      "position": 25,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "soundwitch",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 26,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "trappola",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 27,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "iconoclast",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 28,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "conflict",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 29,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "axiumcrisis",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 30,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 200
+        }
+      ]
+    },
+    {
+      "position": 31,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 32,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 33,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 34,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 35,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "position": 36,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "yugamu",
+      "restrict_type": "pack_id"
+    },
+    {
+      "position": 37,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 38,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "yugamu",
+      "restrict_type": "pack_id"
+    },
+    {
+      "position": 39,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 40,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "yugamu",
+      "restrict_type": "pack_id"
+    },
+    {
+      "position": 41,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 42,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "yugamu",
+      "restrict_type": "pack_id"
+    },
+    {
+      "position": 43,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 44,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "yugamu",
+      "restrict_type": "pack_id"
+    },
+    {
+      "position": 45,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 150
+        }
+      ]
+    },
+    {
+      "position": 46,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 47,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 48,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 49,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 50,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "soundwitch",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 51,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 52,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "trappola",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 53,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 54,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "iconoclast",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 55,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 56,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "conflict",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 57,
+      "__v": 0,
+      "capture": 10,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 25
+        }
+      ]
+    },
+    {
+      "position": 58,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "axiumcrisis",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 59,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "axiumcrisis",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 60,
+      "__v": 0,
+      "capture": 0,
+      "items": [
+        {
+          "id": "6",
+          "type": "character"
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }

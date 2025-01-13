@@ -1,124 +1,106 @@
 {
- "map_id": "eden",
- "is_legacy": false,
- "beyond_health": 100,
- "character_affinity": [],
- "affinity_multiplier": [],
- "chapter": 8,
- "available_from": -1,
- "available_to": 2106124800000,
- "is_repeatable": false,
- "require_id": "eden",
- "require_type": "pack",
- "coordinate": "-370,-150",
- "step_count": 14,
- "custom_bg": "",
- "stamina_cost": 2,
- "is_breached": false,
- "disable_over": false,
- "requires": [
-  {
-   "type": "pack",
-   "id": "eden"
-  }
- ],
- "curr_position": 0,
- "curr_capture": 0,
- "is_locked": false,
- "steps": [
-  {
-   "position": 0,
-   "capture": 20,
-   "restrict_id": [
-    "waitfordawn",
-    "ravenspride"
-   ],
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 1,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 2,
-   "capture": 25
-  },
-  {
-   "position": 3,
-   "capture": 25
-  },
-  {
-   "position": 4,
-   "capture": 25
-  },
-  {
-   "position": 5,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 6,
-   "capture": 20,
-   "restrict_id": [
-    "eden",
-    "eden_append_1",
-    "eden_append_2"
-   ],
-   "restrict_type": "pack"
-  },
-  {
-   "position": 7,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 8,
-   "capture": 25
-  },
-  {
-   "position": 9,
-   "capture": 25
-  },
-  {
-   "position": 10,
-   "capture": 25
-  },
-  {
-   "position": 11,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 2
-  },
-  {
-   "position": 12,
-   "capture": 20,
-   "restrict_id": [
-    "waitfordawn",
-    "ravenspride"
-   ],
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 13,
-   "capture": 0,
-   "items": [
+  "map_id": "eden",
+  "is_legacy": false,
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 8,
+  "available_from": -1,
+  "available_to": 2106124800000,
+  "is_repeatable": false,
+  "require_id": "eden",
+  "require_type": "pack",
+  "coordinate": "-370,-150",
+  "step_count": 14,
+  "custom_bg": "",
+  "stamina_cost": 2,
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
     {
-     "type": "character",
-     "id": "71"
+      "type": "pack",
+      "id": "eden"
     }
-   ]
-  }
- ]
+  ],
+  "curr_position": 0,
+  "curr_capture": 0,
+  "is_locked": false,
+  "steps": [
+    {
+      "position": 0,
+      "capture": 20,
+      "restrict_ids": ["waitfordawn", "ravenspride"],
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 1,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 2,
+      "capture": 25
+    },
+    {
+      "position": 3,
+      "capture": 25
+    },
+    {
+      "position": 4,
+      "capture": 25
+    },
+    {
+      "position": 5,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 6,
+      "capture": 20,
+      "restrict_ids": ["eden", "eden_append_1", "eden_append_2"],
+      "restrict_type": "pack"
+    },
+    {
+      "position": 7,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 8,
+      "capture": 25
+    },
+    {
+      "position": 9,
+      "capture": 25
+    },
+    {
+      "position": 10,
+      "capture": 25
+    },
+    {
+      "position": 11,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 12,
+      "capture": 20,
+      "restrict_ids": ["waitfordawn", "ravenspride"],
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 13,
+      "capture": 0,
+      "items": [
+        {
+          "type": "character",
+          "id": "71"
+        }
+      ]
+    }
+  ]
 }

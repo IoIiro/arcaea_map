@@ -1,54 +1,52 @@
 {
-    "map_id": "astralquant",
-    "requires_any": [],
-    "is_legacy": false,
-    "beyond_health": 100,
-    "character_affinity": [],
-    "affinity_multiplier": [],
-    "chapter": 9,
-    "available_from": -1,
-    "available_to": 2106124800000,
-    "is_repeatable": false,
-    "require_id": "lephon",
-    "require_type": "pack",
-    "require_localunlock_challengeid": "astralquant",
-    "coordinate": "0,-50",
-    "step_count": 3,
-    "custom_bg": "",
-    "stamina_cost": 2,
-    "is_breached": false,
-    "disable_over": false,
-    "requires": [
+  "map_id": "astralquant",
+  "requires_any": [],
+  "is_legacy": false,
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 9,
+  "available_from": -1,
+  "available_to": 2106124800000,
+  "is_repeatable": false,
+  "require_id": "lephon",
+  "require_type": "pack",
+  "require_localunlock_challengeid": "astralquant",
+  "coordinate": "0,-50",
+  "step_count": 3,
+  "custom_bg": "",
+  "stamina_cost": 2,
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
+    {
+      "type": "pack",
+      "id": "lephon"
+    }
+  ],
+  "steps": [
+    {
+      "position": 0,
+      "restrict_type": "song_id",
+      "restrict_id": "astralquant",
+      "capture": 0
+    },
+    {
+      "position": 1,
+      "step_type": ["randomsong"],
+      "restrict_type": "pack_id",
+      "restrict_id": "lephon",
+      "capture": 100
+    },
+    {
+      "position": 2,
+      "capture": 0,
+      "items": [
         {
-            "type": "pack",
-            "id": "lephon"
+          "id": "78",
+          "type": "character"
         }
-    ],
-    "steps": [
-        {
-            "position": 0,
-            "restrict_type": "song_id",
-            "restrict_id": "astralquant",
-            "capture": 0
-        },
-        {
-            "position": 1,
-            "step_type": [
-                "randomsong"
-            ],
-            "restrict_type": "pack_id",
-            "restrict_id": "lephon",
-            "capture": 100
-        },
-        {
-            "position": 2,
-            "capture": 0,
-            "items": [
-                {
-                    "id": "78",
-                    "type": "character"
-                }
-            ]
-        }
-    ]
+      ]
+    }
+  ]
 }

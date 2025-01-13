@@ -1,68 +1,68 @@
 {
- "map_id": "observer",
- "is_legacy": false,
- "beyond_health": 100,
- "character_affinity": [],
- "affinity_multiplier": [],
- "chapter": 6,
- "available_from": -1,
- "available_to": 9999999999999,
- "is_repeatable": false,
- "require_id": "observer",
- "require_type": "pack",
- "coordinate": "-400,-16",
- "step_count": 7,
- "custom_bg": "",
- "stamina_cost": 2,
- "is_breached": false,
- "disable_over": false,
- "requires": [
-  {
-   "type": "pack",
-   "id": "observer"
-  }
- ],
- "curr_position": 0,
- "curr_capture": 0,
- "is_locked": false,
- "steps": [
-  {
-   "position": 0,
-   "capture": 1,
-   "restrict_type": "song_id",
-   "restrict_id": "loschen"
-  },
-  {
-   "position": 1,
-   "capture": 15
-  },
-  {
-   "position": 2,
-   "capture": 30
-  },
-  {
-   "position": 3,
-   "capture": 45,
-   "restrict_type": "pack_id",
-   "restrict_id": "observer"
-  },
-  {
-   "position": 4,
-   "capture": 60
-  },
-  {
-   "position": 5,
-   "capture": 75
-  },
-  {
-   "position": 6,
-   "capture": 0,
-   "items": [
+  "map_id": "observer",
+  "is_legacy": false,
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 6,
+  "available_from": -1,
+  "available_to": 9999999999999,
+  "is_repeatable": false,
+  "require_id": "observer",
+  "require_type": "pack",
+  "coordinate": "-400,-16",
+  "step_count": 7,
+  "custom_bg": "",
+  "stamina_cost": 2,
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
     {
-     "id": "45",
-     "type": "character"
+      "type": "pack",
+      "id": "observer"
     }
-   ]
-  }
- ]
+  ],
+  "curr_position": 0,
+  "curr_capture": 0,
+  "is_locked": false,
+  "steps": [
+    {
+      "position": 0,
+      "capture": 1,
+      "restrict_type": "song_id",
+      "restrict_id": "loschen"
+    },
+    {
+      "position": 1,
+      "capture": 15
+    },
+    {
+      "position": 2,
+      "capture": 30
+    },
+    {
+      "position": 3,
+      "capture": 45,
+      "restrict_type": "pack_id",
+      "restrict_id": "observer"
+    },
+    {
+      "position": 4,
+      "capture": 60
+    },
+    {
+      "position": 5,
+      "capture": 75
+    },
+    {
+      "position": 6,
+      "capture": 0,
+      "items": [
+        {
+          "id": "45",
+          "type": "character"
+        }
+      ]
+    }
+  ]
 }

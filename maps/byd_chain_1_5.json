@@ -1,70 +1,56 @@
 {
-    "map_id": "byd_chain_1_5",
-    "requires_any": [],
-    "is_legacy": false,
-    "chapter": 1001,
-    "available_from": -1,
-    "available_to": 9999999999999,
-    "is_repeatable": false,
-    "require_id": [
-        "heavensdoor3",
-        "pragmatism2"
-    ],
-    "require_type": "chart_unlock",
-    "coordinate": "0,230",
-    "is_beyond": true,
-    "stamina_cost": 3,
-    "beyond_health": 400,
-    "character_affinity": [
-        7,
-        15
-    ],
-    "affinity_multiplier": [
-        1.9,
-        2
-    ],
-    "chain_info": {
-        "index": 4,
-        "id": "beyond_chain_1"
+  "map_id": "byd_chain_1_5",
+  "requires_any": [],
+  "is_legacy": false,
+  "chapter": 1001,
+  "available_from": -1,
+  "available_to": 9999999999999,
+  "is_repeatable": false,
+  "require_id": ["heavensdoor3", "pragmatism2"],
+  "require_type": "chart_unlock",
+  "coordinate": "0,230",
+  "is_beyond": true,
+  "stamina_cost": 3,
+  "beyond_health": 400,
+  "character_affinity": [7, 15],
+  "affinity_multiplier": [1.9, 2],
+  "chain_info": {
+    "index": 4,
+    "id": "beyond_chain_1"
+  },
+  "step_count": 2,
+  "custom_bg": "",
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
+    {
+      "type": "chart_unlock",
+      "id": "heavensdoor3"
     },
-    "step_count": 2,
-    "custom_bg": "",
-    "is_breached": false,
-    "disable_over": false,
-    "requires": [
+    {
+      "type": "chart_unlock",
+      "id": "pragmatism2"
+    }
+  ],
+  "steps": [
+    {
+      "map_id": "byd_chain_1_5",
+      "position": 0,
+      "capture": 400,
+      "restrict_ids": ["kanagawa", "qualia", "antithese", "heavensdoor"],
+      "restrict_type": "song_id",
+      "restrict_difficulty": 3
+    },
+    {
+      "map_id": "byd_chain_1_5",
+      "position": 1,
+      "capture": 0,
+      "items": [
         {
-            "type": "chart_unlock",
-            "id": "heavensdoor3"
-        },
-        {
-            "type": "chart_unlock",
-            "id": "pragmatism2"
+          "id": "pragmatism3",
+          "type": "world_song"
         }
-    ],
-    "steps": [
-        {
-            "map_id": "byd_chain_1_5",
-            "position": 0,
-            "capture": 400,
-            "restrict_ids": [
-                "kanagawa",
-                "qualia",
-                "antithese",
-                "heavensdoor"
-            ],
-            "restrict_type": "song_id",
-            "restrict_difficulty": 3
-        },
-        {
-            "map_id": "byd_chain_1_5",
-            "position": 1,
-            "capture": 0,
-            "items": [
-                {
-                    "id": "pragmatism3",
-                    "type": "world_song"
-                }
-            ]
-        }
-    ]
+      ]
+    }
+  ]
 }

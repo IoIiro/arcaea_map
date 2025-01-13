@@ -1,103 +1,93 @@
 {
-    "map_id": "byd_partyvinyl",
-    "requires_any": [],
-    "is_legacy": false,
-    "chapter": 1001,
-    "available_from": -1,
-    "available_to": 9999999999999,
-    "is_repeatable": false,
-    "require_id": "partyvinyl2",
-    "require_type": "chart_unlock",
-    "coordinate": "650,-650",
-    "is_beyond": true,
-    "stamina_cost": 3,
-    "beyond_health": 250,
-    "character_affinity": [
-        59,
-        2,
-        20
-    ],
-    "affinity_multiplier": [
-        3,
-        3.1,
-        2.3
-    ],
-    "step_count": 5,
-    "custom_bg": "",
-    "is_breached": false,
-    "disable_over": false,
-    "requires": [
+  "map_id": "byd_partyvinyl",
+  "requires_any": [],
+  "is_legacy": false,
+  "chapter": 1001,
+  "available_from": -1,
+  "available_to": 9999999999999,
+  "is_repeatable": false,
+  "require_id": "partyvinyl2",
+  "require_type": "chart_unlock",
+  "coordinate": "650,-650",
+  "is_beyond": true,
+  "stamina_cost": 3,
+  "beyond_health": 250,
+  "character_affinity": [59, 2, 20],
+  "affinity_multiplier": [3, 3.1, 2.3],
+  "step_count": 5,
+  "custom_bg": "",
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [
+    {
+      "type": "chart_unlock",
+      "id": "partyvinyl2"
+    }
+  ],
+  "steps": [
+    {
+      "map_id": "byd_partyvinyl",
+      "position": 0,
+      "capture": 50,
+      "restrict_ids": [
+        "capella",
+        "flashback",
+        "journey",
+        "paradise",
+        "flyburg",
+        "partyvinyl",
+        "nirvluce",
+        "gloryroad",
+        "bluecomet",
+        "diode"
+      ],
+      "restrict_type": "song_id",
+      "step_type": ["randomsong"]
+    },
+    {
+      "map_id": "byd_partyvinyl",
+      "position": 1,
+      "capture": 75,
+      "items": [
         {
-            "type": "chart_unlock",
-            "id": "partyvinyl2"
+          "type": "fragment",
+          "amount": 700
         }
-    ],
-    "steps": [
+      ]
+    },
+    {
+      "map_id": "byd_partyvinyl",
+      "position": 2,
+      "capture": 75,
+      "items": [
         {
-            "map_id": "byd_partyvinyl",
-            "position": 0,
-            "capture": 50,
-            "restrict_ids": [
-                "capella",
-                "flashback",
-                "journey",
-                "paradise",
-                "flyburg",
-                "partyvinyl",
-                "nirvluce",
-                "gloryroad",
-                "bluecomet",
-                "diode"
-            ],
-            "restrict_type": "song_id",
-            "step_type": [
-                "randomsong"
-            ]
-        },
-        {
-            "map_id": "byd_partyvinyl",
-            "position": 1,
-            "capture": 75,
-            "items": [
-                {
-                    "type": "fragment",
-                    "amount": 700
-                }
-            ]
-        },
-        {
-            "map_id": "byd_partyvinyl",
-            "position": 2,
-            "capture": 75,
-            "items": [
-                {
-                    "type": "core",
-                    "id": "core_generic",
-                    "amount": 4
-                }
-            ]
-        },
-        {
-            "map_id": "byd_partyvinyl",
-            "position": 3,
-            "capture": 50,
-            "items": [
-                {
-                    "type": "fragment",
-                    "amount": 700
-                }
-            ]
-        },
-        {
-            "map_id": "byd_partyvinyl",
-            "position": 4,
-            "capture": 0,
-            "items": [
-                {
-                    "id": "partyvinyl3",
-                    "type": "world_song"
-                }
-            ]
+          "type": "core",
+          "id": "core_generic",
+          "amount": 4
         }
-    ]
+      ]
+    },
+    {
+      "map_id": "byd_partyvinyl",
+      "position": 3,
+      "capture": 50,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 700
+        }
+      ]
+    },
+    {
+      "map_id": "byd_partyvinyl",
+      "position": 4,
+      "capture": 0,
+      "items": [
+        {
+          "id": "partyvinyl3",
+          "type": "world_song"
+        }
+      ]
+    }
+  ]
 }

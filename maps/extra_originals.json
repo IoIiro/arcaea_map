@@ -1,981 +1,977 @@
 {
- "map_id": "extra_originals",
- "beyond_health": 100,
- "character_affinity": [],
- "affinity_multiplier": [],
- "chapter": 2,
- "available_from": -1,
- "available_to": 2106124800000,
- "is_repeatable": false,
- "require_id": "",
- "require_type": "",
- "require_value": 1,
- "is_legacy": true,
- "stamina_cost": 1,
- "coordinate": "-150,-200",
- "step_count": 101,
- "custom_bg": "",
- "is_breached": false,
- "disable_over": false,
- "requires": [],
- "curr_position": 96,
- "curr_capture": 28.81498371690239,
- "is_locked": false,
- "rewards": [
-  {
-   "items": [
+  "map_id": "extra_originals",
+  "beyond_health": 100,
+  "character_affinity": [],
+  "affinity_multiplier": [],
+  "chapter": 2,
+  "available_from": -1,
+  "available_to": 2106124800000,
+  "is_repeatable": false,
+  "require_id": "",
+  "require_type": "",
+  "require_value": 1,
+  "is_legacy": true,
+  "stamina_cost": 1,
+  "coordinate": "-150,-200",
+  "step_count": 101,
+  "custom_bg": "",
+  "is_breached": false,
+  "disable_over": false,
+  "requires": [],
+  "curr_position": 0,
+  "curr_capture": 0,
+  "is_locked": false,
+  "rewards": [
     {
-     "type": "fragment",
-     "amount": 50
-    }
-   ],
-   "position": 5
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 50
+        }
+      ],
+      "position": 5
+    },
     {
-     "type": "fragment",
-     "amount": 60
-    }
-   ],
-   "position": 10
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ],
+      "position": 10
+    },
     {
-     "type": "fragment",
-     "amount": 70
-    }
-   ],
-   "position": 15
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ],
+      "position": 15
+    },
     {
-     "type": "fragment",
-     "amount": 60
-    }
-   ],
-   "position": 20
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ],
+      "position": 20
+    },
     {
-     "type": "fragment",
-     "amount": 50
-    }
-   ],
-   "position": 25
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 50
+        }
+      ],
+      "position": 25
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ],
-   "position": 29
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ],
+      "position": 29
+    },
     {
-     "id": "syro",
-     "type": "world_song"
-    }
-   ],
-   "position": 30
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "id": "syro",
+          "type": "world_song"
+        }
+      ],
+      "position": 30
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ],
-   "position": 31
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ],
+      "position": 31
+    },
     {
-     "type": "fragment",
-     "amount": 60
-    }
-   ],
-   "position": 35
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ],
+      "position": 35
+    },
     {
-     "type": "fragment",
-     "amount": 70
-    }
-   ],
-   "position": 40
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ],
+      "position": 40
+    },
     {
-     "type": "fragment",
-     "amount": 80
-    }
-   ],
-   "position": 45
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 80
+        }
+      ],
+      "position": 45
+    },
     {
-     "type": "fragment",
-     "amount": 70
-    }
-   ],
-   "position": 50
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ],
+      "position": 50
+    },
     {
-     "type": "fragment",
-     "amount": 60
-    }
-   ],
-   "position": 55
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ],
+      "position": 55
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ],
-   "position": 59
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ],
+      "position": 59
+    },
     {
-     "id": "blaster",
-     "type": "world_song"
-    }
-   ],
-   "position": 60
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "id": "blaster",
+          "type": "world_song"
+        }
+      ],
+      "position": 60
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ],
-   "position": 61
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ],
+      "position": 61
+    },
     {
-     "type": "fragment",
-     "amount": 70
-    }
-   ],
-   "position": 65
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ],
+      "position": 65
+    },
     {
-     "type": "fragment",
-     "amount": 80
-    }
-   ],
-   "position": 70
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 80
+        }
+      ],
+      "position": 70
+    },
     {
-     "type": "fragment",
-     "amount": 90
-    }
-   ],
-   "position": 75
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 90
+        }
+      ],
+      "position": 75
+    },
     {
-     "type": "fragment",
-     "amount": 90
-    }
-   ],
-   "position": 80
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 90
+        }
+      ],
+      "position": 80
+    },
     {
-     "type": "fragment",
-     "amount": 80
-    }
-   ],
-   "position": 85
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 80
+        }
+      ],
+      "position": 85
+    },
     {
-     "type": "fragment",
-     "amount": 70
-    }
-   ],
-   "position": 90
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ],
+      "position": 90
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ],
-   "position": 94
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ],
+      "position": 94
+    },
     {
-     "id": "cyberneciacatharsis",
-     "type": "world_song"
-    }
-   ],
-   "position": 95
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "id": "cyberneciacatharsis",
+          "type": "world_song"
+        }
+      ],
+      "position": 95
+    },
     {
-     "type": "core",
-     "id": "core_crimson",
-     "amount": 5
-    }
-   ],
-   "position": 98
-  },
-  {
-   "items": [
+      "items": [
+        {
+          "type": "core",
+          "id": "core_crimson",
+          "amount": 5
+        }
+      ],
+      "position": 98
+    },
     {
-     "type": "core",
-     "id": "core_crimson",
-     "amount": 5
+      "items": [
+        {
+          "type": "core",
+          "id": "core_crimson",
+          "amount": 5
+        }
+      ],
+      "position": 100
     }
-   ],
-   "position": 100
-  }
- ],
- "steps": [
-  {
-   "position": 0,
-   "__v": 0,
-   "capture": 2
-  },
-  {
-   "position": 1,
-   "__v": 0,
-   "capture": 3
-  },
-  {
-   "position": 2,
-   "__v": 0,
-   "capture": 4
-  },
-  {
-   "position": 3,
-   "__v": 0,
-   "capture": 5
-  },
-  {
-   "position": 4,
-   "__v": 0,
-   "capture": 6,
-   "restrict_id": "infinityheaven",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 5,
-   "__v": 0,
-   "capture": 7,
-   "items": [
+  ],
+  "steps": [
     {
-     "type": "fragment",
-     "amount": 50
-    }
-   ]
-  },
-  {
-   "position": 6,
-   "__v": 0,
-   "capture": 8
-  },
-  {
-   "position": 7,
-   "__v": 0,
-   "capture": 9
-  },
-  {
-   "position": 8,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 9,
-   "__v": 0,
-   "capture": 11,
-   "restrict_id": "infinityheaven",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 10,
-   "__v": 0,
-   "capture": 12,
-   "items": [
+      "position": 0,
+      "__v": 0,
+      "capture": 2
+    },
     {
-     "type": "fragment",
-     "amount": 60
-    }
-   ]
-  },
-  {
-   "position": 11,
-   "__v": 0,
-   "capture": 13
-  },
-  {
-   "position": 12,
-   "__v": 0,
-   "capture": 14
-  },
-  {
-   "position": 13,
-   "__v": 0,
-   "capture": 15
-  },
-  {
-   "position": 14,
-   "__v": 0,
-   "capture": 16,
-   "restrict_id": "infinityheaven",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 15,
-   "__v": 0,
-   "capture": 17,
-   "items": [
+      "position": 1,
+      "__v": 0,
+      "capture": 3
+    },
     {
-     "type": "fragment",
-     "amount": 70
-    }
-   ]
-  },
-  {
-   "position": 16,
-   "__v": 0,
-   "capture": 16,
-   "restrict_id": "reinvent",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 17,
-   "__v": 0,
-   "capture": 15
-  },
-  {
-   "position": 18,
-   "__v": 0,
-   "capture": 14
-  },
-  {
-   "position": 19,
-   "__v": 0,
-   "capture": 13
-  },
-  {
-   "position": 20,
-   "__v": 0,
-   "capture": 12,
-   "items": [
+      "position": 2,
+      "__v": 0,
+      "capture": 4
+    },
     {
-     "type": "fragment",
-     "amount": 60
-    }
-   ]
-  },
-  {
-   "position": 21,
-   "__v": 0,
-   "capture": 11,
-   "restrict_id": "reinvent",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 22,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 23,
-   "__v": 0,
-   "capture": 9
-  },
-  {
-   "position": 24,
-   "__v": 0,
-   "capture": 8
-  },
-  {
-   "position": 25,
-   "__v": 0,
-   "capture": 7,
-   "items": [
+      "position": 3,
+      "__v": 0,
+      "capture": 5
+    },
     {
-     "type": "fragment",
-     "amount": 50
-    }
-   ]
-  },
-  {
-   "position": 26,
-   "__v": 0,
-   "capture": 6,
-   "restrict_id": "reinvent",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 27,
-   "__v": 0,
-   "capture": 5
-  },
-  {
-   "position": 28,
-   "__v": 0,
-   "capture": 4
-  },
-  {
-   "position": 29,
-   "__v": 0,
-   "capture": 3,
-   "items": [
+      "position": 4,
+      "__v": 0,
+      "capture": 6,
+      "restrict_id": "infinityheaven",
+      "restrict_type": "song_id"
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ]
-  },
-  {
-   "position": 30,
-   "__v": 0,
-   "capture": 4,
-   "items": [
+      "position": 5,
+      "__v": 0,
+      "capture": 7,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 50
+        }
+      ]
+    },
     {
-     "id": "syro",
-     "type": "world_song"
-    }
-   ]
-  },
-  {
-   "position": 31,
-   "__v": 0,
-   "capture": 5,
-   "items": [
+      "position": 6,
+      "__v": 0,
+      "capture": 8
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ]
-  },
-  {
-   "position": 32,
-   "__v": 0,
-   "capture": 6
-  },
-  {
-   "position": 33,
-   "__v": 0,
-   "capture": 7
-  },
-  {
-   "position": 34,
-   "__v": 0,
-   "capture": 8,
-   "restrict_id": "dement",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 35,
-   "__v": 0,
-   "capture": 9,
-   "items": [
+      "position": 7,
+      "__v": 0,
+      "capture": 9
+    },
     {
-     "type": "fragment",
-     "amount": 60
-    }
-   ]
-  },
-  {
-   "position": 36,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 37,
-   "__v": 0,
-   "capture": 11
-  },
-  {
-   "position": 38,
-   "__v": 0,
-   "capture": 12
-  },
-  {
-   "position": 39,
-   "__v": 0,
-   "capture": 13,
-   "restrict_id": "dement",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 40,
-   "__v": 0,
-   "capture": 14,
-   "items": [
+      "position": 8,
+      "__v": 0,
+      "capture": 10
+    },
     {
-     "type": "fragment",
-     "amount": 70
-    }
-   ]
-  },
-  {
-   "position": 41,
-   "__v": 0,
-   "capture": 15
-  },
-  {
-   "position": 42,
-   "__v": 0,
-   "capture": 16
-  },
-  {
-   "position": 43,
-   "__v": 0,
-   "capture": 17
-  },
-  {
-   "position": 44,
-   "__v": 0,
-   "capture": 18,
-   "restrict_id": "dement",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 45,
-   "__v": 0,
-   "capture": 19,
-   "items": [
+      "position": 9,
+      "__v": 0,
+      "capture": 11,
+      "restrict_id": "infinityheaven",
+      "restrict_type": "song_id"
+    },
     {
-     "type": "fragment",
-     "amount": 80
-    }
-   ]
-  },
-  {
-   "position": 46,
-   "__v": 0,
-   "capture": 18,
-   "restrict_id": "syro",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 47,
-   "__v": 0,
-   "capture": 17
-  },
-  {
-   "position": 48,
-   "__v": 0,
-   "capture": 16
-  },
-  {
-   "position": 49,
-   "__v": 0,
-   "capture": 15
-  },
-  {
-   "position": 50,
-   "__v": 0,
-   "capture": 14,
-   "items": [
+      "position": 10,
+      "__v": 0,
+      "capture": 12,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ]
+    },
     {
-     "type": "fragment",
-     "amount": 70
-    }
-   ]
-  },
-  {
-   "position": 51,
-   "__v": 0,
-   "capture": 13,
-   "restrict_id": "syro",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 52,
-   "__v": 0,
-   "capture": 12
-  },
-  {
-   "position": 53,
-   "__v": 0,
-   "capture": 11
-  },
-  {
-   "position": 54,
-   "__v": 0,
-   "capture": 10
-  },
-  {
-   "position": 55,
-   "__v": 0,
-   "capture": 9,
-   "items": [
+      "position": 11,
+      "__v": 0,
+      "capture": 13
+    },
     {
-     "type": "fragment",
-     "amount": 60
-    }
-   ]
-  },
-  {
-   "position": 56,
-   "__v": 0,
-   "capture": 8,
-   "restrict_id": "syro",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 57,
-   "__v": 0,
-   "capture": 7
-  },
-  {
-   "position": 58,
-   "__v": 0,
-   "capture": 6
-  },
-  {
-   "position": 59,
-   "__v": 0,
-   "capture": 5,
-   "items": [
+      "position": 12,
+      "__v": 0,
+      "capture": 14
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ]
-  },
-  {
-   "position": 60,
-   "__v": 0,
-   "capture": 6,
-   "items": [
+      "position": 13,
+      "__v": 0,
+      "capture": 15
+    },
     {
-     "id": "blaster",
-     "type": "world_song"
-    }
-   ]
-  },
-  {
-   "position": 61,
-   "__v": 0,
-   "capture": 7,
-   "items": [
+      "position": 14,
+      "__v": 0,
+      "capture": 16,
+      "restrict_id": "infinityheaven",
+      "restrict_type": "song_id"
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ]
-  },
-  {
-   "position": 62,
-   "__v": 0,
-   "capture": 8
-  },
-  {
-   "position": 63,
-   "__v": 0,
-   "capture": 9
-  },
-  {
-   "position": 64,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "syro",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 65,
-   "__v": 0,
-   "capture": 11,
-   "items": [
+      "position": 15,
+      "__v": 0,
+      "capture": 17,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ]
+    },
     {
-     "type": "fragment",
-     "amount": 70
-    }
-   ]
-  },
-  {
-   "position": 66,
-   "__v": 0,
-   "capture": 12
-  },
-  {
-   "position": 67,
-   "__v": 0,
-   "capture": 13
-  },
-  {
-   "position": 68,
-   "__v": 0,
-   "capture": 14
-  },
-  {
-   "position": 69,
-   "__v": 0,
-   "capture": 15,
-   "restrict_id": "syro",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 70,
-   "__v": 0,
-   "capture": 16,
-   "items": [
+      "position": 16,
+      "__v": 0,
+      "capture": 16,
+      "restrict_id": "reinvent",
+      "restrict_type": "song_id"
+    },
     {
-     "type": "fragment",
-     "amount": 80
-    }
-   ]
-  },
-  {
-   "position": 71,
-   "__v": 0,
-   "capture": 17
-  },
-  {
-   "position": 72,
-   "__v": 0,
-   "capture": 18
-  },
-  {
-   "position": 73,
-   "__v": 0,
-   "capture": 19
-  },
-  {
-   "position": 74,
-   "__v": 0,
-   "capture": 20,
-   "restrict_id": "syro",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 75,
-   "__v": 0,
-   "capture": 21,
-   "items": [
+      "position": 17,
+      "__v": 0,
+      "capture": 15
+    },
     {
-     "type": "fragment",
-     "amount": 90
-    }
-   ]
-  },
-  {
-   "position": 76,
-   "__v": 0,
-   "capture": 22
-  },
-  {
-   "position": 77,
-   "__v": 0,
-   "capture": 23
-  },
-  {
-   "position": 78,
-   "__v": 0,
-   "capture": 23
-  },
-  {
-   "position": 79,
-   "__v": 0,
-   "capture": 22
-  },
-  {
-   "position": 80,
-   "__v": 0,
-   "capture": 21,
-   "items": [
+      "position": 18,
+      "__v": 0,
+      "capture": 14
+    },
     {
-     "type": "fragment",
-     "amount": 90
-    }
-   ]
-  },
-  {
-   "position": 81,
-   "__v": 0,
-   "capture": 20,
-   "restrict_id": "blaster",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 82,
-   "__v": 0,
-   "capture": 19
-  },
-  {
-   "position": 83,
-   "__v": 0,
-   "capture": 18
-  },
-  {
-   "position": 84,
-   "__v": 0,
-   "capture": 17
-  },
-  {
-   "position": 85,
-   "__v": 0,
-   "capture": 16,
-   "items": [
+      "position": 19,
+      "__v": 0,
+      "capture": 13
+    },
     {
-     "type": "fragment",
-     "amount": 80
-    }
-   ]
-  },
-  {
-   "position": 86,
-   "__v": 0,
-   "capture": 15,
-   "restrict_id": "blaster",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 87,
-   "__v": 0,
-   "capture": 14
-  },
-  {
-   "position": 88,
-   "__v": 0,
-   "capture": 13
-  },
-  {
-   "position": 89,
-   "__v": 0,
-   "capture": 12
-  },
-  {
-   "position": 90,
-   "__v": 0,
-   "capture": 11,
-   "items": [
+      "position": 20,
+      "__v": 0,
+      "capture": 12,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ]
+    },
     {
-     "type": "fragment",
-     "amount": 70
-    }
-   ]
-  },
-  {
-   "position": 91,
-   "__v": 0,
-   "capture": 10,
-   "restrict_id": "blaster",
-   "restrict_type": "song_id"
-  },
-  {
-   "position": 92,
-   "__v": 0,
-   "capture": 9
-  },
-  {
-   "position": 93,
-   "__v": 0,
-   "capture": 8
-  },
-  {
-   "position": 94,
-   "__v": 0,
-   "capture": 7,
-   "items": [
+      "position": 21,
+      "__v": 0,
+      "capture": 11,
+      "restrict_id": "reinvent",
+      "restrict_type": "song_id"
+    },
     {
-     "type": "core",
-     "id": "core_generic",
-     "amount": 1
-    }
-   ]
-  },
-  {
-   "position": 95,
-   "__v": 0,
-   "capture": 8,
-   "items": [
+      "position": 22,
+      "__v": 0,
+      "capture": 10
+    },
     {
-     "id": "cyberneciacatharsis",
-     "type": "world_song"
-    }
-   ]
-  },
-  {
-   "position": 96,
-   "__v": 0,
-   "capture": 400
-  },
-  {
-   "position": 97,
-   "__v": 0,
-   "capture": 2,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 6
-  },
-  {
-   "position": 98,
-   "__v": 0,
-   "capture": 450,
-   "items": [
+      "position": 23,
+      "__v": 0,
+      "capture": 9
+    },
     {
-     "type": "core",
-     "id": "core_crimson",
-     "amount": 5
-    }
-   ]
-  },
-  {
-   "position": 99,
-   "__v": 0,
-   "capture": 1,
-   "step_type": [
-    "plusstamina"
-   ],
-   "plus_stamina_value": 6
-  },
-  {
-   "position": 100,
-   "__v": 0,
-   "capture": 0,
-   "items": [
+      "position": 24,
+      "__v": 0,
+      "capture": 8
+    },
     {
-     "type": "core",
-     "id": "core_crimson",
-     "amount": 5
+      "position": 25,
+      "__v": 0,
+      "capture": 7,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 50
+        }
+      ]
+    },
+    {
+      "position": 26,
+      "__v": 0,
+      "capture": 6,
+      "restrict_id": "reinvent",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 27,
+      "__v": 0,
+      "capture": 5
+    },
+    {
+      "position": 28,
+      "__v": 0,
+      "capture": 4
+    },
+    {
+      "position": 29,
+      "__v": 0,
+      "capture": 3,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "position": 30,
+      "__v": 0,
+      "capture": 4,
+      "items": [
+        {
+          "id": "syro",
+          "type": "world_song"
+        }
+      ]
+    },
+    {
+      "position": 31,
+      "__v": 0,
+      "capture": 5,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "position": 32,
+      "__v": 0,
+      "capture": 6
+    },
+    {
+      "position": 33,
+      "__v": 0,
+      "capture": 7
+    },
+    {
+      "position": 34,
+      "__v": 0,
+      "capture": 8,
+      "restrict_id": "dement",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 35,
+      "__v": 0,
+      "capture": 9,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ]
+    },
+    {
+      "position": 36,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 37,
+      "__v": 0,
+      "capture": 11
+    },
+    {
+      "position": 38,
+      "__v": 0,
+      "capture": 12
+    },
+    {
+      "position": 39,
+      "__v": 0,
+      "capture": 13,
+      "restrict_id": "dement",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 40,
+      "__v": 0,
+      "capture": 14,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "position": 41,
+      "__v": 0,
+      "capture": 15
+    },
+    {
+      "position": 42,
+      "__v": 0,
+      "capture": 16
+    },
+    {
+      "position": 43,
+      "__v": 0,
+      "capture": 17
+    },
+    {
+      "position": 44,
+      "__v": 0,
+      "capture": 18,
+      "restrict_id": "dement",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 45,
+      "__v": 0,
+      "capture": 19,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 80
+        }
+      ]
+    },
+    {
+      "position": 46,
+      "__v": 0,
+      "capture": 18,
+      "restrict_id": "syro",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 47,
+      "__v": 0,
+      "capture": 17
+    },
+    {
+      "position": 48,
+      "__v": 0,
+      "capture": 16
+    },
+    {
+      "position": 49,
+      "__v": 0,
+      "capture": 15
+    },
+    {
+      "position": 50,
+      "__v": 0,
+      "capture": 14,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "position": 51,
+      "__v": 0,
+      "capture": 13,
+      "restrict_id": "syro",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 52,
+      "__v": 0,
+      "capture": 12
+    },
+    {
+      "position": 53,
+      "__v": 0,
+      "capture": 11
+    },
+    {
+      "position": 54,
+      "__v": 0,
+      "capture": 10
+    },
+    {
+      "position": 55,
+      "__v": 0,
+      "capture": 9,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 60
+        }
+      ]
+    },
+    {
+      "position": 56,
+      "__v": 0,
+      "capture": 8,
+      "restrict_id": "syro",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 57,
+      "__v": 0,
+      "capture": 7
+    },
+    {
+      "position": 58,
+      "__v": 0,
+      "capture": 6
+    },
+    {
+      "position": 59,
+      "__v": 0,
+      "capture": 5,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "position": 60,
+      "__v": 0,
+      "capture": 6,
+      "items": [
+        {
+          "id": "blaster",
+          "type": "world_song"
+        }
+      ]
+    },
+    {
+      "position": 61,
+      "__v": 0,
+      "capture": 7,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "position": 62,
+      "__v": 0,
+      "capture": 8
+    },
+    {
+      "position": 63,
+      "__v": 0,
+      "capture": 9
+    },
+    {
+      "position": 64,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "syro",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 65,
+      "__v": 0,
+      "capture": 11,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "position": 66,
+      "__v": 0,
+      "capture": 12
+    },
+    {
+      "position": 67,
+      "__v": 0,
+      "capture": 13
+    },
+    {
+      "position": 68,
+      "__v": 0,
+      "capture": 14
+    },
+    {
+      "position": 69,
+      "__v": 0,
+      "capture": 15,
+      "restrict_id": "syro",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 70,
+      "__v": 0,
+      "capture": 16,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 80
+        }
+      ]
+    },
+    {
+      "position": 71,
+      "__v": 0,
+      "capture": 17
+    },
+    {
+      "position": 72,
+      "__v": 0,
+      "capture": 18
+    },
+    {
+      "position": 73,
+      "__v": 0,
+      "capture": 19
+    },
+    {
+      "position": 74,
+      "__v": 0,
+      "capture": 20,
+      "restrict_id": "syro",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 75,
+      "__v": 0,
+      "capture": 21,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 90
+        }
+      ]
+    },
+    {
+      "position": 76,
+      "__v": 0,
+      "capture": 22
+    },
+    {
+      "position": 77,
+      "__v": 0,
+      "capture": 23
+    },
+    {
+      "position": 78,
+      "__v": 0,
+      "capture": 23
+    },
+    {
+      "position": 79,
+      "__v": 0,
+      "capture": 22
+    },
+    {
+      "position": 80,
+      "__v": 0,
+      "capture": 21,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 90
+        }
+      ]
+    },
+    {
+      "position": 81,
+      "__v": 0,
+      "capture": 20,
+      "restrict_id": "blaster",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 82,
+      "__v": 0,
+      "capture": 19
+    },
+    {
+      "position": 83,
+      "__v": 0,
+      "capture": 18
+    },
+    {
+      "position": 84,
+      "__v": 0,
+      "capture": 17
+    },
+    {
+      "position": 85,
+      "__v": 0,
+      "capture": 16,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 80
+        }
+      ]
+    },
+    {
+      "position": 86,
+      "__v": 0,
+      "capture": 15,
+      "restrict_id": "blaster",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 87,
+      "__v": 0,
+      "capture": 14
+    },
+    {
+      "position": 88,
+      "__v": 0,
+      "capture": 13
+    },
+    {
+      "position": 89,
+      "__v": 0,
+      "capture": 12
+    },
+    {
+      "position": 90,
+      "__v": 0,
+      "capture": 11,
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 70
+        }
+      ]
+    },
+    {
+      "position": 91,
+      "__v": 0,
+      "capture": 10,
+      "restrict_id": "blaster",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 92,
+      "__v": 0,
+      "capture": 9
+    },
+    {
+      "position": 93,
+      "__v": 0,
+      "capture": 8
+    },
+    {
+      "position": 94,
+      "__v": 0,
+      "capture": 7,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_generic",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "position": 95,
+      "__v": 0,
+      "capture": 8,
+      "items": [
+        {
+          "id": "cyberneciacatharsis",
+          "type": "world_song"
+        }
+      ]
+    },
+    {
+      "position": 96,
+      "__v": 0,
+      "capture": 400
+    },
+    {
+      "position": 97,
+      "__v": 0,
+      "capture": 2,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 6
+    },
+    {
+      "position": 98,
+      "__v": 0,
+      "capture": 450,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_crimson",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "position": 99,
+      "__v": 0,
+      "capture": 1,
+      "step_type": ["plusstamina"],
+      "plus_stamina_value": 6
+    },
+    {
+      "position": 100,
+      "__v": 0,
+      "capture": 0,
+      "items": [
+        {
+          "type": "core",
+          "id": "core_crimson",
+          "amount": 5
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }
