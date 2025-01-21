@@ -1,0 +1,72 @@
+{
+    "map_id": "byd_ignotus",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": "ignotus2",
+    "require_type": "chart_unlock",
+    "coordinate": "0,1000",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 250,
+    "character_affinity": [
+        7,
+        15
+    ],
+    "affinity_multiplier": [
+        1.9,
+        2
+    ],
+    "step_count": 5,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "ignotus2"
+        }
+    ],
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 401
+                }
+            ],
+            "position": 1
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 401
+                }
+            ],
+            "position": 2
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 8
+                }
+            ],
+            "position": 4
+        },
+        {
+            "items": [
+                {
+                    "id": "ignotus3",
+                    "type": "world_song"
+                }
+            ],
+            "position": 5
+        }
+    ]
+}

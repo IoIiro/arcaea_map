@@ -1,0 +1,74 @@
+{
+    "map_id": "byd_chain_1_3",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": [
+        "qualia3",
+        "antithese2"
+    ],
+    "require_type": "chart_unlock",
+    "coordinate": "-147,-230",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 280,
+    "character_affinity": [
+        23,
+        45
+    ],
+    "affinity_multiplier": [
+        1.6,
+        1.9
+    ],
+    "chain_info": {
+        "index": 2,
+        "id": "beyond_chain_1"
+    },
+    "step_count": 4,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "qualia3"
+        },
+        {
+            "type": "chart_unlock",
+            "id": "antithese2"
+        }
+    ],
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 1000
+                }
+            ],
+            "position": 15
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ],
+            "position": 31
+        },
+        {
+            "items": [
+                {
+                    "id": "antithese3",
+                    "type": "world_song"
+                }
+            ],
+            "position": 51
+        }
+    ]
+}

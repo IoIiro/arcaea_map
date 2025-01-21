@@ -1,0 +1,79 @@
+{
+    "map_id": "byd_chain_2_4",
+    "requires_any": [],
+    "is_legacy": false,
+    "character_affinity": [],
+    "affinity_multiplier": [],
+    "chapter": 2001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": [
+        "purpleverse2",
+        "oblivia3"
+    ],
+    "require_type": "chart_unlock",
+    "is_breached": true,
+    "stamina_cost": 3,
+    "new_law": "lowlevel",
+    "coordinate": "270,-150",
+    "beyond_health": 310,
+    "chain_info": {
+        "index": 3,
+        "id": "beyond_chain_2"
+    },
+    "step_count": 5,
+    "custom_bg": "",
+    "disable_over": false,
+    "is_beyond": true,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "purpleverse2"
+        },
+        {
+            "type": "chart_unlock",
+            "id": "oblivia3"
+        }
+    ],
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ],
+            "position": 16
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 1000
+                }
+            ],
+            "position": 21
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ],
+            "position": 26
+        },
+        {
+            "items": [
+                {
+                    "id": "purpleverse3",
+                    "type": "world_song"
+                }
+            ],
+            "position": 31
+        }
+    ]
+}

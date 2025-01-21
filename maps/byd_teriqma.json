@@ -1,0 +1,153 @@
+{
+    "map_id": "byd_teriqma",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": "teriqma2",
+    "require_type": "chart_unlock",
+    "coordinate": "-400,400",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 200,
+    "character_affinity": [
+        36
+    ],
+    "affinity_multiplier": [
+        2.1
+    ],
+    "step_count": 14,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "teriqma2"
+        }
+    ],
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ],
+            "position": 1
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ],
+            "position": 2
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ],
+            "position": 3
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ],
+            "position": 4
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ],
+            "position": 5
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ],
+            "position": 6
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ],
+            "position": 7
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ],
+            "position": 8
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 200
+                }
+            ],
+            "position": 9
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 200
+                }
+            ],
+            "position": 10
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 200
+                }
+            ],
+            "position": 11
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ],
+            "position": 12
+        },
+        {
+            "items": [
+                {
+                    "id": "teriqma3",
+                    "type": "world_song"
+                }
+            ],
+            "position": 13
+        }
+    ]
+}

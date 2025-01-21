@@ -1,0 +1,115 @@
+{
+    "map_id": "byd_chain_1_2",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": [
+        "kanagawa3",
+        "qualia2"
+    ],
+    "require_type": "chart_unlock",
+    "coordinate": "147,-230",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 220,
+    "character_affinity": [
+        1,
+        6,
+        7,
+        17
+    ],
+    "affinity_multiplier": [
+        1.8,
+        1.5,
+        1.9,
+        2.1
+    ],
+    "chain_info": {
+        "index": 1,
+        "id": "beyond_chain_1"
+    },
+    "step_count": 8,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "kanagawa3"
+        },
+        {
+            "type": "chart_unlock",
+            "id": "qualia2"
+        }
+    ],
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ],
+            "position": 1
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 30
+                }
+            ],
+            "position": 2
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 120
+                }
+            ],
+            "position": 3
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 270
+                }
+            ],
+            "position": 4
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 480
+                }
+            ],
+            "position": 5
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ],
+            "position": 6
+        },
+        {
+            "items": [
+                {
+                    "id": "qualia3",
+                    "type": "world_song"
+                }
+            ],
+            "position": 7
+        }
+    ]
+}

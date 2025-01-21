@@ -1,0 +1,113 @@
+{
+    "map_id": "freemyself_event",
+    "requires_any": [],
+    "is_legacy": false,
+    "beyond_health": 100,
+    "character_affinity": [],
+    "affinity_multiplier": [],
+    "chapter": 0,
+    "available_from": 1737158400000,
+    "available_to": 1739631600000,
+    "is_repeatable": false,
+    "require_id": "freemyself",
+    "require_type": "single",
+    "coordinate": "0,-20",
+    "step_count": 66,
+    "custom_bg": "",
+    "stamina_cost": 2,
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "single",
+            "id": "freemyself"
+        }
+    ],
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 750
+                }
+            ],
+            "position": 15
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ],
+            "position": 30
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 750
+                }
+            ],
+            "position": 45
+        },
+        {
+            "items": [
+                {
+                    "id": "58",
+                    "type": "character"
+                }
+            ],
+            "position": 60
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ],
+            "position": 61
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 500
+                }
+            ],
+            "position": 62
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ],
+            "position": 63
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 500
+                }
+            ],
+            "position": 64
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ],
+            "position": 65
+        }
+    ]
+}

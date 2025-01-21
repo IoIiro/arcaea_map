@@ -1,0 +1,73 @@
+{
+    "map_id": "byd_singularity",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": "singularity2",
+    "require_type": "chart_unlock",
+    "coordinate": "0,-1000",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 250,
+    "character_affinity": [
+        12,
+        45
+    ],
+    "affinity_multiplier": [
+        1.7,
+        1.9
+    ],
+    "step_count": 5,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "singularity2"
+        }
+    ],
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ],
+            "position": 1
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ],
+            "position": 2
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 2020
+                }
+            ],
+            "position": 4
+        },
+        {
+            "items": [
+                {
+                    "id": "singularity3",
+                    "type": "world_song"
+                }
+            ],
+            "position": 5
+        }
+    ]
+}
