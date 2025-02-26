@@ -12,7 +12,7 @@
   "require_id": "lephon",
   "require_type": "pack",
   "require_localunlock_challengeid": "astralquant",
-  "coordinate": "0,-50",
+  "coordinate": "0,0",
   "step_count": 3,
   "custom_bg": "",
   "stamina_cost": 2,

@@ -11,7 +11,7 @@
   "is_repeatable": false,
   "require_id": "phantasia",
   "require_type": "single",
-  "coordinate": "-270,-150",
+  "coordinate": "-320,-150",
   "step_count": 86,
   "custom_bg": "",
   "stamina_cost": 2,

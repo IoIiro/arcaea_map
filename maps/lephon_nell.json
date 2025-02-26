@@ -13,7 +13,7 @@
   "require_id": "lephon",
   "require_type": "pack",
   "require_localunlock_challengeid": "lamentrain",
-  "coordinate": "0,-50",
+  "coordinate": "0,0",
   "step_count": 29,
   "custom_bg": "",
   "is_breached": false,

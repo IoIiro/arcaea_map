@@ -11,7 +11,7 @@
   "is_repeatable": false,
   "require_id": "ongeki_append_2",
   "require_type": "pack",
-  "coordinate": "0,150",
+  "coordinate": "-280,120",
   "step_count": 31,
   "custom_bg": "",
   "stamina_cost": 2,
