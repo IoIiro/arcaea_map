@@ -1,0 +1,80 @@
+{
+    "map_id": "byd_merlin",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": "merlin2",
+    "require_type": "chart_unlock",
+    "coordinate": "650,-400",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 150,
+    "character_affinity": [
+        21,
+        22,
+        46
+    ],
+    "affinity_multiplier": [
+        3.2,
+        2,
+        2.5
+    ],
+    "step_count": 4,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "merlin2"
+        }
+    ],
+    "curr_position": 0,
+    "curr_capture": 0,
+    "is_locked": false,
+    "steps": [
+        {
+            "map_id": "byd_merlin",
+            "position": 0,
+            "capture": 50
+        },
+        {
+            "map_id": "byd_merlin",
+            "position": 1,
+            "capture": 50,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "map_id": "byd_merlin",
+            "position": 2,
+            "capture": 50,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "map_id": "byd_merlin",
+            "position": 3,
+            "capture": 0,
+            "items": [
+                {
+                    "id": "merlin3",
+                    "type": "world_song"
+                }
+            ]
+        }
+    ]
+}

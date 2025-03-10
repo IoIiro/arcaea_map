@@ -1,0 +1,75 @@
+{
+    "map_id": "byd_laqryma",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": "laqryma2",
+    "require_type": "chart_unlock",
+    "coordinate": "-650,900",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 200,
+    "character_affinity": [
+        34
+    ],
+    "affinity_multiplier": [
+        6
+    ],
+    "step_count": 4,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "laqryma2"
+        }
+    ],
+    "curr_position": 0,
+    "curr_capture": 63.232625383025095,
+    "is_locked": false,
+    "steps": [
+        {
+            "map_id": "byd_laqryma",
+            "position": 0,
+            "capture": 198.4168865435356
+        },
+        {
+            "map_id": "byd_laqryma",
+            "position": 1,
+            "capture": 0.79155672823219,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 500
+                }
+            ]
+        },
+        {
+            "map_id": "byd_laqryma",
+            "position": 2,
+            "capture": 0.79155672823219,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_laqryma",
+            "position": 3,
+            "capture": 0,
+            "items": [
+                {
+                    "id": "laqryma3",
+                    "type": "world_song"
+                }
+            ]
+        }
+    ]
+}

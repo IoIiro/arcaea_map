@@ -1,0 +1,187 @@
+{
+    "map_id": "byd_teriqma",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": "teriqma2",
+    "require_type": "chart_unlock",
+    "coordinate": "-400,400",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 200,
+    "character_affinity": [
+        36
+    ],
+    "affinity_multiplier": [
+        2.1
+    ],
+    "step_count": 14,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "teriqma2"
+        }
+    ],
+    "curr_position": 0,
+    "curr_capture": 0,
+    "is_locked": false,
+    "steps": [
+        {
+            "map_id": "byd_teriqma",
+            "position": 0,
+            "capture": 20
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 1,
+            "capture": 10,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 2,
+            "capture": 20,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 3,
+            "capture": 10,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 4,
+            "capture": 20,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 5,
+            "capture": 10,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 6,
+            "capture": 20,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 7,
+            "capture": 10,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 8,
+            "capture": 20,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 9,
+            "capture": 10,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 200
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 10,
+            "capture": 20,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 200
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 11,
+            "capture": 10,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 200
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 12,
+            "capture": 20,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_teriqma",
+            "position": 13,
+            "capture": 0,
+            "items": [
+                {
+                    "id": "teriqma3",
+                    "type": "world_song"
+                }
+            ]
+        }
+    ]
+}
