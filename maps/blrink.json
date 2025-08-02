@@ -41,7 +41,7 @@
       "position": 0,
       "__v": 0,
       "capture": 3,
-      "restrict_id": "particlearts",
+      "restrict_id": "saintorsinner",
       "restrict_type": "song_id"
     },
     {
@@ -77,7 +77,7 @@
       "position": 5,
       "__v": 0,
       "capture": 6,
-      "restrict_id": "particlearts",
+      "restrict_id": "saintorsinner",
       "restrict_type": "song_id"
     },
     {
@@ -113,7 +113,7 @@
       "position": 10,
       "__v": 0,
       "capture": 8,
-      "restrict_id": "particlearts",
+      "restrict_id": "saintorsinner",
       "restrict_type": "song_id"
     },
     {

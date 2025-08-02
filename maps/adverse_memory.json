@@ -29,7 +29,7 @@
     {
       "position": 0,
       "restrict_type": "song_id",
-      "restrict_id": "particlearts",
+      "restrict_id": "saintorsinner",
       "capture": 3
     },
     {
@@ -52,7 +52,9 @@
     },
     {
       "position": 4,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "prelude",
       "capture": 3
@@ -60,7 +62,7 @@
     {
       "position": 5,
       "restrict_type": "song_id",
-      "restrict_id": "particlearts",
+      "restrict_id": "saintorsinner",
       "capture": 6
     },
     {
@@ -83,7 +85,9 @@
     },
     {
       "position": 9,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "prelude",
       "capture": 7
@@ -91,7 +95,7 @@
     {
       "position": 10,
       "restrict_type": "song_id",
-      "restrict_id": "particlearts",
+      "restrict_id": "saintorsinner",
       "capture": 8
     },
     {
@@ -114,7 +118,9 @@
     },
     {
       "position": 14,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "prelude",
       "capture": 9
@@ -122,7 +128,9 @@
     {
       "position": 15,
       "plus_stamina_value": 4,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 115
     },
     {
