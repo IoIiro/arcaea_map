@@ -43,12 +43,16 @@
     {
       "position": 3,
       "capture": 4,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 4,
       "capture": 5,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 5,
@@ -71,12 +75,16 @@
     {
       "position": 8,
       "capture": 7,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 9,
       "capture": 6,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 10,
@@ -99,12 +107,16 @@
     {
       "position": 13,
       "capture": 9,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 14,
       "capture": 10,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 15,
@@ -121,12 +133,16 @@
     {
       "position": 18,
       "capture": 17,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 19,
       "capture": 16,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 20,
@@ -149,12 +165,16 @@
     {
       "position": 23,
       "capture": 19,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 24,
       "capture": 20,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 25,
@@ -171,12 +191,16 @@
     {
       "position": 28,
       "capture": 37,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 29,
       "capture": 36,
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 30,

@@ -44,7 +44,9 @@
       "capture": 50,
       "restrict_type": "pack_id",
       "restrict_id": "vs",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 3,
@@ -83,7 +85,9 @@
       "capture": 40,
       "restrict_type": "pack_id",
       "restrict_id": "vs",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 10,
@@ -108,7 +112,9 @@
       "capture": 90,
       "restrict_type": "pack_id",
       "restrict_id": "vs",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 15,

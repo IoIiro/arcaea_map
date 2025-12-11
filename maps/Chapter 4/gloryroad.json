@@ -257,7 +257,9 @@
       "position": 22,
       "__v": 0,
       "capture": 10,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "plus_stamina_value": 2
     },
     {
@@ -276,7 +278,9 @@
       "position": 24,
       "__v": 0,
       "capture": 5,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "plus_stamina_value": 4
     },
     {
@@ -295,7 +299,9 @@
       "position": 26,
       "__v": 0,
       "capture": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "plus_stamina_value": 6
     },
     {

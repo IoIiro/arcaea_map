@@ -49,7 +49,9 @@
     },
     {
       "position": 5,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "song_id",
       "restrict_id": "swansong",
       "capture": 3
@@ -72,7 +74,9 @@
     },
     {
       "position": 10,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "song_id",
       "restrict_ids": [
         "swansong",
@@ -106,7 +110,9 @@
     },
     {
       "position": 15,
-      "step_type": ["wall_nell"],
+      "step_type": [
+        "wall_nell"
+      ],
       "capture": 1
     },
     {
@@ -118,18 +124,24 @@
     {
       "position": 17,
       "plus_stamina_value": 6,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 66
     },
     {
       "position": 18,
       "speed_limit_value": 60,
-      "step_type": ["speedlimit"],
+      "step_type": [
+        "speedlimit"
+      ],
       "capture": 666
     },
     {
       "position": 19,
-      "step_type": ["wall_nell"],
+      "step_type": [
+        "wall_nell"
+      ],
       "capture": 1
     },
     {
@@ -145,40 +157,55 @@
     {
       "position": 21,
       "plus_stamina_value": 0,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 77
     },
     {
       "position": 22,
       "speed_limit_value": 60,
-      "step_type": ["randomsong", "speedlimit"],
+      "step_type": [
+        "randomsong",
+        "speedlimit"
+      ],
       "restrict_type": "song_id",
       "restrict_id": "lamentrain",
       "capture": 777
     },
     {
       "position": 23,
-      "step_type": ["wall_nell"],
+      "step_type": [
+        "wall_nell"
+      ],
       "capture": 1
     },
     {
       "position": 24,
-      "step_type": ["wall_nell"],
+      "step_type": [
+        "wall_nell"
+      ],
       "capture": 1
     },
     {
       "position": 25,
-      "step_type": ["wall_nell"],
+      "step_type": [
+        "wall_nell"
+      ],
       "capture": 1
     },
     {
       "position": 26,
-      "step_type": ["wall_nell"],
+      "step_type": [
+        "wall_nell"
+      ],
       "capture": 1
     },
     {
       "position": 27,
-      "step_type": ["wall_impossible"],
+      "step_type": [
+        "wall_impossible"
+      ],
       "capture": 1
     },
     {

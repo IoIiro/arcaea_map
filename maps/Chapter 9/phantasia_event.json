@@ -11,7 +11,7 @@
   "is_repeatable": false,
   "require_id": "phantasia",
   "require_type": "single",
-  "coordinate": "-320,-150",
+  "coordinate": "-440,-150",
   "step_count": 86,
   "custom_bg": "",
   "stamina_cost": 2,
@@ -49,7 +49,9 @@
     {
       "position": 5,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 2
     },
     {
@@ -125,7 +127,9 @@
     {
       "position": 20,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 2
     },
     {
@@ -201,7 +205,9 @@
     {
       "position": 35,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 2
     },
     {
@@ -251,7 +257,9 @@
     {
       "position": 45,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 2
     },
     {
@@ -279,7 +287,9 @@
     {
       "position": 50,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 2
     },
     {
@@ -335,25 +345,33 @@
     {
       "position": 61,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 29
     },
     {
       "position": 62,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 28
     },
     {
       "position": 63,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 27
     },
     {
       "position": 64,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 26
     },
     {
@@ -400,7 +418,9 @@
     {
       "position": 70,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 2
     },
     {
@@ -437,7 +457,9 @@
     {
       "position": 75,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 2
     },
     {
@@ -474,7 +496,9 @@
     {
       "position": 80,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "capture": 2
     },
     {

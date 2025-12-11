@@ -10,7 +10,7 @@
   "is_repeatable": false,
   "require_id": "omatsuri",
   "require_type": "pack",
-  "coordinate": "450,100",
+  "coordinate": "270,100",
   "step_count": 40,
   "custom_bg": "",
   "stamina_cost": 2,

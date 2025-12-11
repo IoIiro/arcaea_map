@@ -36,7 +36,9 @@
     {
       "position": 1,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "restrict_type": "song_id",
       "restrict_id": "defection",
       "capture": 9
@@ -56,7 +58,9 @@
     {
       "position": 4,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "restrict_type": "song_id",
       "restrict_id": "infinitestrife",
       "capture": 10
@@ -76,7 +80,9 @@
     {
       "position": 7,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "restrict_type": "song_id",
       "restrict_id": "worldender",
       "capture": 11
@@ -96,7 +102,9 @@
     {
       "position": 10,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "restrict_type": "song_id",
       "restrict_id": "pentiment",
       "capture": 11
@@ -116,7 +124,9 @@
     {
       "position": 13,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "restrict_type": "song_id",
       "restrict_id": "arcanaeden",
       "capture": 11
@@ -136,7 +146,9 @@
     {
       "position": 16,
       "plus_stamina_value": 2,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "restrict_type": "song_id",
       "restrict_id": "testify",
       "capture": 11

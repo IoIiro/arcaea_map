@@ -310,7 +310,10 @@
     {
       "position": 52,
       "restrict_type": "song_id",
-      "restrict_ids": ["ddd", "sanskia"],
+      "restrict_ids": [
+        "ddd",
+        "sanskia"
+      ],
       "capture": 51
     },
     {

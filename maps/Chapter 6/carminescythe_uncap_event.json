@@ -170,7 +170,9 @@
       "capture": 7,
       "restrict_type": "song_id",
       "restrict_id": "Memory Archive",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 28,
@@ -348,7 +350,9 @@
       "capture": 11,
       "restrict_type": "pack_id",
       "restrict_id": "single",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 60,
@@ -526,7 +530,9 @@
       "capture": 15,
       "restrict_type": "pack_id",
       "restrict_id": "single",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 92,

@@ -96,7 +96,9 @@
       "capture": 17,
       "restrict_id": "omatsuri",
       "restrict_type": "pack_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 2,
@@ -120,7 +122,9 @@
       "position": 4,
       "__v": 0,
       "capture": 14,
-      "step_type": ["speedlimit"],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 20
     },
     {
@@ -148,7 +152,9 @@
       "capture": 16,
       "restrict_id": "omatsuri",
       "restrict_type": "pack_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 8,
@@ -172,7 +178,9 @@
       "position": 10,
       "__v": 0,
       "capture": 19,
-      "step_type": ["speedlimit"],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 20
     },
     {
@@ -200,7 +208,9 @@
       "capture": 20,
       "restrict_id": "omatsuri",
       "restrict_type": "pack_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 14,
@@ -226,7 +236,9 @@
       "capture": 10,
       "restrict_id": "valhallazero",
       "restrict_type": "song_id",
-      "step_type": ["speedlimit"],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 20
     },
     {
@@ -235,7 +247,9 @@
       "capture": 10,
       "restrict_id": "valhallazero",
       "restrict_type": "song_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 18,
@@ -243,7 +257,9 @@
       "capture": 10,
       "restrict_id": "melodyoflove",
       "restrict_type": "song_id",
-      "step_type": ["speedlimit"],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 20
     },
     {
@@ -252,7 +268,9 @@
       "capture": 10,
       "restrict_id": "melodyoflove",
       "restrict_type": "song_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 20,

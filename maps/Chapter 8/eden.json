@@ -10,7 +10,7 @@
   "is_repeatable": false,
   "require_id": "eden",
   "require_type": "pack",
-  "coordinate": "-450,-100",
+  "coordinate": "-420,-150",
   "step_count": 14,
   "custom_bg": "",
   "stamina_cost": 2,

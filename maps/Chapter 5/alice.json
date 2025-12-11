@@ -28,7 +28,9 @@
   "steps": [
     {
       "position": 0,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "alice",
       "capture": 10
@@ -43,7 +45,9 @@
     },
     {
       "position": 3,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "alice",
       "capture": 13
@@ -58,7 +62,9 @@
     },
     {
       "position": 6,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "alice",
       "capture": 16
@@ -73,7 +79,9 @@
     },
     {
       "position": 9,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "alice",
       "capture": 19

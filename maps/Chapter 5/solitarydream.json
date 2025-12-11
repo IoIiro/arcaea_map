@@ -99,7 +99,9 @@
       "capture": 74,
       "restrict_id": "core",
       "restrict_type": "pack_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 9,

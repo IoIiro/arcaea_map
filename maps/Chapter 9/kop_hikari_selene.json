@@ -12,12 +12,24 @@
   "available_to": 2106124800000,
   "is_repeatable": false,
   "requires": [
-    { "type": "pack", "id": "chunithm" },
-    { "type": "pack", "id": "chunithm_append_1" },
-    { "type": "pack", "id": "chunithm_append_2" },
-    { "type": "pack", "id": "chunithm_append_3" }
+    {
+      "type": "pack",
+      "id": "chunithm"
+    },
+    {
+      "type": "pack",
+      "id": "chunithm_append_1"
+    },
+    {
+      "type": "pack",
+      "id": "chunithm_append_2"
+    },
+    {
+      "type": "pack",
+      "id": "chunithm_append_3"
+    }
   ],
-  "coordinate": "280,120",
+  "coordinate": "460,80",
   "step_count": 17,
   "custom_bg": "",
   "stamina_cost": 2,
@@ -89,42 +101,89 @@
       ],
       "capture": 11
     },
-    { "position": 1, "capture": 15 },
-    { "position": 2, "capture": 11 },
+    {
+      "position": 1,
+      "capture": 15
+    },
+    {
+      "position": 2,
+      "capture": 11
+    },
     {
       "position": 3,
       "capture": 15,
-      "items": [{ "type": "fragment", "amount": 10 }]
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 10
+        }
+      ]
     },
-    { "position": 4, "capture": 11 },
+    {
+      "position": 4,
+      "capture": 11
+    },
     {
       "position": 5,
       "restrict_type": "song_id",
       "restrict_id": "daat",
       "capture": 15
     },
-    { "position": 6, "capture": 11 },
-    { "position": 7, "capture": 15 },
+    {
+      "position": 6,
+      "capture": 11
+    },
+    {
+      "position": 7,
+      "capture": 15
+    },
     {
       "position": 8,
       "capture": 11,
-      "items": [{ "type": "fragment", "amount": 100 }]
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 100
+        }
+      ]
     },
-    { "position": 9, "capture": 15 },
+    {
+      "position": 9,
+      "capture": 15
+    },
     {
       "position": 10,
       "restrict_type": "song_id",
-      "restrict_ids": ["worldvanquisher", "swansong", "surrender", "testify"],
+      "restrict_ids": [
+        "worldvanquisher",
+        "swansong",
+        "surrender",
+        "testify"
+      ],
       "capture": 11
     },
-    { "position": 11, "capture": 15 },
-    { "position": 12, "capture": 11 },
+    {
+      "position": 11,
+      "capture": 15
+    },
+    {
+      "position": 12,
+      "capture": 11
+    },
     {
       "position": 13,
       "capture": 15,
-      "items": [{ "type": "fragment", "amount": 100 }]
+      "items": [
+        {
+          "type": "fragment",
+          "amount": 100
+        }
+      ]
     },
-    { "position": 14, "capture": 11 },
+    {
+      "position": 14,
+      "capture": 11
+    },
     {
       "position": 15,
       "restrict_type": "song_id",
@@ -134,7 +193,12 @@
     {
       "position": 16,
       "capture": 0,
-      "items": [{ "id": "85", "type": "character" }]
+      "items": [
+        {
+          "id": "85",
+          "type": "character"
+        }
+      ]
     }
   ]
 }

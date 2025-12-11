@@ -11,7 +11,7 @@
   "is_repeatable": false,
   "require_id": "rotaeno",
   "require_type": "pack",
-  "coordinate": "150,-100",
+  "coordinate": "130,-150",
   "step_count": 24,
   "custom_bg": "",
   "stamina_cost": 2,

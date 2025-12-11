@@ -463,28 +463,36 @@
     },
     {
       "position": 81,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "base",
       "capture": 28
     },
     {
       "position": 82,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "base",
       "capture": 29
     },
     {
       "position": 83,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "base",
       "capture": 30
     },
     {
       "position": 84,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "pack_id",
       "restrict_id": "base",
       "capture": 31
@@ -502,7 +510,10 @@
     {
       "position": 86,
       "restrict_type": "song_id",
-      "restrict_ids": ["avril", "nulctrl"],
+      "restrict_ids": [
+        "avril",
+        "nulctrl"
+      ],
       "capture": 33
     },
     {

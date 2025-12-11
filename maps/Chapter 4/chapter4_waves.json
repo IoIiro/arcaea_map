@@ -205,7 +205,9 @@
       "position": 10,
       "__v": 0,
       "capture": 10,
-      "step_type": ["speedlimit"],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 20
     },
     {
@@ -274,7 +276,9 @@
       "position": 20,
       "__v": 0,
       "capture": 10,
-      "step_type": ["speedlimit"],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 20
     },
     {
@@ -374,7 +378,9 @@
       "position": 35,
       "__v": 0,
       "capture": 25,
-      "step_type": ["speedlimit"],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 20
     },
     {

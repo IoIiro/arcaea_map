@@ -142,7 +142,10 @@
       "position": 11,
       "capture": 14,
       "restrict_type": "song_id",
-      "restrict_ids": ["grimheart", "vector"]
+      "restrict_ids": [
+        "grimheart",
+        "vector"
+      ]
     },
     {
       "position": 12,
@@ -152,7 +155,10 @@
       "position": 13,
       "capture": 12,
       "restrict_type": "song_id",
-      "restrict_ids": ["grimheart", "vector"]
+      "restrict_ids": [
+        "grimheart",
+        "vector"
+      ]
     },
     {
       "position": 14,
@@ -162,7 +168,10 @@
       "position": 15,
       "capture": 10,
       "restrict_type": "song_id",
-      "restrict_ids": ["grimheart", "vector"]
+      "restrict_ids": [
+        "grimheart",
+        "vector"
+      ]
     },
     {
       "position": 16,
@@ -172,7 +181,10 @@
       "position": 17,
       "capture": 8,
       "restrict_type": "song_id",
-      "restrict_ids": ["grimheart", "vector"]
+      "restrict_ids": [
+        "grimheart",
+        "vector"
+      ]
     },
     {
       "position": 18,
@@ -182,7 +194,10 @@
       "position": 19,
       "capture": 6,
       "restrict_type": "song_id",
-      "restrict_ids": ["grimheart", "vector"]
+      "restrict_ids": [
+        "grimheart",
+        "vector"
+      ]
     },
     {
       "position": 20,
@@ -192,7 +207,10 @@
       "position": 21,
       "capture": 6,
       "restrict_type": "song_id",
-      "restrict_ids": ["revixy", "supernova"]
+      "restrict_ids": [
+        "revixy",
+        "supernova"
+      ]
     },
     {
       "position": 22,
@@ -202,7 +220,10 @@
       "position": 23,
       "capture": 8,
       "restrict_type": "song_id",
-      "restrict_ids": ["revixy", "supernova"]
+      "restrict_ids": [
+        "revixy",
+        "supernova"
+      ]
     },
     {
       "position": 24,
@@ -212,7 +233,10 @@
       "position": 25,
       "capture": 10,
       "restrict_type": "song_id",
-      "restrict_ids": ["revixy", "supernova"]
+      "restrict_ids": [
+        "revixy",
+        "supernova"
+      ]
     },
     {
       "position": 26,
@@ -222,7 +246,10 @@
       "position": 27,
       "capture": 12,
       "restrict_type": "song_id",
-      "restrict_ids": ["revixy", "supernova"]
+      "restrict_ids": [
+        "revixy",
+        "supernova"
+      ]
     },
     {
       "position": 28,
@@ -232,7 +259,10 @@
       "position": 29,
       "capture": 14,
       "restrict_type": "song_id",
-      "restrict_ids": ["revixy", "supernova"]
+      "restrict_ids": [
+        "revixy",
+        "supernova"
+      ]
     },
     {
       "position": 30,
@@ -242,7 +272,11 @@
       "position": 31,
       "capture": 14,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"]
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
     },
     {
       "position": 32,
@@ -252,7 +286,11 @@
       "position": 33,
       "capture": 12,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"]
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
     },
     {
       "position": 34,
@@ -262,7 +300,11 @@
       "position": 35,
       "capture": 10,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"]
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
     },
     {
       "position": 36,
@@ -272,7 +314,11 @@
       "position": 37,
       "capture": 8,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"]
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
     },
     {
       "position": 38,
@@ -282,7 +328,11 @@
       "position": 39,
       "capture": 6,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"]
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ]
     },
     {
       "position": 40,
@@ -301,7 +351,9 @@
         "freefall",
         "monochromeprincess"
       ],
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 42,
@@ -320,7 +372,9 @@
         "freefall",
         "monochromeprincess"
       ],
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 44,
@@ -339,7 +393,9 @@
         "freefall",
         "monochromeprincess"
       ],
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 46,
@@ -358,7 +414,9 @@
         "freefall",
         "monochromeprincess"
       ],
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 48,
@@ -377,7 +435,9 @@
         "freefall",
         "monochromeprincess"
       ],
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 50,
@@ -387,8 +447,13 @@
       "position": 51,
       "capture": 14,
       "restrict_type": "song_id",
-      "restrict_ids": ["grimheart", "vector"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "grimheart",
+        "vector"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 52,
@@ -398,8 +463,13 @@
       "position": 53,
       "capture": 12,
       "restrict_type": "song_id",
-      "restrict_ids": ["grimheart", "vector"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "grimheart",
+        "vector"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 54,
@@ -409,8 +479,13 @@
       "position": 55,
       "capture": 10,
       "restrict_type": "song_id",
-      "restrict_ids": ["grimheart", "vector"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "grimheart",
+        "vector"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 56,
@@ -420,8 +495,13 @@
       "position": 57,
       "capture": 8,
       "restrict_type": "song_id",
-      "restrict_ids": ["grimheart", "vector"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "grimheart",
+        "vector"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 58,
@@ -431,8 +511,13 @@
       "position": 59,
       "capture": 6,
       "restrict_type": "song_id",
-      "restrict_ids": ["grimheart", "vector"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "grimheart",
+        "vector"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 60,
@@ -442,8 +527,13 @@
       "position": 61,
       "capture": 6,
       "restrict_type": "song_id",
-      "restrict_ids": ["revixy", "supernova"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "revixy",
+        "supernova"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 62,
@@ -453,8 +543,13 @@
       "position": 63,
       "capture": 8,
       "restrict_type": "song_id",
-      "restrict_ids": ["revixy", "supernova"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "revixy",
+        "supernova"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 64,
@@ -464,8 +559,13 @@
       "position": 65,
       "capture": 10,
       "restrict_type": "song_id",
-      "restrict_ids": ["revixy", "supernova"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "revixy",
+        "supernova"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 66,
@@ -475,8 +575,13 @@
       "position": 67,
       "capture": 12,
       "restrict_type": "song_id",
-      "restrict_ids": ["revixy", "supernova"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "revixy",
+        "supernova"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 68,
@@ -486,8 +591,13 @@
       "position": 69,
       "capture": 14,
       "restrict_type": "song_id",
-      "restrict_ids": ["revixy", "supernova"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "revixy",
+        "supernova"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 70,
@@ -497,8 +607,14 @@
       "position": 71,
       "capture": 14,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 72,
@@ -508,8 +624,14 @@
       "position": 73,
       "capture": 12,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 74,
@@ -519,8 +641,14 @@
       "position": 75,
       "capture": 10,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 76,
@@ -530,8 +658,14 @@
       "position": 77,
       "capture": 8,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 78,
@@ -541,8 +675,14 @@
       "position": 79,
       "capture": 6,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
-      "step_type": ["randomsong"]
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 80,
@@ -552,8 +692,14 @@
       "position": 81,
       "capture": 6,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
-      "step_type": ["speedlimit"],
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 3
     },
     {
@@ -564,8 +710,14 @@
       "position": 83,
       "capture": 8,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
-      "step_type": ["speedlimit"],
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 3
     },
     {
@@ -576,8 +728,14 @@
       "position": 85,
       "capture": 10,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
-      "step_type": ["speedlimit"],
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 3
     },
     {
@@ -588,8 +746,14 @@
       "position": 87,
       "capture": 12,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
-      "step_type": ["speedlimit"],
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 3
     },
     {
@@ -600,8 +764,14 @@
       "position": 89,
       "capture": 14,
       "restrict_type": "song_id",
-      "restrict_ids": ["diode", "freefall", "monochromeprincess"],
-      "step_type": ["speedlimit"],
+      "restrict_ids": [
+        "diode",
+        "freefall",
+        "monochromeprincess"
+      ],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 3
     },
     {

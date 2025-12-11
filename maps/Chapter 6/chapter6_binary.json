@@ -52,7 +52,10 @@
       "position": 4,
       "capture": 45,
       "restrict_type": "song_id",
-      "restrict_ids": ["redolentshape", "guardina"]
+      "restrict_ids": [
+        "redolentshape",
+        "guardina"
+      ]
     },
     {
       "position": 5,
@@ -87,7 +90,10 @@
       "position": 9,
       "capture": 50,
       "restrict_type": "song_id",
-      "restrict_ids": ["redolentshape", "guardina"]
+      "restrict_ids": [
+        "redolentshape",
+        "guardina"
+      ]
     },
     {
       "position": 10,
@@ -122,7 +128,10 @@
       "position": 14,
       "capture": 55,
       "restrict_type": "song_id",
-      "restrict_ids": ["redolentshape", "guardina"]
+      "restrict_ids": [
+        "redolentshape",
+        "guardina"
+      ]
     },
     {
       "position": 15,
@@ -157,7 +166,10 @@
       "position": 19,
       "capture": 60,
       "restrict_type": "song_id",
-      "restrict_ids": ["redolentshape", "guardina"]
+      "restrict_ids": [
+        "redolentshape",
+        "guardina"
+      ]
     },
     {
       "position": 20,

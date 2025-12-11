@@ -183,7 +183,9 @@
     },
     {
       "position": 13,
-      "step_type": ["randomsong"],
+      "step_type": [
+        "randomsong"
+      ],
       "restrict_type": "song_id",
       "restrict_ids": [
         "epitaxy",

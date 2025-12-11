@@ -71,7 +71,9 @@
       "capture": 3,
       "restrict_id": "prelude",
       "restrict_type": "pack_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 5,
@@ -107,7 +109,9 @@
       "capture": 7,
       "restrict_id": "prelude",
       "restrict_type": "pack_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 10,
@@ -143,13 +147,17 @@
       "capture": 9,
       "restrict_id": "prelude",
       "restrict_type": "pack_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "position": 15,
       "__v": 0,
       "capture": 115,
-      "step_type": ["plusstamina"],
+      "step_type": [
+        "plusstamina"
+      ],
       "plus_stamina_value": 4
     },
     {
