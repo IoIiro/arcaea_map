@@ -12,8 +12,14 @@
   "is_beyond": true,
   "stamina_cost": 3,
   "beyond_health": 250,
-  "character_affinity": [58, 30],
-  "affinity_multiplier": [1.7, 3],
+  "character_affinity": [
+    58,
+    30
+  ],
+  "affinity_multiplier": [
+    1.7,
+    3
+  ],
   "step_count": 4,
   "custom_bg": "",
   "is_breached": false,
@@ -28,12 +34,12 @@
     {
       "map_id": "byd_freefall",
       "position": 0,
-      "capture": 1.0714285714285714
+      "capture": 1
     },
     {
       "map_id": "byd_freefall",
       "position": 1,
-      "capture": 1.0714285714285714,
+      "capture": 1,
       "items": [
         {
           "type": "fragment",
@@ -44,7 +50,7 @@
     {
       "map_id": "byd_freefall",
       "position": 2,
-      "capture": 247.85714285714286,
+      "capture": 248,
       "items": [
         {
           "type": "core",

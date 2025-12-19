@@ -12,8 +12,16 @@
   "is_beyond": true,
   "stamina_cost": 3,
   "beyond_health": 250,
-  "character_affinity": [10, 37, 7],
-  "affinity_multiplier": [3, 2.7, 1.8],
+  "character_affinity": [
+    10,
+    37,
+    7
+  ],
+  "affinity_multiplier": [
+    3,
+    2.7,
+    1.8
+  ],
   "step_count": 5,
   "custom_bg": "",
   "is_breached": false,
@@ -28,7 +36,7 @@
     {
       "map_id": "byd_trappola",
       "position": 0,
-      "capture": 66.05263157894737
+      "capture": 66
     },
     {
       "map_id": "byd_trappola",
@@ -44,7 +52,7 @@
     {
       "map_id": "byd_trappola",
       "position": 2,
-      "capture": 83.1578947368421,
+      "capture": 83,
       "items": [
         {
           "type": "fragment",
@@ -55,7 +63,7 @@
     {
       "map_id": "byd_trappola",
       "position": 3,
-      "capture": 0.7894736842105263,
+      "capture": 1,
       "items": [
         {
           "type": "core",

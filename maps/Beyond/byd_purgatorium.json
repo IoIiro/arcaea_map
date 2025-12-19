@@ -12,8 +12,14 @@
   "is_beyond": true,
   "stamina_cost": 3,
   "beyond_health": 200,
-  "character_affinity": [13, 1],
-  "affinity_multiplier": [2.6, 1.6],
+  "character_affinity": [
+    13,
+    1
+  ],
+  "affinity_multiplier": [
+    2.6,
+    1.6
+  ],
   "step_count": 5,
   "custom_bg": "",
   "is_breached": false,

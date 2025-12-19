@@ -12,8 +12,14 @@
   "is_beyond": true,
   "stamina_cost": 3,
   "beyond_health": 150,
-  "character_affinity": [11, 12],
-  "affinity_multiplier": [2.5, 1.7],
+  "character_affinity": [
+    11,
+    12
+  ],
+  "affinity_multiplier": [
+    2.5,
+    1.7
+  ],
   "step_count": 5,
   "custom_bg": "",
   "is_breached": false,
@@ -28,15 +34,17 @@
     {
       "map_id": "byd_nexttoyou",
       "position": 0,
-      "capture": 74.21052631578947,
+      "capture": 74,
       "restrict_id": "nijuusei",
       "restrict_type": "pack_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "map_id": "byd_nexttoyou",
       "position": 1,
-      "capture": 0.7894736842105263,
+      "capture": 1,
       "items": [
         {
           "type": "fragment",
@@ -47,7 +55,7 @@
     {
       "map_id": "byd_nexttoyou",
       "position": 2,
-      "capture": 74.21052631578947,
+      "capture": 74,
       "items": [
         {
           "type": "fragment",
@@ -58,7 +66,7 @@
     {
       "map_id": "byd_nexttoyou",
       "position": 3,
-      "capture": 0.7894736842105263,
+      "capture": 1,
       "items": [
         {
           "type": "fragment",

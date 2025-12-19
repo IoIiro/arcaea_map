@@ -35,12 +35,12 @@
         {
             "map_id": "byd_laqryma",
             "position": 0,
-            "capture": 198.4168865435356
+            "capture": 198
         },
         {
             "map_id": "byd_laqryma",
             "position": 1,
-            "capture": 0.79155672823219,
+            "capture": 1,
             "items": [
                 {
                     "type": "fragment",
@@ -51,7 +51,7 @@
         {
             "map_id": "byd_laqryma",
             "position": 2,
-            "capture": 0.79155672823219,
+            "capture": 1,
             "items": [
                 {
                     "type": "core",

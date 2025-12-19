@@ -12,8 +12,14 @@
   "is_beyond": true,
   "stamina_cost": 3,
   "beyond_health": 250,
-  "character_affinity": [13, 1],
-  "affinity_multiplier": [2.6, 1.6],
+  "character_affinity": [
+    13,
+    1
+  ],
+  "affinity_multiplier": [
+    2.6,
+    1.6
+  ],
   "step_count": 4,
   "custom_bg": "",
   "is_breached": false,
@@ -28,12 +34,12 @@
     {
       "map_id": "byd_dement",
       "position": 0,
-      "capture": 100.2865329512894
+      "capture": 100
     },
     {
       "map_id": "byd_dement",
       "position": 1,
-      "capture": 110.31518624641834,
+      "capture": 110,
       "items": [
         {
           "type": "core",
@@ -45,7 +51,7 @@
     {
       "map_id": "byd_dement",
       "position": 2,
-      "capture": 39.39828080229226,
+      "capture": 40,
       "items": [
         {
           "type": "fragment",

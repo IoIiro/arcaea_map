@@ -12,8 +12,16 @@
   "is_beyond": true,
   "stamina_cost": 3,
   "beyond_health": 250,
-  "character_affinity": [41, 66, 67],
-  "affinity_multiplier": [2.2, 2.7, 2.3],
+  "character_affinity": [
+    41,
+    66,
+    67
+  ],
+  "affinity_multiplier": [
+    2.2,
+    2.7,
+    2.3
+  ],
   "step_count": 4,
   "custom_bg": "",
   "is_breached": false,
@@ -28,12 +36,12 @@
     {
       "map_id": "byd_impact",
       "position": 0,
-      "capture": 248.15789473684208
+      "capture": 248
     },
     {
       "map_id": "byd_impact",
       "position": 1,
-      "capture": 1.0526315789473684,
+      "capture": 1,
       "items": [
         {
           "type": "fragment",
@@ -44,7 +52,7 @@
     {
       "map_id": "byd_impact",
       "position": 2,
-      "capture": 0.7894736842105263,
+      "capture": 1,
       "items": [
         {
           "type": "core",

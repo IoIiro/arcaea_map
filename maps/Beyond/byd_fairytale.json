@@ -12,8 +12,14 @@
   "is_beyond": true,
   "stamina_cost": 3,
   "beyond_health": 200,
-  "character_affinity": [0, 1],
-  "affinity_multiplier": [2.5, 1.5],
+  "character_affinity": [
+    0,
+    1
+  ],
+  "affinity_multiplier": [
+    2.5,
+    1.5
+  ],
   "step_count": 3,
   "custom_bg": "",
   "is_breached": false,
@@ -29,7 +35,9 @@
       "map_id": "byd_fairytale",
       "position": 0,
       "capture": 100,
-      "step_type": ["speedlimit"],
+      "step_type": [
+        "speedlimit"
+      ],
       "speed_limit_value": 65
     },
     {

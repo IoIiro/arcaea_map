@@ -12,8 +12,18 @@
   "is_beyond": true,
   "stamina_cost": 3,
   "beyond_health": 150,
-  "character_affinity": [0, 15, 14, 16],
-  "affinity_multiplier": [2.4, 1.9, 2.4, 2.9],
+  "character_affinity": [
+    0,
+    15,
+    14,
+    16
+  ],
+  "affinity_multiplier": [
+    2.4,
+    1.9,
+    2.4,
+    2.9
+  ],
   "step_count": 6,
   "custom_bg": "",
   "is_breached": false,
@@ -54,7 +64,9 @@
       ],
       "restrict_id": "core",
       "restrict_type": "pack_id",
-      "step_type": ["randomsong"]
+      "step_type": [
+        "randomsong"
+      ]
     },
     {
       "map_id": "byd_lumia",
