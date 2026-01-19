@@ -168,8 +168,8 @@
     {
       "position": 27,
       "capture": 7,
-      "restrict_type": "song_id",
-      "restrict_id": "Memory Archive",
+      "restrict_type": "pack_id",
+      "restrict_id": "single",
       "step_type": [
         "randomsong"
       ]

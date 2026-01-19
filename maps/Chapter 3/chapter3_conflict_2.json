@@ -450,11 +450,85 @@
     {
       "position": 40,
       "__v": 0,
-      "capture": 0,
+      "capture": 10,
       "items": [
         {
           "id": "nhelv",
           "type": "world_song"
+        }
+      ]
+    },
+    {
+      "position": 41,
+      "__v": 0,
+      "capture": 100
+    },
+    {
+      "position": 42,
+      "__v": 0,
+      "capture": 100
+    },
+    {
+      "position": 43,
+      "__v": 0,
+      "capture": 100,
+      "step_type": [
+        "plusstamina"
+      ],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 44,
+      "__v": 0,
+      "capture": 100
+    },
+    {
+      "position": 45,
+      "__v": 0,
+      "capture": 100,
+      "items": [
+        {
+          "id": "core_ambivalent",
+          "type": "core",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "position": 46,
+      "__v": 0,
+      "capture": 100
+    },
+    {
+      "position": 47,
+      "__v": 0,
+      "capture": 100,
+      "step_type": [
+        "plusstamina"
+      ],
+      "plus_stamina_value": 2
+    },
+    {
+      "position": 48,
+      "__v": 0,
+      "capture": 100
+    },
+    {
+      "position": 49,
+      "__v": 0,
+      "capture": 100,
+      "restrict_id": "nhelv",
+      "restrict_type": "song_id"
+    },
+    {
+      "position": 50,
+      "__v": 0,
+      "capture": 100,
+      "items": [
+        {
+          "id": "core_ambivalent",
+          "type": "core",
+          "amount": 5
         }
       ]
     }
