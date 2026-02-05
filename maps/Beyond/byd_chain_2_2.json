@@ -1,0 +1,79 @@
+{
+    "map_id": "byd_chain_2_2",
+    "requires_any": [],
+    "is_legacy": false,
+    "character_affinity": [],
+    "affinity_multiplier": [],
+    "chapter": 2001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": [
+        "einherjar2",
+        "libertas3"
+    ],
+    "require_type": "chart_unlock",
+    "is_breached": true,
+    "stamina_cost": 3,
+    "new_law": "lowlevel",
+    "coordinate": "-270,150",
+    "beyond_health": 310,
+    "chain_info": {
+        "index": 2,
+        "id": "beyond_chain_2"
+    },
+    "step_count": 5,
+    "custom_bg": "",
+    "disable_over": false,
+    "is_beyond": true,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "einherjar2"
+        },
+        {
+            "type": "chart_unlock",
+            "id": "libertas3"
+        }
+    ],
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ],
+            "position": 5
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 1000
+                }
+            ],
+            "position": 10
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ],
+            "position": 15
+        },
+        {
+            "items": [
+                {
+                    "id": "einherjar3",
+                    "type": "world_song"
+                }
+            ],
+            "position": 31
+        }
+    ]
+}

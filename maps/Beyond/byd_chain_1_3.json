@@ -1,0 +1,385 @@
+{
+    "map_id": "byd_chain_1_3",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": [
+        "qualia3",
+        "antithese2"
+    ],
+    "require_type": "chart_unlock",
+    "coordinate": "-147,-230",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 280,
+    "character_affinity": [
+        23,
+        45
+    ],
+    "affinity_multiplier": [
+        1.6,
+        1.9
+    ],
+    "chain_info": {
+        "index": 2,
+        "id": "beyond_chain_1"
+    },
+    "step_count": 4,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "qualia3"
+        },
+        {
+            "type": "chart_unlock",
+            "id": "antithese2"
+        }
+    ],
+    "steps": [
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 0,
+            "capture": 13
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 1,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 2,
+            "capture": 15
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 3,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 4,
+            "capture": 7
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 5,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 6,
+            "capture": 10
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 7,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 8,
+            "capture": 3
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 9,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 10,
+            "capture": 5
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 11,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 12,
+            "capture": 15
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 13,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 14,
+            "capture": 15
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 15,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id",
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 1000
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 16,
+            "capture": 15
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 17,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 18,
+            "capture": 5
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 19,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 20,
+            "capture": 15
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 21,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 22,
+            "capture": 5
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 23,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 24,
+            "capture": 13
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 25,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 26,
+            "capture": 15
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 27,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 28,
+            "capture": 10
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 29,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 30,
+            "capture": 10,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 31,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 32,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 33,
+            "capture": 15
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 34,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 35,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 36,
+            "capture": 5
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 37,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 38,
+            "capture": 2,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese",
+                "heavensdoor"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 39,
+            "capture": 5
+        },
+        {
+            "map_id": "byd_chain_1_3",
+            "position": 40,
+            "capture": 3,
+            "restrict_id": [
+                "zettai"
+            ],
+            "restrict_type": "pack_id"
+        },
+    ]
+}

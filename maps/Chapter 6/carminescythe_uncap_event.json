@@ -64,7 +64,7 @@
       "position": 7,
       "capture": 4,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 8,
@@ -104,7 +104,7 @@
       "position": 15,
       "capture": 5,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 16,
@@ -151,7 +151,7 @@
       "position": 23,
       "capture": 6,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 24,
@@ -197,7 +197,7 @@
       "position": 31,
       "capture": 7,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 32,
@@ -244,7 +244,7 @@
       "position": 39,
       "capture": 8,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 40,
@@ -284,7 +284,7 @@
       "position": 47,
       "capture": 9,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 48,
@@ -331,7 +331,7 @@
       "position": 55,
       "capture": 10,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 56,
@@ -377,7 +377,7 @@
       "position": 63,
       "capture": 11,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 64,
@@ -424,7 +424,7 @@
       "position": 71,
       "capture": 12,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 72,
@@ -464,7 +464,7 @@
       "position": 79,
       "capture": 13,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 80,
@@ -511,7 +511,7 @@
       "position": 87,
       "capture": 14,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 88,
@@ -557,7 +557,7 @@
       "position": 95,
       "capture": 15,
       "restrict_type": "song_id",
-      "restrict_id": "carmine"
+      "restrict_id": "carminescythe"
     },
     {
       "position": 96,

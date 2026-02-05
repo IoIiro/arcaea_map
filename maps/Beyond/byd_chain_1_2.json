@@ -1,0 +1,129 @@
+{
+    "map_id": "byd_chain_1_2",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": [
+        "kanagawa3",
+        "qualia2"
+    ],
+    "require_type": "chart_unlock",
+    "coordinate": "147,-230",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 220,
+    "character_affinity": [
+        1,
+        6,
+        7,
+        17
+    ],
+    "affinity_multiplier": [
+        1.8,
+        1.5,
+        1.9,
+        2.1
+    ],
+    "chain_info": {
+        "index": 1,
+        "id": "beyond_chain_1"
+    },
+    "step_count": 6,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "kanagawa3"
+        },
+        {
+            "type": "chart_unlock",
+            "id": "qualia2"
+        }
+    ],
+    "steps": [
+        {
+            "map_id": "byd_chain_1_2",
+            "position": 0,
+            "capture": 1,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_2",
+            "position": 1,
+            "capture": 7,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 30
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_2",
+            "position": 2,
+            "capture": 19,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 120
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_2",
+            "position": 3,
+            "capture": 37,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 270
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_2",
+            "position": 4,
+            "capture": 61,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 480
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_2",
+            "position": 5,
+            "capture": 91,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_2",
+            "position": 6,
+            "capture": 4,
+            "items": [
+                {
+                    "type": "world_song",
+                    "id": "qualia3"
+                }
+            ]
+        }
+    ]
+}

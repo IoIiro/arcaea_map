@@ -1,0 +1,133 @@
+{
+    "map_id": "byd_chain_1_1",
+    "requires_any": [],
+    "is_legacy": false,
+    "chapter": 1001,
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "is_repeatable": false,
+    "require_id": "kanagawa2",
+    "require_type": "chart_unlock",
+    "coordinate": "238,15",
+    "is_beyond": true,
+    "stamina_cost": 3,
+    "beyond_health": 160,
+    "character_affinity": [
+        0,
+        14,
+        15,
+        16
+    ],
+    "affinity_multiplier": [
+        2.4,
+        2.5,
+        2,
+        2.9
+    ],
+    "chain_info": {
+        "index": 0,
+        "id": "beyond_chain_1"
+    },
+    "step_count": 7,
+    "custom_bg": "",
+    "is_breached": false,
+    "disable_over": false,
+    "requires": [
+        {
+            "type": "chart_unlock",
+            "id": "kanagawa2"
+        }
+    ],
+    "steps": [
+        {
+            "map_id": "byd_chain_1_1",
+            "position": 0,
+            "capture": 10,
+            "restrict_ids": [
+                "kanagawa",
+                "babaroque",
+                "shadesoflight"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_1",
+            "position": 1,
+            "capture": 30,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_1",
+            "position": 2,
+            "capture": 10,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_1",
+            "position": 3,
+            "capture": 30,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 700
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_1",
+            "position": 4,
+            "capture": 10,
+            "restrict_ids": [
+                "kanagawa",
+                "babaroque",
+                "shadesoflight"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_1",
+            "position": 5,
+            "capture": 30,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_1_1",
+            "position": 6,
+            "capture": 10,
+            "restrict_ids": [
+                "kanagawa",
+                "qualia",
+                "antithese"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_1_1",
+            "position": 7,
+            "capture": 30,
+            "items": [
+                {
+                    "type": "world_song",
+                    "id": "kanagawa3"
+                }
+            ]
+        }
+    ]
+}
