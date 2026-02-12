@@ -23,7 +23,7 @@
     "requires_any": [],
     "stamina_cost": 2,
     "step_count": 28,
-    "curr_position": 27,
+    "curr_position": 0,
     "curr_capture": 0,
     "is_locked": false,
     "steps": [
