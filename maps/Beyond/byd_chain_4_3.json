@@ -1,0 +1,103 @@
+{
+    "map_id": "byd_chain_4_3",
+    "affinity_multiplier": [],
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "beyond_health": 250,
+    "chain_info": {
+        "id": "beyond_chain_4",
+        "index": 1
+    },
+    "chapter": 2003,
+    "character_affinity": [],
+    "coordinate": "160,-180",
+    "custom_bg": "",
+    "disable_over": false,
+    "is_beyond": true,
+    "is_breached": true,
+    "is_linkplay_allowed": false,
+    "is_repeatable": false,
+    "new_law": "bonus_single_etrbyd",
+    "require_id": "bethere2",
+    "require_type": "chart_unlock",
+    "requires": [
+        {
+            "id": "bethere2",
+            "type": "chart_unlock"
+        }
+    ],
+    "requires_any": [],
+    "stamina_cost": 3,
+    "step_count": 8,
+    "curr_position": 0,
+    "curr_capture": 0,
+    "is_locked": false,
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ],
+            "position": 2
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ],
+            "position": 3
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 200
+                }
+            ],
+            "position": 4
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ],
+            "position": 5
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 300
+                }
+            ],
+            "position": 6
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ],
+            "position": 7
+        },
+        {
+            "items": [
+                {
+                    "id": "bethere3",
+                    "type": "world_song"
+                }
+            ],
+            "position": 8
+        }
+    ]
+}

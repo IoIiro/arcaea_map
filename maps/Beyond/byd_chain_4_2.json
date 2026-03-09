@@ -1,0 +1,92 @@
+{
+    "map_id": "byd_chain_4_2",
+    "affinity_multiplier": [],
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "beyond_health": 250,
+    "chain_info": {
+        "id": "beyond_chain_4",
+        "index": 2
+    },
+    "chapter": 2003,
+    "character_affinity": [],
+    "coordinate": "-280,0",
+    "custom_bg": "",
+    "disable_over": false,
+    "is_beyond": true,
+    "is_breached": true,
+    "is_linkplay_allowed": false,
+    "is_repeatable": false,
+    "new_law": "bonus_bg_prelude_conflict",
+    "require_id": [
+        "saintorsinner2",
+        "kyogenkigo3"
+    ],
+    "require_type": "chart_unlock",
+    "requires": [
+        {
+            "id": "saintorsinner2",
+            "type": "chart_unlock"
+        },
+        {
+            "id": "kyogenkigo3",
+            "type": "chart_unlock"
+        }
+    ],
+    "requires_any": [],
+    "stamina_cost": 3,
+    "step_count": 6,
+    "curr_position": 0,
+    "curr_capture": 0,
+    "is_locked": true,
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ],
+            "position": 2
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ],
+            "position": 3
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 800
+                }
+            ],
+            "position": 4
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ],
+            "position": 5
+        },
+        {
+            "items": [
+                {
+                    "id": "saintorsinner3",
+                    "type": "world_song"
+                }
+            ],
+            "position": 7
+        }
+    ]
+}
