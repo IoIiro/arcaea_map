@@ -29,9 +29,70 @@
     "requires_any": [],
     "stamina_cost": 3,
     "step_count": 6,
-    "curr_position": 0,
-    "curr_capture": 0,
-    "is_locked": false,
+    "steps": [
+        {
+            "map_id": "byd_chain_4_1",
+            "position": 0,
+            "capture": 40
+        },
+        {
+            "map_id": "byd_chain_4_1",
+            "position": 1,
+            "capture": 40,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 200
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_1",
+            "position": 2,
+            "capture": 40,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_1",
+            "position": 3,
+            "capture": 40,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 300
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_1",
+            "position": 4,
+            "capture": 40,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_1",
+            "position": 5,
+            "capture": 0,
+            "items": [
+                {
+                    "id": "kyogenkigo3",
+                    "type": "world_song"
+                }
+            ]
+        }
+    ],
     "rewards": [
         {
             "items": [

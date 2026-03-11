@@ -29,9 +29,107 @@
     "requires_any": [],
     "stamina_cost": 3,
     "step_count": 8,
-    "curr_position": 0,
-    "curr_capture": 0,
-    "is_locked": false,
+    "steps": [
+        {
+            "map_id": "byd_chain_4_3",
+            "position": 0,
+            "capture": 65.11976047904191,
+            "restrict_ids": [
+                "yourvoiceso",
+                "modelista",
+                "bethere",
+                "callmyname",
+                "dottodot",
+                "feelssoright",
+                "chaintonite",
+                "onestepcloser",
+                "mylifeismine",
+                "signal",
+                "meltyrhapsody"
+            ],
+            "restrict_type": "song_id"
+        },
+        {
+            "map_id": "byd_chain_4_3",
+            "position": 1,
+            "capture": 29.940119760479043,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 100
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_3",
+            "position": 2,
+            "capture": 29.940119760479043,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_3",
+            "position": 3,
+            "capture": 29.940119760479043,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 200
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_3",
+            "position": 4,
+            "capture": 29.940119760479043,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_3",
+            "position": 5,
+            "capture": 29.940119760479043,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 300
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_3",
+            "position": 6,
+            "capture": 35.17964071856287,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_3",
+            "position": 7,
+            "capture": 0,
+            "items": [
+                {
+                    "id": "bethere3",
+                    "type": "world_song"
+                }
+            ]
+        }
+    ],
     "rewards": [
         {
             "items": [

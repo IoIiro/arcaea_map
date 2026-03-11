@@ -36,9 +36,71 @@
     "requires_any": [],
     "stamina_cost": 3,
     "step_count": 6,
-    "curr_position": 0,
-    "curr_capture": 0,
-    "is_locked": true,
+    "steps": [
+        {
+            "map_id": "byd_chain_4_2",
+            "position": 0,
+            "capture": 50
+        },
+        {
+            "map_id": "byd_chain_4_2",
+            "position": 1,
+            "capture": 50,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_2",
+            "position": 2,
+            "capture": 50,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_2",
+            "position": 3,
+            "capture": 50,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 800
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_2",
+            "position": 4,
+            "capture": 50,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_chain_4_2",
+            "position": 5,
+            "capture": 0,
+            "items": [
+                {
+                    "id": "saintorsinner3",
+                    "type": "world_song"
+                }
+            ]
+        }
+    ],
     "rewards": [
         {
             "items": [
