@@ -1,0 +1,85 @@
+
+{
+    "map_id": "byd_eccentrictale",
+    "affinity_multiplier": [],
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "beyond_health": 200,
+    "chapter": 2003,
+    "character_affinity": [],
+    "coordinate": "-500,100",
+    "custom_bg": "",
+    "disable_over": true,
+    "is_beyond": true,
+    "is_breached": true,
+    "is_linkplay_allowed": false,
+    "is_repeatable": false,
+    "new_law": "fixed_bpm_low",
+    "require_id": "eccentrictale2",
+    "require_type": "chart_unlock",
+    "requires": [
+        {
+            "id": "eccentrictale2",
+            "type": "chart_unlock"
+        }
+    ],
+    "requires_any": [],
+    "stamina_cost": 3,
+    "step_count": 5,
+    "curr_position": 0,
+    "curr_capture": 0,
+    "is_locked": false,
+    "steps": [
+        {
+            "map_id": "byd_eccentrictale",
+            "position": 0,
+            "capture": 50
+        },
+        {
+            "map_id": "byd_eccentrictale",
+            "position": 1,
+            "capture": 50,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_eccentrictale",
+            "position": 2,
+            "capture": 50,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 500
+                }
+            ]
+        },
+        {
+            "map_id": "byd_eccentrictale",
+            "position": 3,
+            "capture": 50,
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "map_id": "byd_eccentrictale",
+            "position": 4,
+            "capture": 0,
+            "items": [
+                {
+                    "id": "eccentrictale3",
+                    "type": "world_song"
+                }
+            ]
+        }
+    ]
+}
