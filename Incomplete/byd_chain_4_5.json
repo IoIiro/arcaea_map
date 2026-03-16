@@ -1,0 +1,96 @@
+{
+    "map_id": "byd_chain_4_5",
+    "affinity_multiplier": [],
+    "available_from": -1,
+    "available_to": 9999999999999,
+    "beyond_health": 400,
+    "chain_info": {
+        "id": "beyond_chain_4",
+        "index": 4
+    },
+    "chapter": 2003,
+    "character_affinity": [],
+    "coordinate": "0,160",
+    "custom_bg": "",
+    "disable_over": false,
+    "is_beyond": true,
+    "is_breached": true,
+    "is_linkplay_allowed": false,
+    "is_repeatable": false,
+    "new_law": "bonus_damage_rating",
+    "require_id": [
+        "saintorsinner3",
+        "heavenlycaress3",
+        "axiumcrisis2"
+    ],
+    "require_type": "chart_unlock",
+    "requires": [
+        {
+            "id": "saintorsinner3",
+            "type": "chart_unlock"
+        },
+        {
+            "id": "heavenlycaress3",
+            "type": "chart_unlock"
+        },
+        {
+            "id": "axiumcrisis2",
+            "type": "chart_unlock"
+        }
+    ],
+    "requires_any": [],
+    "stamina_cost": 3,
+    "step_count": 6,
+    "curr_position": 0,
+    "curr_capture": 0,
+    "is_locked": true,
+    "rewards": [
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 500
+                }
+            ],
+            "position": 1
+        },
+        {
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 500
+                }
+            ],
+            "position": 2
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ],
+            "position": 3
+        },
+        {
+            "items": [
+                {
+                    "type": "core",
+                    "id": "core_generic",
+                    "amount": 4
+                }
+            ],
+            "position": 21
+        },
+        {
+            "items": [
+                {
+                    "id": "axiumcrisis3",
+                    "type": "world_song"
+                }
+            ],
+            "position": 28
+        }
+    ]
+}
