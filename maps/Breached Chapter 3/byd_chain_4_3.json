@@ -33,7 +33,7 @@
         {
             "map_id": "byd_chain_4_3",
             "position": 0,
-            "capture": 65.11976047904191,
+            "capture": 65,
             "restrict_ids": [
                 "yourvoiceso",
                 "modelista",
@@ -52,7 +52,7 @@
         {
             "map_id": "byd_chain_4_3",
             "position": 1,
-            "capture": 29.940119760479043,
+            "capture": 30,
             "items": [
                 {
                     "type": "fragment",
@@ -63,7 +63,7 @@
         {
             "map_id": "byd_chain_4_3",
             "position": 2,
-            "capture": 29.940119760479043,
+            "capture": 30,
             "items": [
                 {
                     "type": "core",
@@ -75,7 +75,7 @@
         {
             "map_id": "byd_chain_4_3",
             "position": 3,
-            "capture": 29.940119760479043,
+            "capture": 30,
             "items": [
                 {
                     "type": "fragment",
@@ -86,7 +86,7 @@
         {
             "map_id": "byd_chain_4_3",
             "position": 4,
-            "capture": 29.940119760479043,
+            "capture": 30,
             "items": [
                 {
                     "type": "core",
@@ -98,7 +98,7 @@
         {
             "map_id": "byd_chain_4_3",
             "position": 5,
-            "capture": 29.940119760479043,
+            "capture": 30,
             "items": [
                 {
                     "type": "fragment",
@@ -109,7 +109,7 @@
         {
             "map_id": "byd_chain_4_3",
             "position": 6,
-            "capture": 35.17964071856287,
+            "capture": 35,
             "items": [
                 {
                     "type": "core",
