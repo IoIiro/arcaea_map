@@ -229,7 +229,7 @@
         {
             "position": 33,
             "capture": 99,
-            "restrict_type": "song_id",
+            "restrict_type": "pack_id",
             "restrict_id": "anima",
             "step_type": [
                 "randomsong"
