@@ -1,0 +1,410 @@
+{
+    "map_id": "chapter_9_scenery",
+    "require_id": "",
+    "require_type": "chapter_step",
+    "require_value": 90,
+    "requires_any": [],
+    "is_legacy": false,
+    "beyond_health": 100,
+    "character_affinity": [],
+    "affinity_multiplier": [],
+    "chapter": 9,
+    "available_from": -1,
+    "available_to": 2106124800000,
+    "is_repeatable": false,
+    "requires": [
+        {
+            "value": 90,
+            "type": "chapter_step",
+            "id": ""
+        }
+    ],
+    "coordinate": "0,-180",
+    "step_count": 66,
+    "custom_bg": "",
+    "stamina_cost": 2,
+    "is_breached": false,
+    "disable_over": false,
+    "curr_position": 0,
+    "curr_capture": 0,
+    "is_locked": false,
+    "steps": [
+        {
+            "position": 0,
+            "capture": 0,
+            "restrict_type": "song_id",
+            "restrict_ids": [
+                "phantasia",
+                "acheron",
+                "init",
+                "nightmare",
+                "aethercrest",
+                "extradimensional",
+                "wereallgonnadie",
+                "altergate",
+                "andrevivemelody",
+                "designant"
+            ]
+        },
+        {
+            "position": 1,
+            "capture": 10
+        },
+        {
+            "position": 2,
+            "capture": 10
+        },
+        {
+            "position": 3,
+            "capture": 10
+        },
+        {
+            "position": 4,
+            "capture": 10
+        },
+        {
+            "position": 5,
+            "capture": 10
+        },
+        {
+            "position": 6,
+            "capture": 10
+        },
+        {
+            "position": 7,
+            "capture": 10
+        },
+        {
+            "position": 8,
+            "capture": 10
+        },
+        {
+            "position": 9,
+            "capture": 10,
+            "step_type": [
+                "randomsong"
+            ]
+        },
+        {
+            "position": 10,
+            "capture": 10,
+            "step_type": [
+                "randomsong"
+            ]
+        },
+        {
+            "position": 11,
+            "capture": 10
+        },
+        {
+            "position": 12,
+            "capture": 10
+        },
+        {
+            "position": 13,
+            "capture": 10,
+            "items": [
+                {
+                    "type": "world_unlock",
+                    "id": "scenery_chap9"
+                }
+            ]
+        },
+        {
+            "position": 14,
+            "capture": 20
+        },
+        {
+            "position": 15,
+            "capture": 20
+        },
+        {
+            "position": 16,
+            "capture": 20
+        },
+        {
+            "position": 17,
+            "capture": 20
+        },
+        {
+            "position": 18,
+            "capture": 20,
+            "restrict_type": "song_id",
+            "restrict_ids": [
+                "phantasia",
+                "acheron",
+                "init",
+                "nightmare",
+                "aethercrest",
+                "extradimensional",
+                "wereallgonnadie",
+                "altergate",
+                "andrevivemelody",
+                "designant"
+            ]
+        },
+        {
+            "position": 19,
+            "capture": 20,
+            "restrict_type": "song_id",
+            "restrict_ids": [
+                "phantasia",
+                "acheron",
+                "init",
+                "nightmare",
+                "aethercrest",
+                "extradimensional",
+                "wereallgonnadie",
+                "altergate",
+                "andrevivemelody",
+                "designant"
+            ]
+        },
+        {
+            "position": 20,
+            "capture": 20
+        },
+        {
+            "position": 21,
+            "capture": 20
+        },
+        {
+            "position": 22,
+            "capture": 20
+        },
+        {
+            "position": 23,
+            "capture": 20
+        },
+        {
+            "position": 24,
+            "capture": 20
+        },
+        {
+            "position": 25,
+            "capture": 20
+        },
+        {
+            "position": 26,
+            "capture": 20,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 500
+                }
+            ]
+        },
+        {
+            "position": 27,
+            "capture": 30,
+            "step_type": [
+                "randomsong"
+            ]
+        },
+        {
+            "position": 28,
+            "capture": 30,
+            "step_type": [
+                "randomsong"
+            ]
+        },
+        {
+            "position": 29,
+            "capture": 30
+        },
+        {
+            "position": 30,
+            "capture": 30
+        },
+        {
+            "position": 31,
+            "capture": 30
+        },
+        {
+            "position": 32,
+            "capture": 30
+        },
+        {
+            "position": 33,
+            "capture": 30
+        },
+        {
+            "position": 34,
+            "capture": 30
+        },
+        {
+            "position": 35,
+            "capture": 30
+        },
+        {
+            "position": 36,
+            "capture": 30
+        },
+        {
+            "position": 37,
+            "capture": 30
+        },
+        {
+            "position": 38,
+            "capture": 30
+        },
+        {
+            "position": 39,
+            "capture": 30,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 1000
+                }
+            ]
+        },
+        {
+            "position": 40,
+            "capture": 40
+        },
+        {
+            "position": 41,
+            "capture": 40
+        },
+        {
+            "position": 42,
+            "capture": 40,
+            "restrict_type": "song_id",
+            "restrict_ids": [
+                "phantasia",
+                "acheron",
+                "init",
+                "nightmare",
+                "aethercrest",
+                "extradimensional",
+                "wereallgonnadie",
+                "altergate",
+                "andrevivemelody",
+                "designant"
+            ]
+        },
+        {
+            "position": 43,
+            "capture": 40,
+            "restrict_type": "song_id",
+            "restrict_ids": [
+                "phantasia",
+                "acheron",
+                "init",
+                "nightmare",
+                "aethercrest",
+                "extradimensional",
+                "wereallgonnadie",
+                "altergate",
+                "andrevivemelody",
+                "designant"
+            ]
+        },
+        {
+            "position": 44,
+            "capture": 40
+        },
+        {
+            "position": 45,
+            "capture": 40
+        },
+        {
+            "position": 46,
+            "capture": 40
+        },
+        {
+            "position": 47,
+            "capture": 40
+        },
+        {
+            "position": 48,
+            "capture": 40
+        },
+        {
+            "position": 49,
+            "capture": 40
+        },
+        {
+            "position": 50,
+            "capture": 40
+        },
+        {
+            "position": 51,
+            "capture": 40
+        },
+        {
+            "position": 52,
+            "capture": 40,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 1250
+                }
+            ]
+        },
+        {
+            "position": 53,
+            "capture": 50
+        },
+        {
+            "position": 54,
+            "capture": 50
+        },
+        {
+            "position": 55,
+            "capture": 50
+        },
+        {
+            "position": 56,
+            "capture": 50
+        },
+        {
+            "position": 57,
+            "capture": 50
+        },
+        {
+            "position": 58,
+            "capture": 50
+        },
+        {
+            "position": 59,
+            "capture": 50
+        },
+        {
+            "position": 60,
+            "capture": 50
+        },
+        {
+            "position": 61,
+            "capture": 50
+        },
+        {
+            "position": 62,
+            "capture": 50
+        },
+        {
+            "position": 63,
+            "capture": 50,
+            "step_type": [
+                "randomsong"
+            ]
+        },
+        {
+            "position": 64,
+            "capture": 50,
+            "step_type": [
+                "randomsong"
+            ]
+        },
+        {
+            "position": 65,
+            "capture": 0,
+            "items": [
+                {
+                    "type": "fragment",
+                    "amount": 1500
+                }
+            ]
+        }
+    ]
+}
